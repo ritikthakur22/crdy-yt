@@ -1,3 +1,9 @@
+## [1.0.4](https://github.com/ritikthakur22/morphe-patches/compare/v1.0.3...v1.0.4) (2026-08-30)
+
+### 🐛 Bug Fixes
+
+* resolve NPE when applying custom branding ([c30246e](https://github.com/ritikthakur22/morphe-patches/commit/c30246e5518aa3459425b04c443ee9adfd222a1b))
+
 ## [1.0.3](https://github.com/ritikthakur22/morphe-patches/compare/v1.0.2...v1.0.3) (2026-08-30)
 
 ### 🐛 Bug Fixes
