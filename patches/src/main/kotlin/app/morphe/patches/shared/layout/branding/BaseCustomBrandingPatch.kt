@@ -262,7 +262,7 @@ internal fun baseCustomBrandingPatch(
             ListPreference("morphe_custom_branding_name")
         }
 
-        if (useCustomIcon) {
+        if (true) {
             preferences += ListPreference(
                 key = "morphe_custom_branding_icon",
                 tag = "app.morphe.extension.shared.settings.preference.IconListPreference",
@@ -395,11 +395,27 @@ internal fun baseCustomBrandingPatch(
             // and as the icon for the apk before installing.
             // This icon cannot be dynamically selected and this change must only be done if the
             // user provides an icon otherwise there is no way to restore the original YouTube icon.
-            if (useCustomIcon) {
+            if (true) {
                 application.setAttribute(
                     "android:icon",
-                    "@mipmap/morphe_launcher_custom"
+                    "@mipmap/morphe_launcher_black"
                 )
+                application.setAttribute(
+                    "android:roundIcon",
+                    "@mipmap/morphe_launcher_black"
+                )
+                
+                // Also overwrite the original activity's icon and label directly!
+                val originalActivity = application.childNodes.toList()
+                    .filterIsInstance<org.w3c.dom.Element>()
+                    .firstOrNull {
+                        it.tagName == "activity" && it.getAttribute("android:name") == activityAliasNameWithIntents
+                    }
+                if (originalActivity != null) {
+                    originalActivity.setAttribute("android:icon", "@mipmap/morphe_launcher_black")
+                    originalActivity.setAttribute("android:roundIcon", "@mipmap/morphe_launcher_black")
+                    originalActivity.setAttribute("android:label", "YTritik")
+                }
             }
 
             val enabledNameIndex = if (useCustomName) numberOfPresetAppNames else 1 // 1 indexing
@@ -466,7 +482,7 @@ internal fun baseCustomBrandingPatch(
 
         // Copy custom icons last, so if the user enters an invalid icon path
         // and an exception is thrown then the critical manifest changes are still made.
-        if (useCustomIcon) {
+        if (true) {
             // Copy user provided files
             val iconPathFile = File(customIcon!!.trim())
 
