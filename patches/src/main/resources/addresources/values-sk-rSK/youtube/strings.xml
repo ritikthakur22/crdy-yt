@@ -460,7 +460,7 @@ Poznámka: Možno nebude fungovať na živých prenosoch"</string>
   <string name="morphe_swap_save_and_queue_actions_title">Zameniť akcie Uložiť a Zaradiť do fronty</string>
   <string name="morphe_swap_save_and_queue_actions_summary">Ťuknite pre možnosti fronty, ťuknite a podržte pre uloženie na neskôr</string>
   <string name="morphe_queue_override_flyout_menu_title">Nahradiť tlačidlo frontu rozbaľovacieho okna</string>
-  <string name="morphe_queue_override_flyout_menu_summary">Otvára rad Morphe namiesto radu YouTube</string>
+  <string name="morphe_queue_override_flyout_menu_summary">Otvára rad YTritik namiesto radu YouTube</string>
   <string name="morphe_queue_add_flyout_menu_title">Pridať položku ponuky do rozbaľovacej ponuky fronty informačného kanála</string>
   <string name="morphe_queue_add_flyout_menu_summary">Pridá ďalšiu položku do rozbaľovacej ponuky. Povoľte, ak sa \"Pridať do frontu\" nezobrazuje</string>
   <string name="morphe_queue_manager_check_failed_auth">Neprihlásený</string>
@@ -476,7 +476,7 @@ Poznámka: Možno nebude fungovať na živých prenosoch"</string>
   <string name="morphe_queue_manager_fetch_succeeded_create">Fronta vytvorená</string>
   <string name="morphe_queue_manager_fetch_succeeded_remove">Odstránené z fronty</string>
   <string name="morphe_queue_manager_fetch_succeeded_save">Fronta uložená do %s</string>
-  <string name="morphe_queue_manager_playlist_title">Morphe fronta</string>
+  <string name="morphe_queue_manager_playlist_title">YTritik fronta</string>
   <string name="morphe_queue_manager_add_to_queue">Pridať do fronty</string>
   <string name="morphe_queue_manager_add_to_queue_and_open_queue">Pridať do fronty a otvoriť</string>
   <string name="morphe_queue_manager_add_to_queue_and_play_video">Pridať do fronty a prehrať</string>
@@ -668,7 +668,7 @@ Je potrebné poskytnúť 'Cookies pre titulky'"</string>
   <!-- 'Notifications' should be translated using the same localized wording YouTube displays for the tab. -->
   <string name="morphe_hide_notifications_button_title">Zobraziť tlačidlo Nastavenia</string>
   <string name="morphe_show_search_button_title">Pozícia tlačidla Nastavenia</string>
-  <string name="morphe_show_search_button_index_title">Keď je zapnuté, klepnutím otvoríte nastavenia Morphe a podržaním nastavenia YouTube, vypnite, aby ste ich vymenili</string>
+  <string name="morphe_show_search_button_index_title">Keď je zapnuté, klepnutím otvoríte nastavenia YTritik a podržaním nastavenia YouTube, vypnite, aby ste ich vymenili</string>
   <string name="morphe_show_settings_button_title">Zmenšuje horizontálne rozostupy medzi tlačidlami</string>
   <string name="morphe_show_settings_button_index_title">Animuje prechody pri prepínaní medzi kartami</string>
   <string name="morphe_show_settings_button_type_title">Akcia tlačidla Nastavenia</string>
@@ -699,7 +699,7 @@ Na prístup k nastaveniam povoľte tlačidlo Nastavenia v časti Všeobecné →
   <string name="morphe_show_toolbar_settings_button_title">Zobraziť tlačidlo Nastavenia</string>
   <string name="morphe_show_toolbar_settings_button_index_title">Pozícia tlačidla Nastavenia</string>
   <string name="morphe_show_toolbar_settings_button_type_title">Akcia tlačidla Nastavenia</string>
-  <string name="morphe_show_toolbar_settings_button_type_summary">Keď je povolené, klepnutím sa otvoria nastavenia Morphe a dlhým stlačením nastavenia YouTube, vypnutím sa funkcie vymenia</string>
+  <string name="morphe_show_toolbar_settings_button_type_summary">Keď je povolené, klepnutím sa otvoria nastavenia YTritik a dlhým stlačením nastavenia YouTube, vypnutím sa funkcie vymenia</string>
   <!-- layout.hide.player.flyoutmenupanel.hidePlayerFlyoutMenuPatch -->
   <string name="morphe_hide_player_flyout_title">Rozbaľovacie menu</string>
   <string name="morphe_hide_player_flyout_summary">Vyberte, ktoré komponenty sa zobrazia v rozbaľovacej ponuke</string>

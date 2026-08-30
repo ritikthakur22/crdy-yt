@@ -454,13 +454,13 @@ Upozornění: Možná nebude fungovat u živých přenosů"</string>
   <string name="morphe_save_to_watch_later_success_toast">Video bylo úspěšně uloženo do seznamu pro pozdější zhlédnutí</string>
   <string name="morphe_save_to_watch_later_already_exists_toast">Toto video je již uloženo do seznamu pro pozdější zhlédnutí</string>
   <string name="morphe_save_to_watch_later_error_toast">Nelze uložit toto video do seznamu pro pozdější zhlédnutí</string>
-  <string name="morphe_queue_flyout_title">Přidat do Morphe fronty</string>
+  <string name="morphe_queue_flyout_title">Přidat do YTritik fronty</string>
   <string name="morphe_queue_restore_title">Udržet frontu mezi relacemi</string>
   <string name="morphe_queue_restore_summary">Fronta je zachována i po restartu aplikace</string>
   <string name="morphe_swap_save_and_queue_actions_title">Prohoďte akce Uložit a Zařadit do fronty</string>
   <string name="morphe_swap_save_and_queue_actions_summary">Klepnutím zobrazíte možnosti fronty, podržením uložíte pro pozdější zhlédnutí</string>
   <string name="morphe_queue_override_flyout_menu_title">Přepsat frontu flyout nabídky</string>
-  <string name="morphe_queue_override_flyout_menu_summary">Otevře frontu Morphe místo fronty YouTube</string>
+  <string name="morphe_queue_override_flyout_menu_summary">Otevře frontu YTritik místo fronty YouTube</string>
   <string name="morphe_queue_add_flyout_menu_title">Přidat položku nabídky pro frontu rozbalovací nabídky feedu</string>
   <string name="morphe_queue_add_flyout_menu_summary">Přidává další položku rozbalovací nabídky. Povolte to, pokud se nezobrazuje položka \"Přidat do fronty\"</string>
   <string name="morphe_queue_manager_check_failed_auth">Není přihlášen</string>
@@ -476,7 +476,7 @@ Upozornění: Možná nebude fungovat u živých přenosů"</string>
   <string name="morphe_queue_manager_fetch_succeeded_create">Fronta vytvořena</string>
   <string name="morphe_queue_manager_fetch_succeeded_remove">Odebráno z fronty</string>
   <string name="morphe_queue_manager_fetch_succeeded_save">Fronta uložena do %s</string>
-  <string name="morphe_queue_manager_playlist_title">Morphe fronta</string>
+  <string name="morphe_queue_manager_playlist_title">YTritik fronta</string>
   <string name="morphe_queue_manager_add_to_queue">Přidat do fronty</string>
   <string name="morphe_queue_manager_add_to_queue_and_open_queue">Přidat do fronty a otevřít</string>
   <string name="morphe_queue_manager_add_to_queue_and_play_video">Přidat do fronty a přehrát</string>
@@ -666,7 +666,7 @@ Chcete-li to opravit, zapněte 'Podvrhnout video streamy' a změňte 'Výchozí 
   <!-- 'Notifications' should be translated using the same localized wording YouTube displays for the tab. -->
   <string name="morphe_hide_notifications_button_title">Zobrazit tlačítko Nastavení</string>
   <string name="morphe_show_search_button_title">Pozice tlačítka Nastavení</string>
-  <string name="morphe_show_search_button_index_title">Při povolení klepnutím otevřete nastavení Morphe a podržením nastavení YouTube, zakažte pro zaměnění</string>
+  <string name="morphe_show_search_button_index_title">Při povolení klepnutím otevřete nastavení YTritik a podržením nastavení YouTube, zakažte pro zaměnění</string>
   <string name="morphe_show_settings_button_title">Zmenšuje horizontální mezeru mezi tlačítky</string>
   <string name="morphe_show_settings_button_index_title">Animuje přechody při přepínání mezi kartami</string>
   <string name="morphe_show_settings_button_type_title">Akce tlačítka nastavení</string>

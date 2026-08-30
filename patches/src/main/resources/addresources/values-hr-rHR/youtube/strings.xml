@@ -456,13 +456,13 @@ Info: Možda neće raditi na prijenosima uživo"</string>
   <string name="morphe_save_to_watch_later_success_toast">Video je uspješno spremljen u popisu za kasnije gledanje</string>
   <string name="morphe_save_to_watch_later_already_exists_toast">Ovaj je videozapis već spremljen na popis za kasnije gledanje</string>
   <string name="morphe_save_to_watch_later_error_toast">Nije moguće spremiti ovaj video na popis za kasnije gledanje</string>
-  <string name="morphe_queue_flyout_title">Dodaj u Morphe red čekanja</string>
+  <string name="morphe_queue_flyout_title">Dodaj u YTritik red čekanja</string>
   <string name="morphe_queue_restore_title">Čuvati red čekanja između sesija</string>
   <string name="morphe_queue_restore_summary">Red čekanja se zadržava nakon ponovnog pokretanja aplikacije</string>
   <string name="morphe_swap_save_and_queue_actions_title">Zamijeni radnje Spremi i dodaj u red</string>
   <string name="morphe_swap_save_and_queue_actions_summary">Dodirnite za opcije reda, dodirnite i zadržite da biste spremili za kasniju gledanju</string>
   <string name="morphe_queue_override_flyout_menu_title">Nadjačaj gumb reda čekanja u feed izletniku</string>
-  <string name="morphe_queue_override_flyout_menu_summary">Otvara Morphe red čekanja umjesto YouTube reda čekanja</string>
+  <string name="morphe_queue_override_flyout_menu_summary">Otvara YTritik red čekanja umjesto YouTube reda čekanja</string>
   <string name="morphe_queue_add_flyout_menu_title">Dodaj stavku izbornika reda čekanja u feed izletnik</string>
   <string name="morphe_queue_add_flyout_menu_summary">Dodaje dodatnu stavku izletnika. Omogućite ovo ako \'Dodaj u red čekanja\' nije prikazano</string>
   <string name="morphe_queue_manager_check_failed_auth">Niste prijavljeni</string>
@@ -478,7 +478,7 @@ Info: Možda neće raditi na prijenosima uživo"</string>
   <string name="morphe_queue_manager_fetch_succeeded_create">Red čekanja je kreiran</string>
   <string name="morphe_queue_manager_fetch_succeeded_remove">Uklonjeno iz reda</string>
   <string name="morphe_queue_manager_fetch_succeeded_save">Red čekanja sačuvan na %s</string>
-  <string name="morphe_queue_manager_playlist_title">Morphe red čekanja</string>
+  <string name="morphe_queue_manager_playlist_title">YTritik red čekanja</string>
   <string name="morphe_queue_manager_add_to_queue">Dodaj u red čekanja</string>
   <string name="morphe_queue_manager_add_to_queue_and_open_queue">Dodaj u red čekanja i otvori</string>
   <string name="morphe_queue_manager_add_to_queue_and_play_video">Dodaj u red i reproduciraj</string>

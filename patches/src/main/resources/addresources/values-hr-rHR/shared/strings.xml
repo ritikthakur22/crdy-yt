@@ -29,7 +29,7 @@ Second \"item\" text"</string>
   <!-- String is also duplicated in Reddit import / export preference -->
   <string name="morphe_settings_import">Uvezi</string>
   <string name="morphe_settings_import_copy">Kopiraj</string>
-  <string name="morphe_settings_import_reset">Morphe postavke vraćene na zadane vrijednosti</string>
+  <string name="morphe_settings_import_reset">YTritik postavke vraćene na zadane vrijednosti</string>
   <string name="morphe_settings_import_success">Uvezeno %d postavki</string>
   <string name="morphe_settings_import_failure_parse">Uvoz nije uspio: %s</string>
   <string name="morphe_settings_search_hint">Postavke pretraživanja</string>
@@ -50,13 +50,13 @@ Second \"item\" text"</string>
   <string name="morphe_settings_search_history_title">Prikaži povijest pretraživanja postavki</string>
   <string name="morphe_show_menu_icons_title">Prikaži ikone postavki Morphea</string>
   <string name="morphe_settings_menu_copy_path">Kopirano: %s</string>
-  <string name="morphe_language_title">Morphe jezik</string>
+  <string name="morphe_language_title">YTritik jezik</string>
   <string name="morphe_language_user_dialog_message">"Prijevodi za neke jezike mogu nedostajati ili biti nepotpuni.
 
 Za prevođenje novih jezika ili poboljšanje postojećih prijevoda posjetite morphe.software/translate"</string>
   <string name="morphe_language_DEFAULT">Jezik aplikacije</string>
   <string name="morphe_pref_import_export_title">Uvoz / Izvoz</string>
-  <string name="morphe_pref_import_export_summary">Uvoz / Izvoz Morphe postavki</string>
+  <string name="morphe_pref_import_export_summary">Uvoz / Izvoz YTritik postavki</string>
   <string name="morphe_settings_import_file">Uvezi iz datoteke</string>
   <string name="morphe_settings_import_file_success">Postavke su uspješno uvezene, dodirnite Spremi za primjenu</string>
   <string name="morphe_settings_import_file_failed">Uvoz postavki nije uspio</string>
@@ -64,8 +64,8 @@ Za prevođenje novih jezika ili poboljšanje postojećih prijevoda posjetite mor
   <string name="morphe_settings_export_file_success">Postavke su uspješno izvezene</string>
   <string name="morphe_settings_export_file_failed">Izvoz postavki nije uspio</string>
   <!-- String is also duplicated in Reddit about preference -->
-  <string name="morphe_settings_about_links_body_version_current">Koristite najnoviju verziju Morphe Patcheva &lt;i&gt;%s&lt;/i&gt;</string>
-  <string name="morphe_settings_about_links_body_version_outdated">Koristite verziju Morphe Patcheva &lt;i&gt;%1$s&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Dostupno ažuriranje: &lt;i&gt;%2$s&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Za ažuriranje patcheva, koristite Morphe za ponovno patchanje ove aplikacije</string>
+  <string name="morphe_settings_about_links_body_version_current">Koristite najnoviju verziju YTritik Patcheva &lt;i&gt;%s&lt;/i&gt;</string>
+  <string name="morphe_settings_about_links_body_version_outdated">Koristite verziju YTritik Patcheva &lt;i&gt;%1$s&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Dostupno ažuriranje: &lt;i&gt;%2$s&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Za ažuriranje patcheva, koristite YTritik za ponovno patchanje ove aplikacije</string>
   <string name="morphe_settings_about_links_dev_header">Napomena</string>
   <string name="morphe_settings_about_links_dev_body">Ova je verzija predizdanje i možete naići na neočekivane probleme</string>
   <string name="morphe_settings_about_links_header">Službene poveznice</string>
@@ -89,12 +89,12 @@ Za prevođenje novih jezika ili poboljšanje postojećih prijevoda posjetite mor
   <string name="morphe_debug_title">Omogući zapisivanje otklanjanja pogrešaka</string>
   <string name="morphe_debug_stacktrace_title">Zapisnici o otklanjanju pogrešaka uključuju trag stoga</string>
   <string name="morphe_debug_stacktrace_summary">Uključuje tragove stoga u ispisima za otklanjanje pogrešaka kako bi se pomoglo pri identificiranju pogrešaka</string>
-  <string name="morphe_debug_toast_on_error_title">Prikaži obavijest o Morphe pogrešci</string>
-  <string name="morphe_debug_toast_on_error_user_dialog_message">"Isključivanjem obavijesti o pogreškama skrivaju se sve Morphe obavijesti o pogreškama.
+  <string name="morphe_debug_toast_on_error_title">Prikaži obavijest o YTritik pogrešci</string>
+  <string name="morphe_debug_toast_on_error_user_dialog_message">"Isključivanjem obavijesti o pogreškama skrivaju se sve YTritik obavijesti o pogreškama.
 
 Nećete biti obaviješteni ni o kakvim neočekivanim događajima."</string>
   <string name="morphe_debug_export_logs_title">Izvoz zapisnika o otklanjanju pogrešaka</string>
-  <string name="morphe_debug_export_logs_summary">Izvezi Morphe debug zapise</string>
+  <string name="morphe_debug_export_logs_summary">Izvezi YTritik debug zapise</string>
   <string name="morphe_debug_export_logs_file">Izvezi u datoteku</string>
   <string name="morphe_debug_export_logs_success">Dnevnik ispisivanja pogrešaka uspješno izvezen</string>
   <string name="morphe_debug_export_logs_failed">Izvoz zapisnika nije uspio</string>

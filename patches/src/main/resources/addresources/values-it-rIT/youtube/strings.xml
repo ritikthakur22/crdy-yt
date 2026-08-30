@@ -460,7 +460,7 @@ Avviso: Potrebbe non funzionare sui video in diretta"</string>
   <string name="morphe_swap_save_and_queue_actions_title">Scambia le azioni Salva e Metti in coda</string>
   <string name="morphe_swap_save_and_queue_actions_summary">Tocca per le opzioni di accodamento, tieni premuto per salvare per guardare più tardi</string>
   <string name="morphe_queue_override_flyout_menu_title">Sostituisci pulsante coda riepilogo feed</string>
-  <string name="morphe_queue_override_flyout_menu_summary">Apre la coda di Morphe invece della coda di YouTube</string>
+  <string name="morphe_queue_override_flyout_menu_summary">Apre la coda di YTritik invece della coda di YouTube</string>
   <string name="morphe_queue_add_flyout_menu_title">Aggiungi voce di menu a comparsa per la coda del feed</string>
   <string name="morphe_queue_add_flyout_menu_summary">Aggiunge un elemento aggiuntivo al menu a comparsa. Attiva questa opzione se \"Aggiungi alla coda\" non viene mostrato</string>
   <string name="morphe_queue_manager_check_failed_auth">Non connesso</string>
@@ -672,7 +672,7 @@ I 'Cookie dei sottotitoli' devono essere forniti"</string>
   <string name="morphe_show_settings_button_title">Mostra il pulsante Impostazioni</string>
   <string name="morphe_show_settings_button_index_title">Posizione del pulsante Impostazioni</string>
   <string name="morphe_show_settings_button_type_title">Azione pulsante Impostazioni</string>
-  <string name="morphe_show_settings_button_type_summary">Apre le impostazioni di Morphe quando abilitato, o le impostazioni di YouTube quando disabilitato</string>
+  <string name="morphe_show_settings_button_type_summary">Apre le impostazioni di YTritik quando abilitato, o le impostazioni di YouTube quando disabilitato</string>
   <string name="morphe_swap_create_with_notifications_button_title">Scambia il pulsante Crea con il pulsante Notifiche</string>
   <string name="morphe_swap_create_with_notifications_button_summary">Se il cambiamento di questa impostazione non ha effetto, prova a passare alla modalità Incognito</string>
   <string name="morphe_hide_navigation_button_labels_title">Nascondi etichette dei pulsanti di navigazione</string>
@@ -699,7 +699,7 @@ Per accedere alle Impostazioni, attiva il pulsante Impostazioni tramite Generale
   <string name="morphe_show_toolbar_settings_button_title">Mostra il pulsante Impostazioni</string>
   <string name="morphe_show_toolbar_settings_button_index_title">Posizione del pulsante Impostazioni</string>
   <string name="morphe_show_toolbar_settings_button_type_title">Azione del pulsante Impostazioni</string>
-  <string name="morphe_show_toolbar_settings_button_type_summary">Quando abilitato, un tocco apre le impostazioni di Morphe e una pressione prolungata apre le impostazioni di YouTube. Disattiva per scambiare</string>
+  <string name="morphe_show_toolbar_settings_button_type_summary">Quando abilitato, un tocco apre le impostazioni di YTritik e una pressione prolungata apre le impostazioni di YouTube. Disattiva per scambiare</string>
   <!-- layout.hide.player.flyoutmenupanel.hidePlayerFlyoutMenuPatch -->
   <string name="morphe_hide_player_flyout_title">Menù a comparsa</string>
   <string name="morphe_hide_player_flyout_summary">Scegli quali componenti mostrare nel menù a comparsa</string>

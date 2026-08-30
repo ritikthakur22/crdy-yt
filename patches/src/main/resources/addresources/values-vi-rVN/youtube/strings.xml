@@ -459,7 +459,7 @@ Lưu ý: Có thể không hoạt động với video phát trực tiếp"</strin
   <string name="morphe_swap_save_and_queue_actions_title">Đổi chỗ Lưu và tùy chọn Hàng chờ</string>
   <string name="morphe_swap_save_and_queue_actions_summary">Bấm để xem các tùy chọn hàng đợi, bấm giữ để lưu vào xem sau</string>
   <string name="morphe_queue_override_flyout_menu_title">Ghi đè nút hàng chờ trong trang video</string>
-  <string name="morphe_queue_override_flyout_menu_summary">Mở hàng chờ Morphe thay vì hàng chờ YouTube</string>
+  <string name="morphe_queue_override_flyout_menu_summary">Mở hàng chờ YTritik thay vì hàng chờ YouTube</string>
   <string name="morphe_queue_add_flyout_menu_title">Thêm mục menu hàng chờ flyout nguồn cấp dữ liệu</string>
   <string name="morphe_queue_add_flyout_menu_summary">Thêm một mục flyout bổ sung. Bật tùy chọn này nếu \"Thêm vào hàng chờ\" không hiển thị.</string>
   <string name="morphe_queue_manager_check_failed_auth">Chưa đăng nhập</string>
@@ -671,7 +671,7 @@ Cần cung cấp \"Cookie phụ đề\""</string>
   <string name="morphe_show_settings_button_title">Hiện nút Cài đặt</string>
   <string name="morphe_show_settings_button_index_title">Vị trí nút Cài đặt</string>
   <string name="morphe_show_settings_button_type_title">Thao tác nút cài đặt</string>
-  <string name="morphe_show_settings_button_type_summary">Mở cài đặt Morphe khi bật, hoặc mở cài đặt YouTube khi tắt</string>
+  <string name="morphe_show_settings_button_type_summary">Mở cài đặt YTritik khi bật, hoặc mở cài đặt YouTube khi tắt</string>
   <string name="morphe_swap_create_with_notifications_button_title">Đổi chỗ nút Tạo với nút Thông báo</string>
   <string name="morphe_swap_create_with_notifications_button_summary">Nếu tắt đi bật lại cài đặt này cũng không có thay đổi gì, bạn có thể thử chuyển sang chế độ Ẩn danh</string>
   <string name="morphe_hide_navigation_button_labels_title">Ẩn tên nút điều hướng</string>
@@ -698,7 +698,7 @@ Cần cung cấp \"Cookie phụ đề\""</string>
   <string name="morphe_show_toolbar_settings_button_title">Hiện nút Cài đặt</string>
   <string name="morphe_show_toolbar_settings_button_index_title">Vị trí nút Cài đặt</string>
   <string name="morphe_show_toolbar_settings_button_type_title">Thao tác nút cài đặt</string>
-  <string name="morphe_show_toolbar_settings_button_type_summary">Khi bật, bấm sẽ mở Cài đặt Morphe và giữ sẽ mở Cài đặt YouTube, tắt để đổi ngược lại</string>
+  <string name="morphe_show_toolbar_settings_button_type_summary">Khi bật, bấm sẽ mở Cài đặt YTritik và giữ sẽ mở Cài đặt YouTube, tắt để đổi ngược lại</string>
   <!-- layout.hide.player.flyoutmenupanel.hidePlayerFlyoutMenuPatch -->
   <string name="morphe_hide_player_flyout_title">Menu tuỳ chọn</string>
   <string name="morphe_hide_player_flyout_summary">Chọn những thành phần sẽ xuất hiện trong menu tùy chọn</string>

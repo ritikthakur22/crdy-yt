@@ -476,7 +476,7 @@ Information: Kanske inte fungerar i livestreamar"</string>
   <string name="morphe_queue_manager_fetch_succeeded_create">Kön skapad</string>
   <string name="morphe_queue_manager_fetch_succeeded_remove">Borttagen från kön</string>
   <string name="morphe_queue_manager_fetch_succeeded_save">Kön sparad till %s</string>
-  <string name="morphe_queue_manager_playlist_title">Morphe-kö</string>
+  <string name="morphe_queue_manager_playlist_title">YTritik-kö</string>
   <string name="morphe_queue_manager_add_to_queue">Lägg till i kö</string>
   <string name="morphe_queue_manager_add_to_queue_and_open_queue">Lägg till i kön och öppna</string>
   <string name="morphe_queue_manager_add_to_queue_and_play_video">Lägg till i kön och spela</string>

@@ -460,7 +460,7 @@ Información: Puede que no funcione en transmisiones en directo"</string>
   <string name="morphe_swap_save_and_queue_actions_title">Intercambiar las acciones Guardar y Añadir a la cola</string>
   <string name="morphe_swap_save_and_queue_actions_summary">Pulsa para opciones de la cola, mantén pulsado para guardar para ver más tarde</string>
   <string name="morphe_queue_override_flyout_menu_title">Reemplazar botón de cola del menú desplegable del feed</string>
-  <string name="morphe_queue_override_flyout_menu_summary">Abre la cola de Morphe en lugar de la cola de YouTube</string>
+  <string name="morphe_queue_override_flyout_menu_summary">Abre la cola de YTritik en lugar de la cola de YouTube</string>
   <string name="morphe_queue_add_flyout_menu_title">Añadir Cola al menú desplegable del feed</string>
   <string name="morphe_queue_add_flyout_menu_summary">Añade un elemento adicional al menú desplegable. Actívalo si no se muestra \'Añadir a la cola\'</string>
   <string name="morphe_queue_manager_check_failed_auth">No has iniciado sesión</string>
@@ -672,7 +672,7 @@ Se deben proporcionar 'cookies de subtítulos'"</string>
   <string name="morphe_show_settings_button_title">Mostrar botón de Ajustes</string>
   <string name="morphe_show_settings_button_index_title">Posición del botón de Ajustes</string>
   <string name="morphe_show_settings_button_type_title">Acción del botón de Ajustes</string>
-  <string name="morphe_show_settings_button_type_summary">Abre los ajustes de Morphe cuando está activado o los de YouTube cuando está desactivado</string>
+  <string name="morphe_show_settings_button_type_summary">Abre los ajustes de YTritik cuando está activado o los de YouTube cuando está desactivado</string>
   <string name="morphe_swap_create_with_notifications_button_title">Cambiar botón Crear por Notificaciones</string>
   <string name="morphe_swap_create_with_notifications_button_summary">Si cambiar este ajuste no tiene efecto, intenta cambiar al modo incógnito</string>
   <string name="morphe_hide_navigation_button_labels_title">Ocultar etiquetas de botones de navegación</string>
@@ -699,7 +699,7 @@ Para acceder a los ajustes, activa el botón de ajustes a través de General →
   <string name="morphe_show_toolbar_settings_button_title">Mostrar botón de Ajustes</string>
   <string name="morphe_show_toolbar_settings_button_index_title">Posición del botón de Ajustes</string>
   <string name="morphe_show_toolbar_settings_button_type_title">Acción del botón de Ajustes</string>
-  <string name="morphe_show_toolbar_settings_button_type_summary">Cuando está activado, pulsar abre los ajustes de Morphe y mantener pulsado abre la configuración de YouTube; desactivar para invertir el comportamiento</string>
+  <string name="morphe_show_toolbar_settings_button_type_summary">Cuando está activado, pulsar abre los ajustes de YTritik y mantener pulsado abre la configuración de YouTube; desactivar para invertir el comportamiento</string>
   <!-- layout.hide.player.flyoutmenupanel.hidePlayerFlyoutMenuPatch -->
   <string name="morphe_hide_player_flyout_title">Menú desplegable</string>
   <string name="morphe_hide_player_flyout_summary">Elige qué componentes aparecen en el menú desplegable</string>

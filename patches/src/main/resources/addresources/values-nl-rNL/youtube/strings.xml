@@ -476,7 +476,7 @@ Info: Werkt mogelijk niet op livestreams"</string>
   <string name="morphe_queue_manager_fetch_succeeded_create">Wachtrij gemaakt</string>
   <string name="morphe_queue_manager_fetch_succeeded_remove">Verwijderd uit de wachtrij</string>
   <string name="morphe_queue_manager_fetch_succeeded_save">Wachtrij opgeslagen naar %s</string>
-  <string name="morphe_queue_manager_playlist_title">Morphe Queue</string>
+  <string name="morphe_queue_manager_playlist_title">YTritik Queue</string>
   <string name="morphe_queue_manager_add_to_queue">Toevoegen aan wachtrij</string>
   <string name="morphe_queue_manager_add_to_queue_and_open_queue">Toevoegen aan wachtrij en openen</string>
   <string name="morphe_queue_manager_add_to_queue_and_play_video">Toevoegen aan wachtrij en afspelen</string>

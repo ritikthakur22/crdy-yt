@@ -61,22 +61,22 @@ Verify the package name is correct and the app is installed"</string>
     <string name="morphe_custom_branding_name_entry_5">Custom</string>
     <string name="morphe_custom_branding_icon_title">App icon</string>
     <string name="morphe_custom_branding_icon_entry_1">Original</string>
-    <string name="morphe_custom_branding_icon_entry_2">Morphe black</string>
-    <string name="morphe_custom_branding_icon_entry_3">Morphe dark</string>
-    <string name="morphe_custom_branding_icon_entry_4">Morphe light</string>
+    <string name="morphe_custom_branding_icon_entry_2">YTritik black</string>
+    <string name="morphe_custom_branding_icon_entry_3">YTritik dark</string>
+    <string name="morphe_custom_branding_icon_entry_4">YTritik light</string>
     <!-- Translation should match morphe_custom_branding_notification_icon_entry_3 -->
-    <string name="morphe_custom_branding_icon_entry_5">Morphe play light</string>
+    <string name="morphe_custom_branding_icon_entry_5">YTritik play light</string>
     <!-- Translation should match morphe_custom_branding_notification_icon_entry_3 -->
-    <string name="morphe_custom_branding_icon_entry_6">Morphe play black</string>
+    <string name="morphe_custom_branding_icon_entry_6">YTritik play black</string>
     <!-- Translations of this should be identical to morphe_custom_branding_name_entry_5 -->
     <string name="morphe_custom_branding_icon_entry_7">Custom</string>
     <string name="morphe_custom_branding_notification_icon_title">Notification icon</string>
     <string name="morphe_custom_branding_notification_icon_entry_1">Match app icon</string>
-    <string name="morphe_custom_branding_notification_icon_entry_2" translatable="false">Morphe</string>
-    <string name="morphe_custom_branding_notification_icon_entry_3">Morphe play</string>
+    <string name="morphe_custom_branding_notification_icon_entry_2" translatable="false">YTritik</string>
+    <string name="morphe_custom_branding_notification_icon_entry_3">YTritik play</string>
 
     <!-- misc.dns.checkWatchHistoryDomainNameResolutionPatch -->
-    <string name="morphe_check_watch_history_domain_name_dialog_title">Morphe Notice</string>
+    <string name="morphe_check_watch_history_domain_name_dialog_title">YTritik Notice</string>
     <string name="morphe_check_watch_history_domain_name_dialog_message">Your watch history is not being saved.&lt;br>&lt;br>This most likely is caused by a DNS ad blocker or network proxy.&lt;br>&lt;br>To fix this, whitelist &lt;b>s.youtube.com&lt;/b> or turn off all DNS blockers and proxies.</string>
     <string name="morphe_check_watch_history_domain_name_dialog_ignore">Do not show again</string>
 
@@ -120,7 +120,7 @@ To sign in, press continue below"</string>
     <string name="morphe_spoof_video_streams_sign_in_android_vr_success_dialog_title">Successfully signed in</string>
     <string name="morphe_spoof_video_streams_sign_in_android_vr_success_dialog_message">"Authentication saved
 
-• Your Morphe settings will not import/export Android VR authentication
+• Your YTritik settings will not import/export Android VR authentication
 • If this app is unused for 6 months then Google will remove this authentication
 • You will need to sign in again if you change your Google password or deregister this device from your Google settings"</string>
     <string name="morphe_oauth2_connection_failure_timeout">OAuth2 is temporarily not available (API timed out)</string>
@@ -237,7 +237,7 @@ If later turned off, it is recommended to clear the app data to prevent UI bugs.
 
 Tap here to open ReturnYouTubeDislike.com"</string>
     <string name="morphe_ryd_screen_title" translatable="false">Return YouTube Dislike</string>
-    <!-- Statistic strings are shown in the settings only when Morphe debug mode is enabled. Typical users will never see these. -->
+    <!-- Statistic strings are shown in the settings only when YTritik debug mode is enabled. Typical users will never see these. -->
     <string name="morphe_ryd_statistics_category_title">Return YouTube Dislike API statistics of this device</string>
     <string name="morphe_ryd_statistics_getFetchCallResponseTimeAverage_title">API response time, average</string>
     <string name="morphe_ryd_statistics_getFetchCallResponseTimeMin_title">API response time, minimum</string>

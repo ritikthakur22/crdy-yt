@@ -29,7 +29,7 @@ Second \"item\" text"</string>
   <!-- String is also duplicated in Reddit import / export preference -->
   <string name="morphe_settings_import">Импортирај</string>
   <string name="morphe_settings_import_copy">Копирај</string>
-  <string name="morphe_settings_import_reset">Паденијата на Morphe се вратени на нивните вредности по дефолт</string>
+  <string name="morphe_settings_import_reset">Паденијата на YTritik се вратени на нивните вредности по дефолт</string>
   <string name="morphe_settings_import_success">Импортирани %d паденија</string>
   <string name="morphe_settings_import_failure_parse">Импортирањето не успеа: %s</string>
   <string name="morphe_settings_search_hint">Пребарување на паденија</string>
@@ -63,8 +63,8 @@ Second \"item\" text"</string>
   <string name="morphe_settings_export_file_success">Поставките се извезени успешно</string>
   <string name="morphe_settings_export_file_failed">Извоз на поставките не успеа</string>
   <!-- String is also duplicated in Reddit about preference -->
-  <string name="morphe_settings_about_links_body_version_current">Користите најнова верзија на Morphe Пачови &lt;i&gt;%s&lt;/i&gt;</string>
-  <string name="morphe_settings_about_links_body_version_outdated">Користите Morphe Пачови верзија &lt;i&gt;%1$s&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Ажурирање достапно: &lt;i&gt;%2$s&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;За да ги ажурирате вашите пачови, користете Morphe за да ја надопачете оваа апликација</string>
+  <string name="morphe_settings_about_links_body_version_current">Користите најнова верзија на YTritik Пачови &lt;i&gt;%s&lt;/i&gt;</string>
+  <string name="morphe_settings_about_links_body_version_outdated">Користите YTritik Пачови верзија &lt;i&gt;%1$s&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Ажурирање достапно: &lt;i&gt;%2$s&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;За да ги ажурирате вашите пачови, користете YTritik за да ја надопачете оваа апликација</string>
   <string name="morphe_settings_about_links_dev_header">Забелешка</string>
   <string name="morphe_settings_about_links_dev_body">Оваа верзија е претходна и може да наидете на неочекувани проблеми</string>
   <string name="morphe_settings_about_links_header">Официјални линкови</string>

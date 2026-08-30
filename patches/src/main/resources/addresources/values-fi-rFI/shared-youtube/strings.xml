@@ -56,20 +56,20 @@ Tarkista, että paketin nimi on oikein ja sovellus on asennettu"</string>
   <string name="morphe_custom_branding_name_entry_5">Mukautettu</string>
   <string name="morphe_custom_branding_icon_title">Sovelluskuvake</string>
   <string name="morphe_custom_branding_icon_entry_1">Alkuperäinen</string>
-  <string name="morphe_custom_branding_icon_entry_2">Morphe musta</string>
-  <string name="morphe_custom_branding_icon_entry_3">Morphe tumma</string>
-  <string name="morphe_custom_branding_icon_entry_4">Morphe vaalea</string>
+  <string name="morphe_custom_branding_icon_entry_2">YTritik musta</string>
+  <string name="morphe_custom_branding_icon_entry_3">YTritik tumma</string>
+  <string name="morphe_custom_branding_icon_entry_4">YTritik vaalea</string>
   <!-- Translation should match morphe_custom_branding_notification_icon_entry_3 -->
-  <string name="morphe_custom_branding_icon_entry_5">Morphe vaalea</string>
+  <string name="morphe_custom_branding_icon_entry_5">YTritik vaalea</string>
   <!-- Translation should match morphe_custom_branding_notification_icon_entry_3 -->
-  <string name="morphe_custom_branding_icon_entry_6">Morphe musta</string>
+  <string name="morphe_custom_branding_icon_entry_6">YTritik musta</string>
   <!-- Translations of this should be identical to morphe_custom_branding_name_entry_5 -->
   <string name="morphe_custom_branding_icon_entry_7">Mukautettu</string>
   <string name="morphe_custom_branding_notification_icon_title">Ilmoituksen kuvake</string>
   <string name="morphe_custom_branding_notification_icon_entry_1">Sovelluksen kuvakkeen vaihtaminen</string>
-  <string name="morphe_custom_branding_notification_icon_entry_3">Morphe musta</string>
+  <string name="morphe_custom_branding_notification_icon_entry_3">YTritik musta</string>
   <!-- misc.dns.checkWatchHistoryDomainNameResolutionPatch -->
-  <string name="morphe_check_watch_history_domain_name_dialog_title">Morphe-huomautus</string>
+  <string name="morphe_check_watch_history_domain_name_dialog_title">YTritik-huomautus</string>
   <string name="morphe_check_watch_history_domain_name_dialog_message">Katseluhistoriaasi ei tallenneta.&lt;br&gt;&lt;br&gt;Tämä johtuu todennäköisesti DNS-mainostenestosta tai verkkovälityspalvelimesta.&lt;br&gt;&lt;br&gt;Korjaa ongelma lisäämällä &lt;b&gt;s.youtube.com&lt;/b&gt; sallittujen listalle tai kytke kaikki DNS-estot ja välityspalvelimet pois päältä.</string>
   <string name="morphe_check_watch_history_domain_name_dialog_ignore">Älä näytä uudelleen</string>
   <!-- misc.spoof.spoofVideoStreamsPatch -->
@@ -214,7 +214,7 @@ Jos tämä poistetaan myöhemmin käytöstä, on suositeltavaa tyhjentää sovel
   <string name="morphe_ryd_attribution_summary">"Data on tarjotaan Return YouTube Dislike API:n avulla
 
 Napauta tästä avataksesi ReturnYouTubeDislike.com"</string>
-  <!-- Statistic strings are shown in the settings only when Morphe debug mode is enabled. Typical users will never see these. -->
+  <!-- Statistic strings are shown in the settings only when YTritik debug mode is enabled. Typical users will never see these. -->
   <string name="morphe_ryd_statistics_category_title">Return YouTube Dislike -sovelluksen API-tilastot tällä laitteella</string>
   <string name="morphe_ryd_statistics_getFetchCallResponseTimeAverage_title">API-vastausajan keskiarvo</string>
   <string name="morphe_ryd_statistics_getFetchCallResponseTimeMin_title">API-vastausajan minimi</string>

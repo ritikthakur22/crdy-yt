@@ -64,8 +64,8 @@ Za prevajanje novih jezikov ali izboljšanje že obstoječih prevodov obiščite
   <string name="morphe_settings_export_file_success">Nastavitve so bile uspešno izvožene</string>
   <string name="morphe_settings_export_file_failed">Izvoz nastavitev je spodletel</string>
   <!-- String is also duplicated in Reddit about preference -->
-  <string name="morphe_settings_about_links_body_version_current">Uporabljate najnovejšo različico Morphe popravkov &lt;i&gt;%s&lt;/i&gt;</string>
-  <string name="morphe_settings_about_links_body_version_outdated">Uporabljate različico Morphe popravkov &lt;i&gt;%1$s&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Na voljo je posodobitev: &lt;i&gt;%2$s&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Za posodobitev popravkov uporabite Morphe za ponovno popravljanje te aplikacije</string>
+  <string name="morphe_settings_about_links_body_version_current">Uporabljate najnovejšo različico YTritik popravkov &lt;i&gt;%s&lt;/i&gt;</string>
+  <string name="morphe_settings_about_links_body_version_outdated">Uporabljate različico YTritik popravkov &lt;i&gt;%1$s&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Na voljo je posodobitev: &lt;i&gt;%2$s&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Za posodobitev popravkov uporabite YTritik za ponovno popravljanje te aplikacije</string>
   <string name="morphe_settings_about_links_dev_header">Opomba</string>
   <string name="morphe_settings_about_links_dev_body">Ta različica je pred-različica in vam lahko povzroči nepričakovane težave</string>
   <string name="morphe_settings_about_links_header">Uradne povezave</string>

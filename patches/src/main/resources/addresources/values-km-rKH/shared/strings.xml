@@ -29,7 +29,7 @@ Second \"item\" text"</string>
   <!-- String is also duplicated in Reddit import / export preference -->
   <string name="morphe_settings_import">នាំចូល</string>
   <string name="morphe_settings_import_copy">ចម្លង</string>
-  <string name="morphe_settings_import_reset">ការកំណត់របស់ Morphe ត្រូវស្ដារទៅបុរេជម្រើស</string>
+  <string name="morphe_settings_import_reset">ការកំណត់របស់ YTritik ត្រូវស្ដារទៅបុរេជម្រើស</string>
   <string name="morphe_settings_import_success">បាននាំចូលការកំណត់ %d</string>
   <string name="morphe_settings_import_failure_parse">ការនាំចូលបានបរាជ័យ៖ %s</string>
   <string name="morphe_settings_search_hint">ស្វែងរកការកំណត់</string>

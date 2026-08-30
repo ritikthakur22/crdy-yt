@@ -88,8 +88,8 @@ Second \"item\" text"</string>
   <string name="morphe_sb_api_url_changed">API URL promijenjen</string>
   <string name="morphe_sb_settings_ie_title">Uvoz / Izvoz postavki</string>
   <string name="morphe_sb_settings_copy">Kopirajte</string>
-  <string name="morphe_sb_settings_ie_summary">Vaša JSON konfiguracija SponsorBlocka koja se može uvesti / izvesti u Morphe i druge SponsorBlock platforme</string>
-  <string name="morphe_sb_settings_ie_summary_warning">"Vaša JSON konfiguracija SponsorBlocka koja se može uvesti / izvesti u Morphe i druge SponsorBlock platforme
+  <string name="morphe_sb_settings_ie_summary">Vaša JSON konfiguracija SponsorBlocka koja se može uvesti / izvesti u YTritik i druge SponsorBlock platforme</string>
+  <string name="morphe_sb_settings_ie_summary_warning">"Vaša JSON konfiguracija SponsorBlocka koja se može uvesti / izvesti u YTritik i druge SponsorBlock platforme
 
 To uključuje vaš privatni korisnički ID. Obavezno ovo mudro podijelite"</string>
   <string name="morphe_sb_settings_import_successful">Postavke uspješno uvezeno</string>

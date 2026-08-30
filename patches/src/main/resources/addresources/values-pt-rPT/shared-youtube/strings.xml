@@ -56,18 +56,18 @@ Verifique se o nome do pacote está correto e o aplicativo está instalado"</str
   <string name="morphe_custom_branding_name_entry_5">Personalizado</string>
   <string name="morphe_custom_branding_icon_title">Ícone da aplicação</string>
   <string name="morphe_custom_branding_icon_entry_1">Original</string>
-  <string name="morphe_custom_branding_icon_entry_2">Morphe preto</string>
-  <string name="morphe_custom_branding_icon_entry_3">Morphe escuro</string>
-  <string name="morphe_custom_branding_icon_entry_4">Morphe claro</string>
+  <string name="morphe_custom_branding_icon_entry_2">YTritik preto</string>
+  <string name="morphe_custom_branding_icon_entry_3">YTritik escuro</string>
+  <string name="morphe_custom_branding_icon_entry_4">YTritik claro</string>
   <!-- Translation should match morphe_custom_branding_notification_icon_entry_3 -->
-  <string name="morphe_custom_branding_icon_entry_5">Morphe play claro</string>
+  <string name="morphe_custom_branding_icon_entry_5">YTritik play claro</string>
   <!-- Translation should match morphe_custom_branding_notification_icon_entry_3 -->
-  <string name="morphe_custom_branding_icon_entry_6">Morphe play preto</string>
+  <string name="morphe_custom_branding_icon_entry_6">YTritik play preto</string>
   <!-- Translations of this should be identical to morphe_custom_branding_name_entry_5 -->
   <string name="morphe_custom_branding_icon_entry_7">Personalizado</string>
   <string name="morphe_custom_branding_notification_icon_title">Ícone de notificação</string>
   <string name="morphe_custom_branding_notification_icon_entry_1">Combinar ícone do aplicativo</string>
-  <string name="morphe_custom_branding_notification_icon_entry_3">Morphe play</string>
+  <string name="morphe_custom_branding_notification_icon_entry_3">YTritik play</string>
   <!-- misc.dns.checkWatchHistoryDomainNameResolutionPatch -->
   <string name="morphe_check_watch_history_domain_name_dialog_title">Aviso do Morphe</string>
   <string name="morphe_check_watch_history_domain_name_dialog_message">O teu histórico de visualização não está a ser guardado.&lt;br&gt;&lt;br&gt;Isto é mais provávelmente causado por um bloqueador de anúncios DNS ou proxy de rede.&lt;br&gt;&lt;br&gt;Para reparar isto, adiciona às exceções &lt;b&gt;s.youtube.com&lt;/b&gt; ou desativa todos os bloqueadores DNS e proxies.</string>
@@ -112,7 +112,7 @@ Para entrar, pressione continuar abaixo"</string>
   <string name="morphe_spoof_video_streams_sign_in_android_vr_success_dialog_title">Conexão bem-sucedida</string>
   <string name="morphe_spoof_video_streams_sign_in_android_vr_success_dialog_message">"Configurações salvas
 
-• Suas configurações do Morphe NÃO serão importadas/exportadas com a autenticação do Android VR
+• Suas configurações do YTritik NÃO serão importadas/exportadas com a autenticação do Android VR
 • Se este aplicativo não for usado por 6 meses, o Google removerá esta autenticação
 • Você precisará conectar-se novamente se alterar sua senha do Google ou desregistrar este dispositivo das configurações do Google"</string>
   <string name="morphe_oauth2_connection_failure_timeout">O OAuth2 está temporariamente indisponível (API expirou)</string>
@@ -214,7 +214,7 @@ Se desativado posteriormente, recomenda-se limpar os dados do aplicativo para ev
   <string name="morphe_ryd_attribution_summary">"Os dados são fornecidos pela API Return YouTube Dislike
 
 Toque aqui para abrir ReturnYouTubeDislike.com"</string>
-  <!-- Statistic strings are shown in the settings only when Morphe debug mode is enabled. Typical users will never see these. -->
+  <!-- Statistic strings are shown in the settings only when YTritik debug mode is enabled. Typical users will never see these. -->
   <string name="morphe_ryd_statistics_category_title">Estatísticas da API Return YouTube Dislike deste dispositivo</string>
   <string name="morphe_ryd_statistics_getFetchCallResponseTimeAverage_title">Tempo de resposta da API, média</string>
   <string name="morphe_ryd_statistics_getFetchCallResponseTimeMin_title">Tempo de resposta da API, mínimo</string>

@@ -454,13 +454,13 @@ Napomena: Možda neće raditi na direktnim prenosima"</string>
   <string name="morphe_save_to_watch_later_success_toast">Video je uspešno sačuvan na listi za gledanje kasnije</string>
   <string name="morphe_save_to_watch_later_already_exists_toast">Ovaj video je već sačuvan na listi za gledanje kasnije</string>
   <string name="morphe_save_to_watch_later_error_toast">Nije moguće sačuvati ovaj video na listi za gledanje kasnije</string>
-  <string name="morphe_queue_flyout_title">Dodaj u Morphe red</string>
+  <string name="morphe_queue_flyout_title">Dodaj u YTritik red</string>
   <string name="morphe_queue_restore_title">Zadrži red čekanja između sesija</string>
   <string name="morphe_queue_restore_summary">Red čekanja je sačuvan nakon ponovnog pokretanja aplikacije</string>
   <string name="morphe_swap_save_and_queue_actions_title">Zameni akcije Štednje i stavljanja u red</string>
   <string name="morphe_swap_save_and_queue_actions_summary">Dodirnite za opcije reda, dodirnite i zadržite da biste sačavali za gledanje kasnije</string>
   <string name="morphe_queue_override_flyout_menu_title">Preuzmi red za reprize</string>
-  <string name="morphe_queue_override_flyout_menu_summary">Otvara Morphe red čekanja umesto YouTube reda čekanja</string>
+  <string name="morphe_queue_override_flyout_menu_summary">Otvara YTritik red čekanja umesto YouTube reda čekanja</string>
   <string name="morphe_queue_add_flyout_menu_title">Dodaj stavku menija za leteći red za feed</string>
   <string name="morphe_queue_add_flyout_menu_summary">Dodaje dodatnu stavku letećeg menija. Omogući ovo ako se \"Dodaj u red\" ne prikazuje.</string>
   <string name="morphe_queue_manager_check_failed_auth">Nije prijavljen</string>
@@ -476,7 +476,7 @@ Napomena: Možda neće raditi na direktnim prenosima"</string>
   <string name="morphe_queue_manager_fetch_succeeded_create">Red je kreiran</string>
   <string name="morphe_queue_manager_fetch_succeeded_remove">Uklonjeno iz reda</string>
   <string name="morphe_queue_manager_fetch_succeeded_save">Red je sačuvan u %s</string>
-  <string name="morphe_queue_manager_playlist_title">Morphe red</string>
+  <string name="morphe_queue_manager_playlist_title">YTritik red</string>
   <string name="morphe_queue_manager_add_to_queue">Dodaj u red</string>
   <string name="morphe_queue_manager_add_to_queue_and_open_queue">Dodaj u red i otvori</string>
   <string name="morphe_queue_manager_add_to_queue_and_play_video">Dodaj u red i reprodukuj</string>

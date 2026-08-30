@@ -476,7 +476,7 @@ Info: Virker muligvis ikke på live streams"</string>
   <string name="morphe_queue_manager_fetch_succeeded_create">Kø oprettet</string>
   <string name="morphe_queue_manager_fetch_succeeded_remove">Fjernet fra køen</string>
   <string name="morphe_queue_manager_fetch_succeeded_save">Kø gemt til %s</string>
-  <string name="morphe_queue_manager_playlist_title">Morphe-kø</string>
+  <string name="morphe_queue_manager_playlist_title">YTritik-kø</string>
   <string name="morphe_queue_manager_add_to_queue">Tilføj til køen</string>
   <string name="morphe_queue_manager_add_to_queue_and_open_queue">Tilføj til køen og åbn</string>
   <string name="morphe_queue_manager_add_to_queue_and_play_video">Tilføj til køen og afspil</string>

@@ -454,13 +454,13 @@ OpenRouter.ai ওপেন করতে এখানে ট্যাপ কর�
   <string name="morphe_save_to_watch_later_success_toast">ভিডিওটি সফলভাবে পরে দেখার প্লেলিস্টে সেভ করা হয়েছে</string>
   <string name="morphe_save_to_watch_later_already_exists_toast">এই ভিডিওটি ইতিমধ্যেই পরে দেখার প্লেলিস্টে সেভ করা আছে</string>
   <string name="morphe_save_to_watch_later_error_toast">এই ভিডিওটি পরে দেখার প্লেলিস্টে সেভ করা যায়নি</string>
-  <string name="morphe_queue_flyout_title">Morphe ভিডিও তালিকায় যুক্ত করুন</string>
+  <string name="morphe_queue_flyout_title">YTritik ভিডিও তালিকায় যুক্ত করুন</string>
   <string name="morphe_queue_restore_title">সেশনগুলির মধ্যে সারি রাখুন</string>
   <string name="morphe_queue_restore_summary">অ্যাপ পুনরায় চালু করার পরেও সারিটি রাখা হবে</string>
   <string name="morphe_swap_save_and_queue_actions_title">সেভ এবং কিউ অ্যাকশনগুলির স্থান পরিবর্তন করুন</string>
   <string name="morphe_swap_save_and_queue_actions_summary">কিউ বিকল্পের জন্য আলতো চাপুন, পরে দেখার জন্য সেভ করতে আলতো চেপে ধরে রাখুন</string>
   <string name="morphe_queue_override_flyout_menu_title">ফিড ফ্লাইআউট সারিবদ্ধকরণ বোতামটি প্রতিস্থাপন করুন</string>
-  <string name="morphe_queue_override_flyout_menu_summary">YouTube সারির পরিবর্তে Morphe সারি খোলে</string>
+  <string name="morphe_queue_override_flyout_menu_summary">YouTube সারির পরিবর্তে YTritik সারি খোলে</string>
   <string name="morphe_queue_add_flyout_menu_title">ফিড ফ্লাইআউট কিউ মেনু আইটেম যুক্ত করুন</string>
   <string name="morphe_queue_add_flyout_menu_summary">একটি অতিরিক্ত ফ্লাইআউট আইটেম যোগ করে। যদি \"কিউতে যোগ করুন\" দেখানো না হয় তবে এটি সক্ষম করুন।</string>
   <string name="morphe_queue_manager_check_failed_auth">লগইন করা হয়নি</string>
@@ -476,7 +476,7 @@ OpenRouter.ai ওপেন করতে এখানে ট্যাপ কর�
   <string name="morphe_queue_manager_fetch_succeeded_create">ভিডিও তালিকা তৈরি করা হয়েছে</string>
   <string name="morphe_queue_manager_fetch_succeeded_remove">ভিডিও তালিকা থেকে সরানো হয়েছে</string>
   <string name="morphe_queue_manager_fetch_succeeded_save">ভিডিও তালিকাটি %s-এ সংরক্ষণ করা হয়েছে</string>
-  <string name="morphe_queue_manager_playlist_title">Morphe ভিডিও তালিকা</string>
+  <string name="morphe_queue_manager_playlist_title">YTritik ভিডিও তালিকা</string>
   <string name="morphe_queue_manager_add_to_queue">ভিডিও তালিকায় যুক্ত করুন</string>
   <string name="morphe_queue_manager_add_to_queue_and_open_queue">ভিডিও তালিকায় যুক্ত করুন এবং ওপেন করুন</string>
   <string name="morphe_queue_manager_add_to_queue_and_play_video">ভিডিও তালিকায় যুক্ত করুন এবং প্লে করুন</string>
@@ -672,7 +672,7 @@ OpenRouter.ai ওপেন করতে এখানে ট্যাপ কর�
   <string name="morphe_show_settings_button_title">সেটিংস দেখানোর বোতাম</string>
   <string name="morphe_show_settings_button_index_title">সেটিংস বোতামের অবস্থান</string>
   <string name="morphe_show_settings_button_type_title">সেটিংস বোতাম অ্যাকশন</string>
-  <string name="morphe_show_settings_button_type_summary">ইনেবল করা হলে Morphe সেটিংস খোলে, অথবা ডিজেবল করা হলে YouTube সেটিংস খোলে</string>
+  <string name="morphe_show_settings_button_type_summary">ইনেবল করা হলে YTritik সেটিংস খোলে, অথবা ডিজেবল করা হলে YouTube সেটিংস খোলে</string>
   <string name="morphe_swap_create_with_notifications_button_title">বিজ্ঞপ্তি বোতাম দিয়ে তৈরি বোতামটিকে অদলবদল করুন।</string>
   <string name="morphe_swap_create_with_notifications_button_summary">যদি এই সেটিংস পরিবর্তন করার পরে কোনো প্রভাব না পরে, তবে ইনকগনিটো মোডে স্যুইচ করার চেষ্টা করুন</string>
   <string name="morphe_hide_navigation_button_labels_title">নেভিগেশন বোতাম লেবেল লুকান</string>
@@ -699,7 +699,7 @@ OpenRouter.ai ওপেন করতে এখানে ট্যাপ কর�
   <string name="morphe_show_toolbar_settings_button_title">সেটিংস বাটন দেখান</string>
   <string name="morphe_show_toolbar_settings_button_index_title">সেটিংস বোতাম অবস্থান</string>
   <string name="morphe_show_toolbar_settings_button_type_title">সেটিংস বোতাম অ্যাকশন</string>
-  <string name="morphe_show_toolbar_settings_button_type_summary">সক্ষম করা হলে, ট্যাপ করলে Morphe সেটিংস খুলবে এবং দীর্ঘক্ষণ চাপলে YouTube সেটিংস খুলবে, পরিবর্তন করতে অক্ষম করুন</string>
+  <string name="morphe_show_toolbar_settings_button_type_summary">সক্ষম করা হলে, ট্যাপ করলে YTritik সেটিংস খুলবে এবং দীর্ঘক্ষণ চাপলে YouTube সেটিংস খুলবে, পরিবর্তন করতে অক্ষম করুন</string>
   <!-- layout.hide.player.flyoutmenupanel.hidePlayerFlyoutMenuPatch -->
   <string name="morphe_hide_player_flyout_title">ফ্লাইআউট মেনু</string>
   <string name="morphe_hide_player_flyout_summary">ফ্লাইআউট মেনুতে কোন উপাদানগুলো প্রদর্শিত হবে তা নির্বাচন করুন</string>

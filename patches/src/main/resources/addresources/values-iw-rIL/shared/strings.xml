@@ -29,7 +29,7 @@ Second \"item\" text"</string>
   <!-- String is also duplicated in Reddit import / export preference -->
   <string name="morphe_settings_import">ייבוא</string>
   <string name="morphe_settings_import_copy">העתק</string>
-  <string name="morphe_settings_import_reset">הגדרות Morphe אופסו לברירת מחדל</string>
+  <string name="morphe_settings_import_reset">הגדרות YTritik אופסו לברירת מחדל</string>
   <string name="morphe_settings_import_success">%d הגדרות יובאו</string>
   <string name="morphe_settings_import_failure_parse">ייבוא נכשל: %s</string>
   <string name="morphe_settings_search_hint">חפש בהגדרות</string>
@@ -64,8 +64,8 @@ Second \"item\" text"</string>
   <string name="morphe_settings_export_file_success">הגדרות יובאו בהצלחה</string>
   <string name="morphe_settings_export_file_failed">נכשל לייצא הגדרות</string>
   <!-- String is also duplicated in Reddit about preference -->
-  <string name="morphe_settings_about_links_body_version_current">אתה משתמש בגרסה האחרונה של Morphe Patches &lt;i&gt;%s&lt;/i&gt;</string>
-  <string name="morphe_settings_about_links_body_version_outdated">אתה משתמש בגרסת Morphe Patches &lt;i&gt;%1$s&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;עדכון זמין: &lt;i&gt;%2$s&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;כדי לעדכן את התיקונים שלך, השתמש ב-Morphe כדי לתקן מחדש את האפליקציה הזו</string>
+  <string name="morphe_settings_about_links_body_version_current">אתה משתמש בגרסה האחרונה של YTritik Patches &lt;i&gt;%s&lt;/i&gt;</string>
+  <string name="morphe_settings_about_links_body_version_outdated">אתה משתמש בגרסת YTritik Patches &lt;i&gt;%1$s&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;עדכון זמין: &lt;i&gt;%2$s&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;כדי לעדכן את התיקונים שלך, השתמש ב-YTritik כדי לתקן מחדש את האפליקציה הזו</string>
   <string name="morphe_settings_about_links_dev_header">הערה</string>
   <string name="morphe_settings_about_links_dev_body">גרסה זו היא קדם-הפצה וייתכן שתיתקל בבעיות בלתי צפויות</string>
   <string name="morphe_settings_about_links_header">קישורים רשמיים</string>
@@ -74,7 +74,7 @@ Second \"item\" text"</string>
   <string name="morphe_settings_about_links_translations">תרגומים</string>
   <string name="morphe_settings_about_links_credits">קרדיטים</string>
   <string name="morphe_settings_about_links_dev_header_up_to_date">עדכני</string>
-  <string name="morphe_settings_about_links_dev_header_update_available">עדכון Morphe זמין</string>
+  <string name="morphe_settings_about_links_dev_header_update_available">עדכון YTritik זמין</string>
   <string name="morphe_settings_about_contributors_current">פיתוח נוכחי</string>
   <string name="morphe_settings_about_contributors_prior">פיתוח קודם</string>
   <string name="morphe_settings_about_links_morphe">פיתוח פעיל</string>

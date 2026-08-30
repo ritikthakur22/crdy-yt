@@ -29,7 +29,7 @@ Second \"item\" text"</string>
   <!-- String is also duplicated in Reddit import / export preference -->
   <string name="morphe_settings_import">واردکه‌</string>
   <string name="morphe_settings_import_copy">نوسه‌</string>
-  <string name="morphe_settings_import_reset">سازکه‌يه‌كانی Morphe گه‌رى سه‌ره‌وه ببه‌سته</string>
+  <string name="morphe_settings_import_reset">سازکه‌يه‌كانی YTritik گه‌رى سه‌ره‌وه ببه‌سته</string>
   <string name="morphe_settings_import_success">%d سازکه‌يه‌ک وارد کرا</string>
   <string name="morphe_settings_import_failure_parse">به‌خۆشه‌وه‌ `)` نه‌که‌ویته‌وه: %s</string>
   <string name="morphe_settings_search_hint">ئه‌لیکه‌ره‌خانه‌يه‌کى ڕاگرتنه‌کان</string>
@@ -67,7 +67,7 @@ Second \"item\" text"</string>
   <!-- misc.debugging.enableDebuggingPatch -->
   <string name="morphe_debug_screen_title">سەرپێچوان</string>
   <string name="morphe_debug_toast_on_error_title">نیشاندانی ڕێوشوێنی Morphe-ی نیشاده</string>
-  <string name="morphe_debug_toast_on_error_user_dialog_message">"کوژاندنەوەی toastsـی هەڵە هەموو ئاگادارکردنەوەکانی هەڵەی Morphe دەشارێتەوە.
+  <string name="morphe_debug_toast_on_error_user_dialog_message">"کوژاندنەوەی toastsـی هەڵە هەموو ئاگادارکردنەوەکانی هەڵەی YTritik دەشارێتەوە.
 
  لە هیچ ڕووداوێکی چاوەڕواننەکراو ئاگادار ناکرێیتەوە."</string>
   <string name="morphe_debug_logs_disabled">تۆمارکردنی چاککردنەوە لەکارخراوە</string>

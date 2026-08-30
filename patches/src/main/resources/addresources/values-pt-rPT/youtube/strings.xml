@@ -460,7 +460,7 @@ Informação: Pode não funcionar em transmissões ao vivo"</string>
   <string name="morphe_swap_save_and_queue_actions_title">Trocar ações de Salvar e Fila</string>
   <string name="morphe_swap_save_and_queue_actions_summary">Toque para opções de fila, toque e segure para salvar para assistir mais tarde</string>
   <string name="morphe_queue_override_flyout_menu_title">Substituir fila de reprodução flutuante</string>
-  <string name="morphe_queue_override_flyout_menu_summary">Abre a fila do Morphe em vez da fila do YouTube</string>
+  <string name="morphe_queue_override_flyout_menu_summary">Abre a fila do YTritik em vez da fila do YouTube</string>
   <string name="morphe_queue_add_flyout_menu_title">Adicionar item de menu de fila de feed</string>
   <string name="morphe_queue_add_flyout_menu_summary">Adiciona um item adicional de menu flutuante. Ative isso se \"Adicionar à fila\" não for exibido.</string>
   <string name="morphe_queue_manager_check_failed_auth">Não conectado</string>
@@ -672,7 +672,7 @@ Para corrigir isso, ative 'Simular streams de vídeo' e altere o 'Cliente padrã
   <string name="morphe_show_settings_button_title">Mostrar botão \'Configurações\'</string>
   <string name="morphe_show_settings_button_index_title">Posição do botão de configurações</string>
   <string name="morphe_show_settings_button_type_title">Ação do botão de configurações</string>
-  <string name="morphe_show_settings_button_type_summary">Quando ativado, tocar abre as configurações do Morphe e pressionar e segurar abre as configurações do YouTube, desativar para inverter</string>
+  <string name="morphe_show_settings_button_type_summary">Quando ativado, tocar abre as configurações do YTritik e pressionar e segurar abre as configurações do YouTube, desativar para inverter</string>
   <string name="morphe_swap_create_with_notifications_button_title">Troca o botão Criar pelo botão Notificações</string>
   <string name="morphe_swap_create_with_notifications_button_summary">Se alterar esta configuração não tiver efeito, tente mudar para o modo anônimo</string>
   <string name="morphe_hide_navigation_button_labels_title">Ocultar rótulos dos botões de navegação</string>
@@ -699,7 +699,7 @@ Para acessar as configurações, habilite o botão Configurações via Geral →
   <string name="morphe_show_toolbar_settings_button_title">Mostrar botão \'Configurações\'</string>
   <string name="morphe_show_toolbar_settings_button_index_title">Posição do botão de configurações</string>
   <string name="morphe_show_toolbar_settings_button_type_title">Ação do botão de configurações</string>
-  <string name="morphe_show_toolbar_settings_button_type_summary">Quando ativado, tocar abre as configurações do Morphe e pressionar e segurar abre as configurações do YouTube</string>
+  <string name="morphe_show_toolbar_settings_button_type_summary">Quando ativado, tocar abre as configurações do YTritik e pressionar e segurar abre as configurações do YouTube</string>
   <!-- layout.hide.player.flyoutmenupanel.hidePlayerFlyoutMenuPatch -->
   <string name="morphe_hide_player_flyout_title">Menu suspenso</string>
   <string name="morphe_hide_player_flyout_summary">Escolha quais componentes aparecem no menu flyout</string>
@@ -891,7 +891,7 @@ Layout automotivo
 
 Limitação: Se 'Restaurar a barra de ação de vídeo antiga' estiver desativado, a sobreposição de 'Mais vídeos' pode não estar disponível"</string>
   <!-- misc.spoof.appversion.spoofAppVersionPatch -->
-  <string name="morphe_spoof_app_version_target_entry_20_39">20.39.41 - Restaurar a versão antiga do Morphe Spoof para a playlist</string>
+  <string name="morphe_spoof_app_version_target_entry_20_39">20.39.41 - Restaurar a versão antiga do YTritik Spoof para a playlist</string>
   <string name="morphe_spoof_app_version_target_entry_20_28">20.28.41 - Desativar Ã­cones em negrito</string>
   <string name="morphe_spoof_app_version_target_entry_20_13">20.13.41 - Restaurar nome do canal abaixo do reprodutor de vídeo</string>
   <!-- misc.sharesheet.openSystemShareSheetPatch -->

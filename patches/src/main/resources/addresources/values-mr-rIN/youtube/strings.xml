@@ -443,13 +443,13 @@ OpenRouter.ai उघडण्यासाठी येथे टॅप करा
   <string name="morphe_save_to_watch_later_success_toast">व्हिडिओ यशस्वीरित्या ‘नंतर पहा’ प्लेलिस्टमध्ये जतन केला गेला</string>
   <string name="morphe_save_to_watch_later_already_exists_toast">हा व्हिडिओ ‘नंतर पहा’ प्लेलिस्टमध्ये आधीच जतन केला आहे</string>
   <string name="morphe_save_to_watch_later_error_toast">हा व्हिडिओ ‘नंतर पहा’ प्लेलिस्टमध्ये जतन करू शकत नाही</string>
-  <string name="morphe_queue_flyout_title">Morphe कतारमध्ये जोडा</string>
+  <string name="morphe_queue_flyout_title">YTritik कतारमध्ये जोडा</string>
   <string name="morphe_queue_restore_title">सत्रांमध्ये रांग ठेवा</string>
   <string name="morphe_queue_restore_summary">ॲप रीस्टार्ट केल्यानंतर रांग ठेवल्या जाईल</string>
   <string name="morphe_swap_save_and_queue_actions_title">स्वॅप सेव्ह आणि क्यू ॲक्शन</string>
   <string name="morphe_swap_save_and_queue_actions_summary">क्यू पर्यायांसाठी टॅप करा, नंतर पाहण्यासाठी सेव्ह करण्यासाठी टॅप आणि होल्ड करा</string>
   <string name="morphe_queue_override_flyout_menu_title">ओव्हरराइड फीड फ्लायआउट क्यू बटण</string>
-  <string name="morphe_queue_override_flyout_menu_summary">Morphe रांग YouTube रांग ऐवजी उघडते</string>
+  <string name="morphe_queue_override_flyout_menu_summary">YTritik रांग YouTube रांग ऐवजी उघडते</string>
   <string name="morphe_queue_add_flyout_menu_title">फीड फ्लायआउट रांग मेनू आयटम जोडा</string>
   <string name="morphe_queue_add_flyout_menu_summary">एक अतिरिक्त फ्लायआउट आयटम जोडते. \'रांगेत जोडा\' दिसत नसल्यास हे सक्षम करा.</string>
   <string name="morphe_queue_manager_check_failed_auth">लॉग इन केलेले नाही</string>
@@ -465,7 +465,7 @@ OpenRouter.ai उघडण्यासाठी येथे टॅप करा
   <string name="morphe_queue_manager_fetch_succeeded_create">क्यू तयार केली</string>
   <string name="morphe_queue_manager_fetch_succeeded_remove">क्यू मधून काढले</string>
   <string name="morphe_queue_manager_fetch_succeeded_save">क्यू %s वर जतन केली</string>
-  <string name="morphe_queue_manager_playlist_title">Morphe Queue</string>
+  <string name="morphe_queue_manager_playlist_title">YTritik Queue</string>
   <string name="morphe_queue_manager_add_to_queue">क्यू मध्ये जोडा</string>
   <string name="morphe_queue_manager_add_to_queue_and_open_queue">क्यू मध्ये जोडा आणि उघडा</string>
   <string name="morphe_queue_manager_add_to_queue_and_play_video">क्यू मध्ये जोडा आणि प्ले करा</string>

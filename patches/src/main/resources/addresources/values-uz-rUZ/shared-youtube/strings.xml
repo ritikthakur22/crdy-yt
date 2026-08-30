@@ -56,20 +56,20 @@ Paket nomi to'g'ri ekanligini va ilova o'rnatilganligini tekshiring"</string>
   <string name="morphe_custom_branding_name_entry_5">Maxsus</string>
   <string name="morphe_custom_branding_icon_title">Ilova belgisi</string>
   <string name="morphe_custom_branding_icon_entry_1">Asl</string>
-  <string name="morphe_custom_branding_icon_entry_2">Morphe qora</string>
-  <string name="morphe_custom_branding_icon_entry_3">Morphe quyuq</string>
-  <string name="morphe_custom_branding_icon_entry_4">Morphe yengil</string>
+  <string name="morphe_custom_branding_icon_entry_2">YTritik qora</string>
+  <string name="morphe_custom_branding_icon_entry_3">YTritik quyuq</string>
+  <string name="morphe_custom_branding_icon_entry_4">YTritik yengil</string>
   <!-- Translation should match morphe_custom_branding_notification_icon_entry_3 -->
-  <string name="morphe_custom_branding_icon_entry_5">Morphe play yorug‘</string>
+  <string name="morphe_custom_branding_icon_entry_5">YTritik play yorug‘</string>
   <!-- Translation should match morphe_custom_branding_notification_icon_entry_3 -->
-  <string name="morphe_custom_branding_icon_entry_6">Morphe play qora</string>
+  <string name="morphe_custom_branding_icon_entry_6">YTritik play qora</string>
   <!-- Translations of this should be identical to morphe_custom_branding_name_entry_5 -->
   <string name="morphe_custom_branding_icon_entry_7">Maxsus</string>
   <string name="morphe_custom_branding_notification_icon_title">Bildirishnoma belgisi</string>
   <string name="morphe_custom_branding_notification_icon_entry_1">Ilova belgisi</string>
-  <string name="morphe_custom_branding_notification_icon_entry_3">Morphe play</string>
+  <string name="morphe_custom_branding_notification_icon_entry_3">YTritik play</string>
   <!-- misc.dns.checkWatchHistoryDomainNameResolutionPatch -->
-  <string name="morphe_check_watch_history_domain_name_dialog_title">Morphe bildirishnomasi</string>
+  <string name="morphe_check_watch_history_domain_name_dialog_title">YTritik bildirishnomasi</string>
   <string name="morphe_check_watch_history_domain_name_dialog_message">Sizning tomosha qilish tarixingiz saqlanmayapti.&lt;br&gt;&lt;br&gt;Buning asosiy sababi DNS reklama bloklagichi yoki tarmoq proksisi bo‘lishi mumkin.&lt;br&gt;&lt;br&gt;Buni tuzatish uchun, &lt;b&gt;s.youtube.com&lt;/b&gt; ni oq ro‘yxatga kiritishingiz yoki barcha DNS bloklagichlari va proksilarni o‘chirishingiz kerak.</string>
   <string name="morphe_check_watch_history_domain_name_dialog_ignore">Yana ko‘rsatmaslik</string>
   <!-- misc.spoof.spoofVideoStreamsPatch -->
@@ -112,7 +112,7 @@ Kirish uchun quyida 'Davom etish' tugmasini bosing"</string>
   <string name="morphe_spoof_video_streams_sign_in_android_vr_success_dialog_title">Muammosiz kirish amalga oshirildi</string>
   <string name="morphe_spoof_video_streams_sign_in_android_vr_success_dialog_message">"Kimlik tasdiqlanishi saqlab qolindi
 
-• Morphe sozlamalaringiz Android VR kimlik tasdiqlanishini import yoki eksport qilmaydi
+• YTritik sozlamalaringiz Android VR kimlik tasdiqlanishini import yoki eksport qilmaydi
 • Agar ushbu ilovadan 6 oy davomida foydalanilmasa, Google ushbu kimlik tasdiqlanishini olib tashlaydi
 • Google sozlamalaringizda shaxsiy ma’lumotlaringizni bekor qilganingiz yoki Google parolizni o‘zgartirganingizda yana kiringishingiz kerak"</string>
   <string name="morphe_oauth2_connection_failure_timeout">OAuth2 vaqtinchalik mavjud emas (API vaqti tugadi)</string>
@@ -214,7 +214,7 @@ Keyinchalik o'chirilganda, UI xatolarini oldini olish uchun ilova ma'lumotlarini
   <string name="morphe_ryd_attribution_summary">"Ma'lumot Return YouTube Dislike API tomonidan taqdim etiladi
 
 Batafsil ma'lumot olish uchun ReturnYouTubeDislike.com saytiga tashrif buyuring"</string>
-  <!-- Statistic strings are shown in the settings only when Morphe debug mode is enabled. Typical users will never see these. -->
+  <!-- Statistic strings are shown in the settings only when YTritik debug mode is enabled. Typical users will never see these. -->
   <string name="morphe_ryd_statistics_category_title">Return YouTube Dislike API statistikasi (ushbu qurilma)</string>
   <string name="morphe_ryd_statistics_getFetchCallResponseTimeAverage_title">API javob vaqti, o\'rtacha</string>
   <string name="morphe_ryd_statistics_getFetchCallResponseTimeMin_title">API javob vaqti, minimal</string>

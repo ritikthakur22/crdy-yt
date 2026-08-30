@@ -88,8 +88,8 @@ Second \"item\" text"</string>
   <string name="morphe_sb_api_url_changed">API URL\'si değiştirildi</string>
   <string name="morphe_sb_settings_ie_title">Ayarları içe / dışa aktar</string>
   <string name="morphe_sb_settings_copy">Kopyala</string>
-  <string name="morphe_sb_settings_ie_summary">Morphe\'e ve diğer SponsorBlock platformlarına aktarılabilecek SponsorBlock JSON yapılandırmanız</string>
-  <string name="morphe_sb_settings_ie_summary_warning">"Morphe ve diğer SponsorBlock platformlarına aktarılabilecek SponsorBlock JSON yapılandırmanız
+  <string name="morphe_sb_settings_ie_summary">YTritik\'e ve diğer SponsorBlock platformlarına aktarılabilecek SponsorBlock JSON yapılandırmanız</string>
+  <string name="morphe_sb_settings_ie_summary_warning">"YTritik ve diğer SponsorBlock platformlarına aktarılabilecek SponsorBlock JSON yapılandırmanız
     
 Bu, özel kullanıcı kimliğinizi içerir. Bunu paylaşırken dikkatli olun"</string>
   <string name="morphe_sb_settings_import_successful">Ayarlar başarıyla içe aktarıldı</string>

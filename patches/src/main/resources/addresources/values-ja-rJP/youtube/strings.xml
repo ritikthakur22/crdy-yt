@@ -18,7 +18,7 @@ Second \"item\" text"</string>
 <resources>
   <!-- misc.settings.settingsPatch -->
   <!-- In languages where "About" is ambiguous, translate this as "About Morphe" (i.e., About this app). -->
-  <string name="morphe_settings_screen_00_about_title">Morphe について</string>
+  <string name="morphe_settings_screen_00_about_title">YTritik について</string>
   <string name="morphe_settings_screen_01_ads_title">広告</string>
   <string name="morphe_settings_screen_02_alt_thumbnails_title">代替サムネイル</string>
   <string name="morphe_settings_screen_03_feed_title">フィード</string>
@@ -454,13 +454,13 @@ APIキーは決して共有しないでください。アクセス権を持つ�
   <string name="morphe_save_to_watch_later_success_toast">動画を「後で見る」に保存しました</string>
   <string name="morphe_save_to_watch_later_already_exists_toast">この動画は既に「後で見る」に保存されています</string>
   <string name="morphe_save_to_watch_later_error_toast">この動画は「後で見る」に保存できません</string>
-  <string name="morphe_queue_flyout_title">Morphe キューに追加</string>
+  <string name="morphe_queue_flyout_title">YTritik キューに追加</string>
   <string name="morphe_queue_restore_title">セッションをまたいでキューを保持</string>
   <string name="morphe_queue_restore_summary">アプリを終了または再起動したときにキューを保持します</string>
   <string name="morphe_swap_save_and_queue_actions_title">「後で見るに保存」ボタンの動作を入れ替える</string>
   <string name="morphe_swap_save_and_queue_actions_summary">タップするとキュー オプションを表示します。長押しすると、動画を「後で見る」に保存します。</string>
   <string name="morphe_queue_override_flyout_menu_title">フィードのフライアウト メニューのキューの項目の動作を上書き</string>
-  <string name="morphe_queue_override_flyout_menu_summary">YouTube のキューの代わりに Morphe のキューを開きます</string>
+  <string name="morphe_queue_override_flyout_menu_summary">YouTube のキューの代わりに YTritik のキューを開きます</string>
   <string name="morphe_queue_add_flyout_menu_title">フィードのフライアウト メニューにキューの項目を追加</string>
   <string name="morphe_queue_add_flyout_menu_summary">フィードのフライアウト メニューにキューの項目を追加します。「キューに追加」が表示されない場合に、この機能を有効にしてください</string>
   <string name="morphe_queue_manager_check_failed_auth">ログインしていません</string>
@@ -476,7 +476,7 @@ APIキーは決して共有しないでください。アクセス権を持つ�
   <string name="morphe_queue_manager_fetch_succeeded_create">キューを作成しました</string>
   <string name="morphe_queue_manager_fetch_succeeded_remove">キューから削除しました</string>
   <string name="morphe_queue_manager_fetch_succeeded_save">キューを %s に保存しました</string>
-  <string name="morphe_queue_manager_playlist_title">Morphe キュー</string>
+  <string name="morphe_queue_manager_playlist_title">YTritik キュー</string>
   <string name="morphe_queue_manager_add_to_queue">キューに追加</string>
   <string name="morphe_queue_manager_add_to_queue_and_open_queue">キューに追加して開く</string>
   <string name="morphe_queue_manager_add_to_queue_and_play_video">キューに追加して再生</string>
@@ -672,7 +672,7 @@ APIキーは決して共有しないでください。アクセス権を持つ�
   <string name="morphe_show_settings_button_title">設定ボタンを表示</string>
   <string name="morphe_show_settings_button_index_title">設定ボタンの表示位置</string>
   <string name="morphe_show_settings_button_type_title">設定ボタンの動作</string>
-  <string name="morphe_show_settings_button_type_summary">オンの場合は Morphe の設定を、オフの場合は YouTube の設定を開きます</string>
+  <string name="morphe_show_settings_button_type_summary">オンの場合は YTritik の設定を、オフの場合は YouTube の設定を開きます</string>
   <string name="morphe_swap_create_with_notifications_button_title">作成ボタンと通知ボタンを入れ替える</string>
   <string name="morphe_swap_create_with_notifications_button_summary">この設定を変更しても反映されない場合は、シークレット モードへの切り替えをお試しください</string>
   <string name="morphe_hide_navigation_button_labels_title">ボタンをアイコンのみで表示</string>
@@ -700,7 +700,7 @@ APIキーは決して共有しないでください。アクセス権を持つ�
   <string name="morphe_show_toolbar_settings_button_title">設定ボタンを表示</string>
   <string name="morphe_show_toolbar_settings_button_index_title">設定ボタンの表示位置</string>
   <string name="morphe_show_toolbar_settings_button_type_title">設定ボタンの動作</string>
-  <string name="morphe_show_toolbar_settings_button_type_summary">この設定がオンの場合、タップすると Morphe の設定を、長押しすると YouTube の設定を開きます。オフの場合は動作が入れ替わります</string>
+  <string name="morphe_show_toolbar_settings_button_type_summary">この設定がオンの場合、タップすると YTritik の設定を、長押しすると YouTube の設定を開きます。オフの場合は動作が入れ替わります</string>
   <!-- layout.hide.player.flyoutmenupanel.hidePlayerFlyoutMenuPatch -->
   <string name="morphe_hide_player_flyout_title">フライアウト メニュー</string>
   <string name="morphe_hide_player_flyout_summary">プレーヤー オーバーレイの歯車アイコンボタンから呼び出されるメニューに表示するコンポーネントを設定します</string>

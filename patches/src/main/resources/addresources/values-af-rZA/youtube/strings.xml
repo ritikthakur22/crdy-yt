@@ -476,7 +476,7 @@ Info: Werk moontlik nie op regstreekse uitsendings nie"</string>
   <string name="morphe_queue_manager_fetch_succeeded_create">Waglys geskep</string>
   <string name="morphe_queue_manager_fetch_succeeded_remove">Van waglys verwyder</string>
   <string name="morphe_queue_manager_fetch_succeeded_save">Waglys gestoor na %s</string>
-  <string name="morphe_queue_manager_playlist_title">Morphe Queue</string>
+  <string name="morphe_queue_manager_playlist_title">YTritik Queue</string>
   <string name="morphe_queue_manager_add_to_queue">By waglys voeg</string>
   <string name="morphe_queue_manager_add_to_queue_and_open_queue">By waglys voeg en oopmaak</string>
   <string name="morphe_queue_manager_add_to_queue_and_play_video">By waglys voeg en video speel</string>
@@ -669,7 +669,7 @@ Om dit reg te stel, skakel 'Vervals videostrome' aan en verander die 'Verstekkli
   <string name="morphe_hide_notifications_button_title">Hide Search button</string>
   <string name="morphe_show_search_button_title">Show Settings button</string>
   <string name="morphe_show_search_button_index_title">Settings button position</string>
-  <string name="morphe_show_settings_button_title">When enabled, tap opens Morphe settings and long press opens YouTube settings, disable to swap</string>
+  <string name="morphe_show_settings_button_title">When enabled, tap opens YTritik settings and long press opens YouTube settings, disable to swap</string>
   <string name="morphe_show_settings_button_index_title">Reduces the horizontal spacing between buttons</string>
   <string name="morphe_show_settings_button_type_title">Instellings-knoppie aksie</string>
   <string name="morphe_show_settings_button_type_summary">Animates transitions when switching between tabs</string>

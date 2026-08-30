@@ -23,7 +23,7 @@ Second \"item\" text"</string>
     <!-- layout.branding.header.changeHeaderPatch -->
     <string name="morphe_header_logo_title">Header logo</string>
     <string name="morphe_header_logo_entry_1">Default</string>
-    <string name="morphe_header_logo_entry_2" translatable="false">Morphe</string>
+    <string name="morphe_header_logo_entry_2" translatable="false">YTritik</string>
     <string name="morphe_header_logo_entry_3">Custom</string>
 
     <!-- interaction.downloads.downloadsPatch -->

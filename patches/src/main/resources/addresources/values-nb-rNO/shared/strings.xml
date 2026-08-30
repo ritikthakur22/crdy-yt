@@ -29,7 +29,7 @@ Second \"item\" text"</string>
   <!-- String is also duplicated in Reddit import / export preference -->
   <string name="morphe_settings_import">Importer</string>
   <string name="morphe_settings_import_copy">Kopier</string>
-  <string name="morphe_settings_import_reset">Morphe-innstillinger tilbakestilt til standard</string>
+  <string name="morphe_settings_import_reset">YTritik-innstillinger tilbakestilt til standard</string>
   <string name="morphe_settings_import_success">Importerte %d innstillinger</string>
   <string name="morphe_settings_import_failure_parse">Import mislyktes: %s</string>
   <string name="morphe_settings_search_hint">Søk i innstillinger</string>
@@ -50,7 +50,7 @@ Second \"item\" text"</string>
   <string name="morphe_settings_search_history_title">Vis innstillingssøkehistorikk</string>
   <string name="morphe_show_menu_icons_title">Vis Morphe-innstillingsikoner</string>
   <string name="morphe_settings_menu_copy_path">Kopiert: %s</string>
-  <string name="morphe_language_title">Morphe språk</string>
+  <string name="morphe_language_title">YTritik språk</string>
   <string name="morphe_language_user_dialog_message">"Oversettelser for noen språk kan mangle eller være ufullstendige.
 
 For å oversette nye språk eller forbedre de eksisterende oversettelsene, besøk morphe.software/translate"</string>
@@ -64,8 +64,8 @@ For å oversette nye språk eller forbedre de eksisterende oversettelsene, besø
   <string name="morphe_settings_export_file_success">Innstillinger eksportert vellykket</string>
   <string name="morphe_settings_export_file_failed">Eksportering av innstillinger mislyktes</string>
   <!-- String is also duplicated in Reddit about preference -->
-  <string name="morphe_settings_about_links_body_version_current">Du bruker den nyeste Morphe Patches-versjonen &lt;i&gt;%s&lt;/i&gt;</string>
-  <string name="morphe_settings_about_links_body_version_outdated">Du bruker Morphe Patches-versjon &lt;i&gt;%1$s&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Oppdatering tilgjengelig: &lt;i&gt;%2$s&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;For å oppdatere patchene, bruk Morphe til å patche denne appen på nytt</string>
+  <string name="morphe_settings_about_links_body_version_current">Du bruker den nyeste YTritik Patches-versjonen &lt;i&gt;%s&lt;/i&gt;</string>
+  <string name="morphe_settings_about_links_body_version_outdated">Du bruker YTritik Patches-versjon &lt;i&gt;%1$s&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Oppdatering tilgjengelig: &lt;i&gt;%2$s&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;For å oppdatere patchene, bruk YTritik til å patche denne appen på nytt</string>
   <string name="morphe_settings_about_links_dev_header">Merk</string>
   <string name="morphe_settings_about_links_dev_body">Denne versjonen er en forhåndsutgivelse, og du kan oppleve uventede problemer</string>
   <string name="morphe_settings_about_links_header">Offisielle lenker</string>

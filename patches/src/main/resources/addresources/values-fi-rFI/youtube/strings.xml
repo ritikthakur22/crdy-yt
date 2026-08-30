@@ -476,7 +476,7 @@ Tieto: Ei välttämättä toimi suoratoistoissa"</string>
   <string name="morphe_queue_manager_fetch_succeeded_create">Jono luotu</string>
   <string name="morphe_queue_manager_fetch_succeeded_remove">Poistettu jonosta</string>
   <string name="morphe_queue_manager_fetch_succeeded_save">Jono tallennettu osoitteeseen %s</string>
-  <string name="morphe_queue_manager_playlist_title">Morphe-jono</string>
+  <string name="morphe_queue_manager_playlist_title">YTritik-jono</string>
   <string name="morphe_queue_manager_add_to_queue">Lisää jonoon</string>
   <string name="morphe_queue_manager_add_to_queue_and_open_queue">Lisää jonoon ja avaa</string>
   <string name="morphe_queue_manager_add_to_queue_and_play_video">Lisää jonoon ja toista</string>

@@ -88,8 +88,8 @@ Second \"item\" text"</string>
   <string name="morphe_sb_api_url_changed">Se ha cambiado la URL de la API</string>
   <string name="morphe_sb_settings_ie_title">Importar / Exportar ajustes</string>
   <string name="morphe_sb_settings_copy">Copiar</string>
-  <string name="morphe_sb_settings_ie_summary">Tus ajustes de SponsorBlock en formato JSON que se pueden importar o exportar en Morphe y otras plataformas</string>
-  <string name="morphe_sb_settings_ie_summary_warning">"Tu configuración JSON de SponsorBlock que se puede importar o exportar en Morphe y en otras plataformas
+  <string name="morphe_sb_settings_ie_summary">Tus ajustes de SponsorBlock en formato JSON que se pueden importar o exportar en YTritik y otras plataformas</string>
+  <string name="morphe_sb_settings_ie_summary_warning">"Tu configuración JSON de SponsorBlock que se puede importar o exportar en YTritik y en otras plataformas
 
 Incluye tu ID de usuario privado. Compártela con cuidado"</string>
   <string name="morphe_sb_settings_import_successful">Ajustes importados correctamente</string>

@@ -52,20 +52,20 @@ Staðfestu að pakkanafnið er rétt og að forritið er uppsett"</string>
   <string name="morphe_custom_branding_name_entry_5">Sérsniðin</string>
   <string name="morphe_custom_branding_icon_title">App tákn</string>
   <string name="morphe_custom_branding_icon_entry_1">Upprunalegt</string>
-  <string name="morphe_custom_branding_icon_entry_2">Morphe svartur</string>
-  <string name="morphe_custom_branding_icon_entry_3">Morphe dökkur</string>
-  <string name="morphe_custom_branding_icon_entry_4">Morphe ljósur</string>
+  <string name="morphe_custom_branding_icon_entry_2">YTritik svartur</string>
+  <string name="morphe_custom_branding_icon_entry_3">YTritik dökkur</string>
+  <string name="morphe_custom_branding_icon_entry_4">YTritik ljósur</string>
   <!-- Translation should match morphe_custom_branding_notification_icon_entry_3 -->
-  <string name="morphe_custom_branding_icon_entry_5">Morphe spila ljós</string>
+  <string name="morphe_custom_branding_icon_entry_5">YTritik spila ljós</string>
   <!-- Translation should match morphe_custom_branding_notification_icon_entry_3 -->
-  <string name="morphe_custom_branding_icon_entry_6">Morphe spila svartur</string>
+  <string name="morphe_custom_branding_icon_entry_6">YTritik spila svartur</string>
   <!-- Translations of this should be identical to morphe_custom_branding_name_entry_5 -->
   <string name="morphe_custom_branding_icon_entry_7">Sérsniðin</string>
   <string name="morphe_custom_branding_notification_icon_title">Tákn tilkynninga</string>
   <string name="morphe_custom_branding_notification_icon_entry_1">Passa við tákn app</string>
-  <string name="morphe_custom_branding_notification_icon_entry_3">Morphe spila</string>
+  <string name="morphe_custom_branding_notification_icon_entry_3">YTritik spila</string>
   <!-- misc.dns.checkWatchHistoryDomainNameResolutionPatch -->
-  <string name="morphe_check_watch_history_domain_name_dialog_title">Morphe tilkynning</string>
+  <string name="morphe_check_watch_history_domain_name_dialog_title">YTritik tilkynning</string>
   <string name="morphe_check_watch_history_domain_name_dialog_message">Ekki er hægt að vista skoðunarhistórikuna þína.&lt;br&gt;&lt;br&gt;Þetta stafar líklega af DNS auglýsingablokkera eða nettengjum.&lt;br&gt;&lt;br&gt;Til að laga þetta skaltu bæta &lt;b&gt;s.youtube.com&lt;/b&gt; á hvítlista eða slökkva á öllum DNS blokkerum og tengjum.</string>
   <string name="morphe_check_watch_history_domain_name_dialog_ignore">Ekki sýna aftur</string>
   <!-- misc.spoof.spoofVideoStreamsPatch -->
@@ -108,7 +108,7 @@ Til að skrá þig inn ýttu á halda áfram hér að neðan"</string>
   <string name="morphe_spoof_video_streams_sign_in_android_vr_success_dialog_title">Skráning tókst</string>
   <string name="morphe_spoof_video_streams_sign_in_android_vr_success_dialog_message">"Staðfesting vistað
 
-• Morphe stillingar munu ekki flytja / flytja Android VR staðfestingu
+• YTritik stillingar munu ekki flytja / flytja Android VR staðfestingu
 • Ef þetta forrit er ekki notað í 6 mánuði mun Google fjarlægja þessa staðfestingu
 • Þú þarft að skrá þig inn aftur ef þú breytir Google lykilorðinu þínu eða hættir þessu tæki úr Google stillingum þínum"</string>
   <string name="morphe_oauth2_connection_failure_timeout">OAuth2 er tímabundið ekki í boði (API tímdi út)</string>
@@ -210,7 +210,7 @@ Ef þú slökkvir þetta síðar er mælt með því að eyða gögnum appsins t
   <string name="morphe_ryd_attribution_summary">"Gögn eru veitt af Return YouTube Dislike API
 
 Tappaðu hér til að opna ReturnYouTubeDislike.com"</string>
-  <!-- Statistic strings are shown in the settings only when Morphe debug mode is enabled. Typical users will never see these. -->
+  <!-- Statistic strings are shown in the settings only when YTritik debug mode is enabled. Typical users will never see these. -->
   <string name="morphe_ryd_statistics_category_title">Return YouTube Dislike API tölfræði þessa tækis</string>
   <string name="morphe_ryd_statistics_getFetchCallResponseTimeAverage_title">Svarstími API, meðaltal</string>
   <string name="morphe_ryd_statistics_getFetchCallResponseTimeMin_title">Svarstími API, lágmark</string>

@@ -50,45 +50,8 @@ class AboutRoutes {
 
         return latestPatchesVersion != null && (now - latestPatchesVersionLastCheckedTime) < updateCheckFrequency;
     }
-
     @Nullable
     static String getLatestPatchesVersion() {
-        String version = latestPatchesVersion;
-        if (version != null) return version;
-
-        if (!Utils.isNetworkConnected()) return null;
-
-        try {
-            HttpURLConnection connection = Requester.getConnectionFromCompiledRoute(
-                    GITHUB_URL, GITHUB_ROUTE_PATCHES);
-            connection.setConnectTimeout(5000);
-            connection.setReadTimeout(5000);
-            Logger.printDebug(() -> "Fetching latest patches version links from: " + connection.getURL());
-
-            // Do not show an exception toast if the server is down
-            final int responseCode = connection.getResponseCode();
-            if (responseCode != 200) {
-                Logger.printDebug(() -> "Failed to get patches bundle. Response code: " + responseCode);
-                return null;
-            }
-
-            JSONObject json = Requester.parseJSONObjectAndDisconnect(connection);
-            version = json.getString("version");
-            if (version.startsWith("v")) {
-                version = version.substring(1);
-            }
-            latestPatchesVersion = version;
-            latestPatchesVersionLastCheckedTime = System.currentTimeMillis();
-
-            return version;
-        } catch (SocketTimeoutException ex) {
-            Logger.printInfo(() -> "Could not fetch patches version", ex); // No toast.
-        } catch (JSONException ex) {
-            Logger.printException(() -> "Could not parse about information", ex);
-        } catch (Exception ex) {
-            Logger.printException(() -> "Failed to get patches version", ex);
-        }
-
         return null;
     }
 

@@ -449,13 +449,13 @@ Ma'lumot: Jonli efirlarda ishlamasligi mumkin"</string>
   <string name="morphe_save_to_watch_later_success_toast">Video Watch Later pleyistiga saqlab qoʻyildi</string>
   <string name="morphe_save_to_watch_later_already_exists_toast">Ushbu video hali Watch Later pleyistida saqlangan</string>
   <string name="morphe_save_to_watch_later_error_toast">Ushbu videoni Watch Later ga saqlab boʻlmadi</string>
-  <string name="morphe_queue_flyout_title">Morphe navbatiga qo\'sh</string>
+  <string name="morphe_queue_flyout_title">YTritik navbatiga qo\'sh</string>
   <string name="morphe_queue_restore_title">Ilovaning qayta ishga tushirilgandan so\'ng navbat saqlanadi</string>
   <string name="morphe_queue_restore_summary">Kirish qilinmagan</string>
   <string name="morphe_swap_save_and_queue_actions_title">Saqlash uchun teging, navbatga qo\'shish uchun bosib ushlab turing</string>
   <string name="morphe_swap_save_and_queue_actions_summary">Kutubxonadagi vazifalarni ko\'rish uchun bosing, keyinroq tomosha qilish uchun bosib ushlab turing</string>
   <string name="morphe_queue_override_flyout_menu_title">Oqim menyusi navbat tugmasini bekor qilish</string>
-  <string name="morphe_queue_override_flyout_menu_summary">YouTube navbati o\'rniga Morphe navbatini ochadi</string>
+  <string name="morphe_queue_override_flyout_menu_summary">YouTube navbati o\'rniga YTritik navbatini ochadi</string>
   <string name="morphe_queue_add_flyout_menu_title">Lenta ochiladigan menyusiga navbat bandini qo\'shish</string>
   <string name="morphe_queue_add_flyout_menu_summary">Qo\'shimcha ochiladigan menyu bandini qo\'shadi. Agar \"Navbatga qo\'shish\" ko\'rsatilmasa, buni yoqing</string>
   <string name="morphe_queue_manager_check_failed_auth">Tizimga kirmagan</string>
@@ -471,7 +471,7 @@ Ma'lumot: Jonli efirlarda ishlamasligi mumkin"</string>
   <string name="morphe_queue_manager_fetch_succeeded_create">Navbatdan olib tashlandi</string>
   <string name="morphe_queue_manager_fetch_succeeded_remove">Navbat %s ga saqlandi</string>
   <string name="morphe_queue_manager_fetch_succeeded_save">Navbat %s ga saqlab qoʻyildi</string>
-  <string name="morphe_queue_manager_playlist_title">Morphe Navbati</string>
+  <string name="morphe_queue_manager_playlist_title">YTritik Navbati</string>
   <string name="morphe_queue_manager_add_to_queue">Navbatga qo\'shish va ochish</string>
   <string name="morphe_queue_manager_add_to_queue_and_open_queue">Navbatga qo\'shish va video oynatish</string>
   <string name="morphe_queue_manager_add_to_queue_and_play_video">Video va navbatni qayta yuklash</string>
@@ -667,7 +667,7 @@ Buni tuzatish uchun, 'Video oqimlarini soxtalashtirish'ni yoqing va 'Standart mi
   <string name="morphe_show_settings_button_title">Sozlamalar tugmasini koʻrsatish</string>
   <string name="morphe_show_settings_button_index_title">Sozlamalar tugmasining pozitsiyasi</string>
   <string name="morphe_show_settings_button_type_title">Sozlamalar tugmasining harakati</string>
-  <string name="morphe_show_settings_button_type_summary">Agar yoqilgan boʻlsa Morphe sozlamalarini ochadi, agar oʻchirilsa YouTube sozlamalarini ochadi</string>
+  <string name="morphe_show_settings_button_type_summary">Agar yoqilgan boʻlsa YTritik sozlamalarini ochadi, agar oʻchirilsa YouTube sozlamalarini ochadi</string>
   <string name="morphe_swap_create_with_notifications_button_title">Yaratish tugmasini bildirishnoma tugmasi bilan almashtirish</string>
   <string name="morphe_swap_create_with_notifications_button_summary">Agar ushbu sozlamani o\'zgartirish ta\'sir qilmasa, inkognito rejimiga o\'ting</string>
   <string name="morphe_hide_navigation_button_labels_title">Navigatsiya tugma yorliqlarini yashirish</string>

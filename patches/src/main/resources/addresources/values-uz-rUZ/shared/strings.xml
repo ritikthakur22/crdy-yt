@@ -29,7 +29,7 @@ Second \"item\" text"</string>
   <!-- String is also duplicated in Reddit import / export preference -->
   <string name="morphe_settings_import">Import</string>
   <string name="morphe_settings_import_copy">Nusxa ko\'chirish</string>
-  <string name="morphe_settings_import_reset">Morphe sozlamalari standart holatga qaytarildi</string>
+  <string name="morphe_settings_import_reset">YTritik sozlamalari standart holatga qaytarildi</string>
   <string name="morphe_settings_import_success">%d ta sozlamalar import qilindi</string>
   <string name="morphe_settings_import_failure_parse">Import xatosi: %s</string>
   <string name="morphe_settings_search_hint">Sozlamalarni qidirish</string>
@@ -48,15 +48,15 @@ Second \"item\" text"</string>
   <string name="morphe_settings_search_empty_history_title">Qidiruv tarixi bo\'sh</string>
   <string name="morphe_settings_search_empty_history_summary">Qidiruv tarixini saqlash uchun qidiruv so\'rovini yozing va Enter tugmasini bosing</string>
   <string name="morphe_settings_search_history_title">Sozlamalar qidiruv tarixini ko\'rsatish</string>
-  <string name="morphe_show_menu_icons_title">Morphe sozlamalari belgilarini ko\'rsatish</string>
+  <string name="morphe_show_menu_icons_title">YTritik sozlamalari belgilarini ko\'rsatish</string>
   <string name="morphe_settings_menu_copy_path">Nusxalandi: %s</string>
-  <string name="morphe_language_title">Morphe tili</string>
+  <string name="morphe_language_title">YTritik tili</string>
   <string name="morphe_language_user_dialog_message">"Ba'zi tillar uchun tarjimalar yo'q yoki chala bo'lishi mumkin.
 
 Yangi tillarni tarjima qilish yoki mavjud tarjimalarni yaxshilash uchun morphe.software/translate sahifasiga tashrif buyuring"</string>
   <string name="morphe_language_DEFAULT">Ilova tili</string>
   <string name="morphe_pref_import_export_title">Import / Eksport</string>
-  <string name="morphe_pref_import_export_summary">Morphe sozlamalarini import / eksport qilish</string>
+  <string name="morphe_pref_import_export_summary">YTritik sozlamalarini import / eksport qilish</string>
   <string name="morphe_settings_import_file">Fayldan import qilish</string>
   <string name="morphe_settings_import_file_success">Sozlamalar muvaffaqiyatli import qilindi, tatbiq qilish uchun Saqlashni bosing</string>
   <string name="morphe_settings_import_file_failed">Sozlamalarni import qilishda xato yuz berdi</string>
@@ -64,8 +64,8 @@ Yangi tillarni tarjima qilish yoki mavjud tarjimalarni yaxshilash uchun morphe.s
   <string name="morphe_settings_export_file_success">Sozlamalar muvaffaqiyatli eksport qilindi</string>
   <string name="morphe_settings_export_file_failed">Sozlamalarni eksport qilishda xato yuz berdi</string>
   <!-- String is also duplicated in Reddit about preference -->
-  <string name="morphe_settings_about_links_body_version_current">Siz Morphe Patches-larning eng so\'nggi versiyasi &lt;i&gt;%s&lt;/i&gt;dan foydalanmoqdasiz</string>
-  <string name="morphe_settings_about_links_body_version_outdated">Siz Morphe Patches-larning &lt;i&gt;%1$s&lt;/i&gt; versiyasidan foydalanmoqdasiz&lt;br&gt;&lt;br&gt;&lt;b&gt;Yangilanish mavjud: &lt;i&gt;%2$s&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Patch-laringizni yangilash uchun Morphe yordamida ushbu ilovani qayta patch qiling</string>
+  <string name="morphe_settings_about_links_body_version_current">Siz YTritik Patches-larning eng so\'nggi versiyasi &lt;i&gt;%s&lt;/i&gt;dan foydalanmoqdasiz</string>
+  <string name="morphe_settings_about_links_body_version_outdated">Siz YTritik Patches-larning &lt;i&gt;%1$s&lt;/i&gt; versiyasidan foydalanmoqdasiz&lt;br&gt;&lt;br&gt;&lt;b&gt;Yangilanish mavjud: &lt;i&gt;%2$s&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Patch-laringizni yangilash uchun YTritik yordamida ushbu ilovani qayta patch qiling</string>
   <string name="morphe_settings_about_links_dev_header">Eslatma</string>
   <string name="morphe_settings_about_links_dev_body">Ushbu versiya pre-reliz hisoblanadi va kutilmagan muammolar yuzaga kelishi mumkin</string>
   <string name="morphe_settings_about_links_header">Rasmiy havolalar</string>
@@ -89,12 +89,12 @@ Yangi tillarni tarjima qilish yoki mavjud tarjimalarni yaxshilash uchun morphe.s
   <string name="morphe_debug_title">Debug logging-ni yoqish</string>
   <string name="morphe_debug_stacktrace_title">Debug log stack trace</string>
   <string name="morphe_debug_stacktrace_summary">Xatolarni aniqlashga yordam berish uchun debug loglariga stack trace-larni qo\'shadi</string>
-  <string name="morphe_debug_toast_on_error_title">Morphe xatosi yuz berganda toast-xabarnomani ko\'rsatish</string>
-  <string name="morphe_debug_toast_on_error_user_dialog_message">"Xato toast-xabarnomalarini o'chirish barcha Morphe xato bildirishnomalarini yashiradi.
+  <string name="morphe_debug_toast_on_error_title">YTritik xatosi yuz berganda toast-xabarnomani ko\'rsatish</string>
+  <string name="morphe_debug_toast_on_error_user_dialog_message">"Xato toast-xabarnomalarini o'chirish barcha YTritik xato bildirishnomalarini yashiradi.
 
 Siz hech qanday kutilmagan voqealar haqida xabardor qilinmaysiz."</string>
   <string name="morphe_debug_export_logs_title">Debug loglarini eksport qilish</string>
-  <string name="morphe_debug_export_logs_summary">Morphe debug loglarini eksport qilish</string>
+  <string name="morphe_debug_export_logs_summary">YTritik debug loglarini eksport qilish</string>
   <string name="morphe_debug_export_logs_file">Faylga eksport qilish</string>
   <string name="morphe_debug_export_logs_success">Debug loglari muvaffaqiyatli eksport qilindi</string>
   <string name="morphe_debug_export_logs_failed">Debug loglarini eksport qilishda xato yuz berdi</string>

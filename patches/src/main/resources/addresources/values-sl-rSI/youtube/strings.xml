@@ -454,13 +454,13 @@ Opozorilo: morda ne deluje na prenosih v živo"</string>
   <string name="morphe_save_to_watch_later_success_toast">Video je uspešno shranjen na seznam za kasnejši ogled</string>
   <string name="morphe_save_to_watch_later_already_exists_toast">Ta video je že shranjen na seznam za kasnejši ogled</string>
   <string name="morphe_save_to_watch_later_error_toast">Težava pri shranjevanju videoposnetka na seznam za kasnejši ogled</string>
-  <string name="morphe_queue_flyout_title">Dodaj v Morphe čakalno vrsto</string>
+  <string name="morphe_queue_flyout_title">Dodaj v YTritik čakalno vrsto</string>
   <string name="morphe_queue_restore_title">Ohranite vrsto med sejami</string>
   <string name="morphe_queue_restore_summary">Vrsta se shrani tudi po ponovnem zagonu aplikacije</string>
   <string name="morphe_swap_save_and_queue_actions_title">Zamenjaj shranjevanje in možnosti vrste v čakalnico</string>
   <string name="morphe_swap_save_and_queue_actions_summary">Dotaknite se za možnosti vrste v čakalnico, dotaknite se in pridržite za shranjevanje za ogled pozneje</string>
   <string name="morphe_queue_override_flyout_menu_title">Gumb za nadomestitev vrste vrstičnega menija</string>
-  <string name="morphe_queue_override_flyout_menu_summary">Odpre vrsto Morphe namesto vrste YouTube</string>
+  <string name="morphe_queue_override_flyout_menu_summary">Odpre vrsto YTritik namesto vrste YouTube</string>
   <string name="morphe_queue_add_flyout_menu_title">Dodaj element menija v čakalno vrsto</string>
   <string name="morphe_queue_add_flyout_menu_summary">Doda dodaten element menija. Omogočite to, če \"Dodaj v čakalno vrsto\" ni prikazano</string>
   <string name="morphe_queue_manager_check_failed_auth">Ni prijavljen</string>
@@ -476,7 +476,7 @@ Opozorilo: morda ne deluje na prenosih v živo"</string>
   <string name="morphe_queue_manager_fetch_succeeded_create">Vrsta je ustvarjena</string>
   <string name="morphe_queue_manager_fetch_succeeded_remove">Odstranjeno iz vrste</string>
   <string name="morphe_queue_manager_fetch_succeeded_save">Vrsta je shranjena v %s</string>
-  <string name="morphe_queue_manager_playlist_title">Morphe vrstica</string>
+  <string name="morphe_queue_manager_playlist_title">YTritik vrstica</string>
   <string name="morphe_queue_manager_add_to_queue">Dodaj v vrsto</string>
   <string name="morphe_queue_manager_add_to_queue_and_open_queue">Dodaj v vrsto in odpri</string>
   <string name="morphe_queue_manager_add_to_queue_and_play_video">Dodaj v vrsto in predvajaj</string>
@@ -699,7 +699,7 @@ Za dostop do Nastavitev omogočite gumb Nastavitve prek Splošno → Vrstica →
   <string name="morphe_show_toolbar_settings_button_title">Pokaži gumb za nastavitve</string>
   <string name="morphe_show_toolbar_settings_button_index_title">Položaj gumba za nastavitve</string>
   <string name="morphe_show_toolbar_settings_button_type_title">Akcija gumba Nastavitve</string>
-  <string name="morphe_show_toolbar_settings_button_type_summary">Ko je omogočeno, tapnite za odprtje nastavitev Morphe in dolg pritisk za odprtje nastavitve YouTube. Izklopite za zamenjavo</string>
+  <string name="morphe_show_toolbar_settings_button_type_summary">Ko je omogočeno, tapnite za odprtje nastavitev YTritik in dolg pritisk za odprtje nastavitve YouTube. Izklopite za zamenjavo</string>
   <!-- layout.hide.player.flyoutmenupanel.hidePlayerFlyoutMenuPatch -->
   <string name="morphe_hide_player_flyout_title">Menijski izmen</string>
   <string name="morphe_hide_player_flyout_summary">Izberite, katere komponente se bodo pojavile v pojavnem meniju</string>

@@ -56,20 +56,20 @@ Verifiera att paketnamnet är korrekt och att appen har installerats"</string>
   <string name="morphe_custom_branding_name_entry_5">Anpassad</string>
   <string name="morphe_custom_branding_icon_title">Appikon</string>
   <string name="morphe_custom_branding_icon_entry_1">Ursprunglig</string>
-  <string name="morphe_custom_branding_icon_entry_2">Morphe – svart</string>
-  <string name="morphe_custom_branding_icon_entry_3">Morphe – mörk</string>
-  <string name="morphe_custom_branding_icon_entry_4">Morphe – ljus</string>
+  <string name="morphe_custom_branding_icon_entry_2">YTritik – svart</string>
+  <string name="morphe_custom_branding_icon_entry_3">YTritik – mörk</string>
+  <string name="morphe_custom_branding_icon_entry_4">YTritik – ljus</string>
   <!-- Translation should match morphe_custom_branding_notification_icon_entry_3 -->
-  <string name="morphe_custom_branding_icon_entry_5">Morphe – spela upp – ljus</string>
+  <string name="morphe_custom_branding_icon_entry_5">YTritik – spela upp – ljus</string>
   <!-- Translation should match morphe_custom_branding_notification_icon_entry_3 -->
-  <string name="morphe_custom_branding_icon_entry_6">Morphe – spela upp – svart</string>
+  <string name="morphe_custom_branding_icon_entry_6">YTritik – spela upp – svart</string>
   <!-- Translations of this should be identical to morphe_custom_branding_name_entry_5 -->
   <string name="morphe_custom_branding_icon_entry_7">Anpassad</string>
   <string name="morphe_custom_branding_notification_icon_title">Aviseringsikon</string>
   <string name="morphe_custom_branding_notification_icon_entry_1">Matcha appikonen</string>
-  <string name="morphe_custom_branding_notification_icon_entry_3">Morphe – spela upp</string>
+  <string name="morphe_custom_branding_notification_icon_entry_3">YTritik – spela upp</string>
   <!-- misc.dns.checkWatchHistoryDomainNameResolutionPatch -->
-  <string name="morphe_check_watch_history_domain_name_dialog_title">Morphe-meddelande</string>
+  <string name="morphe_check_watch_history_domain_name_dialog_title">YTritik-meddelande</string>
   <string name="morphe_check_watch_history_domain_name_dialog_message">Din visningshistorik sparas inte.&lt;br&gt;&lt;br&gt;Detta orsakas troligen av en DNS-annonsblockerare eller nätverksproxy.&lt;br&gt;&lt;br&gt;För att åtgärda detta, vitlista &lt;b&gt;s.youtube.com&lt;/b&gt; eller stäng av alla DNS-blockerare och proxyer.</string>
   <string name="morphe_check_watch_history_domain_name_dialog_ignore">Visa inte igen</string>
   <!-- misc.spoof.spoofVideoStreamsPatch -->
@@ -214,7 +214,7 @@ Om du senare inaktiverar det rekommenderar vi att rensa appens data för att fö
   <string name="morphe_ryd_attribution_summary">"Data tillhandahålls av Return YouTube Dislike API
 
 Tryck här för att öppna ReturnYouTubeDislike.com"</string>
-  <!-- Statistic strings are shown in the settings only when Morphe debug mode is enabled. Typical users will never see these. -->
+  <!-- Statistic strings are shown in the settings only when YTritik debug mode is enabled. Typical users will never see these. -->
   <string name="morphe_ryd_statistics_category_title">Return YouTube Dislike API-statistik för den här enheten</string>
   <string name="morphe_ryd_statistics_getFetchCallResponseTimeAverage_title">API-svarstid, genomsnitt</string>
   <string name="morphe_ryd_statistics_getFetchCallResponseTimeMin_title">API-svarstid, minimum</string>

@@ -88,8 +88,8 @@ Second \"item\" text"</string>
   <string name="morphe_sb_api_url_changed">API URL-si o\'zgartirildi</string>
   <string name="morphe_sb_settings_ie_title">Sozlamalarni import/eksport qilish</string>
   <string name="morphe_sb_settings_copy">Nusxalash</string>
-  <string name="morphe_sb_settings_ie_summary">Sizning SponsorBlock JSON konfiguratsiyangiz, uni Morphe va boshqa SponsorBlock platformalariga import/eksport qilish mumkin</string>
-  <string name="morphe_sb_settings_ie_summary_warning">"Sizning SponsorBlock JSON konfiguratsiyangiz, uni Morphe va boshqa SponsorBlock platformalariga import/eksport qilish mumkin
+  <string name="morphe_sb_settings_ie_summary">Sizning SponsorBlock JSON konfiguratsiyangiz, uni YTritik va boshqa SponsorBlock platformalariga import/eksport qilish mumkin</string>
+  <string name="morphe_sb_settings_ie_summary_warning">"Sizning SponsorBlock JSON konfiguratsiyangiz, uni YTritik va boshqa SponsorBlock platformalariga import/eksport qilish mumkin
 
 Bu sizning shaxsiy foydalanuvchi identifikatoringizni o'z ichiga oladi. Bunga ehtiyot bo'ling"</string>
   <string name="morphe_sb_settings_import_successful">Sozlamalar muvaffaqiyatli import qilindi</string>

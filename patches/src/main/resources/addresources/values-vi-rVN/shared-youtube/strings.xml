@@ -56,18 +56,18 @@ Kiểm tra xem tên gói có chính xác không và ứng dụng đã được c
   <string name="morphe_custom_branding_name_entry_5">Tùy chỉnh</string>
   <string name="morphe_custom_branding_icon_title">Biểu tượng ứng dụng</string>
   <string name="morphe_custom_branding_icon_entry_1">Gốc</string>
-  <string name="morphe_custom_branding_icon_entry_2">Morphe đen</string>
-  <string name="morphe_custom_branding_icon_entry_3">Morphe tối</string>
-  <string name="morphe_custom_branding_icon_entry_4">Morphe sáng</string>
+  <string name="morphe_custom_branding_icon_entry_2">YTritik đen</string>
+  <string name="morphe_custom_branding_icon_entry_3">YTritik tối</string>
+  <string name="morphe_custom_branding_icon_entry_4">YTritik sáng</string>
   <!-- Translation should match morphe_custom_branding_notification_icon_entry_3 -->
-  <string name="morphe_custom_branding_icon_entry_5">Morphe play sáng</string>
+  <string name="morphe_custom_branding_icon_entry_5">YTritik play sáng</string>
   <!-- Translation should match morphe_custom_branding_notification_icon_entry_3 -->
-  <string name="morphe_custom_branding_icon_entry_6">Morphe play đen</string>
+  <string name="morphe_custom_branding_icon_entry_6">YTritik play đen</string>
   <!-- Translations of this should be identical to morphe_custom_branding_name_entry_5 -->
-  <string name="morphe_custom_branding_icon_entry_7">Morphe tỉ lệ</string>
+  <string name="morphe_custom_branding_icon_entry_7">YTritik tỉ lệ</string>
   <string name="morphe_custom_branding_notification_icon_title">Biểu tượng thông báo</string>
   <string name="morphe_custom_branding_notification_icon_entry_1">Khớp biểu tượng ứng dụng</string>
-  <string name="morphe_custom_branding_notification_icon_entry_3">Morphe play</string>
+  <string name="morphe_custom_branding_notification_icon_entry_3">YTritik play</string>
   <!-- misc.dns.checkWatchHistoryDomainNameResolutionPatch -->
   <string name="morphe_check_watch_history_domain_name_dialog_title">Thông báo Morphe</string>
   <string name="morphe_check_watch_history_domain_name_dialog_message">Nhật ký xem của bạn hiện không được lưu lại.&lt;br&gt;&lt;br&gt;Nguyên nhân thường là do DNS chặn quảng cáo hoặc proxy mạng.&lt;br&gt;&lt;br&gt;Vì vậy, hãy thử thêm &lt;b&gt;s.youtube.com&lt;/b&gt; vào danh sách cho phép, hoặc tắt tất cả DNS và proxy.</string>
@@ -112,7 +112,7 @@ Bấm tiếp tục bên dưới để đăng nhập"</string>
   <string name="morphe_spoof_video_streams_sign_in_android_vr_success_dialog_title">Đã đăng nhập thành công</string>
   <string name="morphe_spoof_video_streams_sign_in_android_vr_success_dialog_message">"Đã lưu xác thực
 
-• Các cài đặt Morphe của bạn sẽ không nhập/xuất xác thực Android VR
+• Các cài đặt YTritik của bạn sẽ không nhập/xuất xác thực Android VR
 • Nếu ứng dụng này không được sử dụng trong 6 tháng thì Google sẽ xóa xác thực này
 • Nếu bạn thay đổi mật khẩu Google hoặc xóa bỏ cài đặt thiết bị này khỏi cài đặt Google thì cần đăng nhập lại"</string>
   <string name="morphe_oauth2_connection_failure_timeout">OAuth2 tạm thời không khả dụng (API đã hết thời gian chờ)</string>
@@ -214,7 +214,7 @@ Nếu muốn tắt tính năng này sau đó, bạn nên xóa dữ liệu ứng 
   <string name="morphe_ryd_attribution_summary">"Dữ liệu được cung cấp bởi API Return YouTube Dislike
 
 Nhấn vào đây để mở ReturnYouTubeDislike.com"</string>
-  <!-- Statistic strings are shown in the settings only when Morphe debug mode is enabled. Typical users will never see these. -->
+  <!-- Statistic strings are shown in the settings only when YTritik debug mode is enabled. Typical users will never see these. -->
   <string name="morphe_ryd_statistics_category_title">Thống kê API Return YouTube Dislike của thiết bị này</string>
   <string name="morphe_ryd_statistics_getFetchCallResponseTimeAverage_title">Thời gian phản hồi API, trung bình</string>
   <string name="morphe_ryd_statistics_getFetchCallResponseTimeMin_title">Thời gian phản hồi API, tối thiểu</string>

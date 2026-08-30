@@ -56,20 +56,20 @@ Second \"item\" text"</string>
   <string name="morphe_custom_branding_name_entry_5">Benutzerdefiniert</string>
   <string name="morphe_custom_branding_icon_title">App-Icon</string>
   <string name="morphe_custom_branding_icon_entry_1">Original</string>
-  <string name="morphe_custom_branding_icon_entry_2">Morphe dunkel</string>
-  <string name="morphe_custom_branding_icon_entry_3">Morphe Dunkel</string>
-  <string name="morphe_custom_branding_icon_entry_4">Morphe Hell</string>
+  <string name="morphe_custom_branding_icon_entry_2">YTritik dunkel</string>
+  <string name="morphe_custom_branding_icon_entry_3">YTritik Dunkel</string>
+  <string name="morphe_custom_branding_icon_entry_4">YTritik Hell</string>
   <!-- Translation should match morphe_custom_branding_notification_icon_entry_3 -->
-  <string name="morphe_custom_branding_icon_entry_5">Morphe Spiellicht</string>
+  <string name="morphe_custom_branding_icon_entry_5">YTritik Spiellicht</string>
   <!-- Translation should match morphe_custom_branding_notification_icon_entry_3 -->
-  <string name="morphe_custom_branding_icon_entry_6">Morphe Spielschwarz</string>
+  <string name="morphe_custom_branding_icon_entry_6">YTritik Spielschwarz</string>
   <!-- Translations of this should be identical to morphe_custom_branding_name_entry_5 -->
   <string name="morphe_custom_branding_icon_entry_7">Benutzerdefiniert</string>
   <string name="morphe_custom_branding_notification_icon_title">Benachrichtigungsicon</string>
   <string name="morphe_custom_branding_notification_icon_entry_1">App-Symbol ändern</string>
-  <string name="morphe_custom_branding_notification_icon_entry_3">Morphe Spiel</string>
+  <string name="morphe_custom_branding_notification_icon_entry_3">YTritik Spiel</string>
   <!-- misc.dns.checkWatchHistoryDomainNameResolutionPatch -->
-  <string name="morphe_check_watch_history_domain_name_dialog_title">Morphe Hinweis</string>
+  <string name="morphe_check_watch_history_domain_name_dialog_title">YTritik Hinweis</string>
   <string name="morphe_check_watch_history_domain_name_dialog_message">Ihr Verlauf wird nicht gespeichert.&lt;br&gt;&lt;br&gt;Dies wird höchstwahrscheinlich durch einen DNS-Werbeblocker oder einen Netzwerkproxy verursacht.&lt;br&gt;&lt;br&gt;Um dies zu beheben, setzen Sie &lt;b&gt;s.youtube.com&lt;/b&gt; auf die Whitelist oder schalten Sie alle DNS-Blocker und Proxies aus.</string>
   <string name="morphe_check_watch_history_domain_name_dialog_ignore">Nicht wieder anzeigen</string>
   <!-- misc.spoof.spoofVideoStreamsPatch -->
@@ -214,7 +214,7 @@ Sollte die Funktion später deaktiviert werden, wird empfohlen, die App-Daten zu
   <string name="morphe_ryd_attribution_summary">"Daten werden von der Return YouTube Dislike API bereitgestellt
 
 Tippen Sie hier, um ReturnYouTubeDislike.com zu öffnen"</string>
-  <!-- Statistic strings are shown in the settings only when Morphe debug mode is enabled. Typical users will never see these. -->
+  <!-- Statistic strings are shown in the settings only when YTritik debug mode is enabled. Typical users will never see these. -->
   <string name="morphe_ryd_statistics_category_title">Statistiken der Return YouTube Dislike API für dieses Gerät</string>
   <string name="morphe_ryd_statistics_getFetchCallResponseTimeAverage_title">API-Antwortzeit, Durchschnitt</string>
   <string name="morphe_ryd_statistics_getFetchCallResponseTimeMin_title">API-Antwortzeit, Minimum</string>

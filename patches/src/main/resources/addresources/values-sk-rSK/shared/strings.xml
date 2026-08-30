@@ -29,7 +29,7 @@ Second \"item\" text"</string>
   <!-- String is also duplicated in Reddit import / export preference -->
   <string name="morphe_settings_import">Importovať</string>
   <string name="morphe_settings_import_copy">Kopírovať</string>
-  <string name="morphe_settings_import_reset">Nastavenia Morphe boli obnovené na predvolené</string>
+  <string name="morphe_settings_import_reset">Nastavenia YTritik boli obnovené na predvolené</string>
   <string name="morphe_settings_import_success">Importovaných %d nastavení</string>
   <string name="morphe_settings_import_failure_parse">Importovanie zlyhalo: %s</string>
   <string name="morphe_settings_search_hint">Nastavenia vyhľadávania</string>
@@ -64,8 +64,8 @@ Ak chcete prekladať nové jazyky alebo vylepšiť existujúce preklady, navšt�
   <string name="morphe_settings_export_file_success">Nastavenia boli úspešne exportované</string>
   <string name="morphe_settings_export_file_failed">Nepodarilo sa exportovať nastavenia</string>
   <!-- String is also duplicated in Reddit about preference -->
-  <string name="morphe_settings_about_links_body_version_current">Používate najnovšiu verziu Morphe Patches &lt;i&gt;%s&lt;/i&gt;</string>
-  <string name="morphe_settings_about_links_body_version_outdated">Používate záplaty Morphe verzia &lt;i&gt;%1$s&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Dostupná aktualizácia: &lt;i&gt;%2$s&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Na aktualizáciu záplat znovu zaplátajte aplikáciu cez Morphe</string>
+  <string name="morphe_settings_about_links_body_version_current">Používate najnovšiu verziu YTritik Patches &lt;i&gt;%s&lt;/i&gt;</string>
+  <string name="morphe_settings_about_links_body_version_outdated">Používate záplaty YTritik verzia &lt;i&gt;%1$s&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Dostupná aktualizácia: &lt;i&gt;%2$s&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Na aktualizáciu záplat znovu zaplátajte aplikáciu cez Morphe</string>
   <string name="morphe_settings_about_links_dev_header">Poznámka</string>
   <string name="morphe_settings_about_links_dev_body">Táto verzia je predbežná a môžu sa vyskytnúť neočakávané problémy</string>
   <string name="morphe_settings_about_links_header">Oficiálne odkazy</string>
@@ -90,7 +90,7 @@ Ak chcete prekladať nové jazyky alebo vylepšiť existujúce preklady, navšt�
   <string name="morphe_debug_stacktrace_title">Záznamy ladenia budú obsahovať trasovacie stopy</string>
   <string name="morphe_debug_stacktrace_summary">Zahrňuje trasovanie zásobníka v protokoloch ladenia, aby sa pomohlo pri identifikácii chýb</string>
   <string name="morphe_debug_toast_on_error_title">Zobraziť oznámenie v prípade chyby Morphe</string>
-  <string name="morphe_debug_toast_on_error_user_dialog_message">"Vypnutím chybových upozornení skryjete všetky notifikácie Morphe o chybách.
+  <string name="morphe_debug_toast_on_error_user_dialog_message">"Vypnutím chybových upozornení skryjete všetky notifikácie YTritik o chybách.
 
 Nebudete informovaný o žiadnych nečakaných udalostiach."</string>
   <string name="morphe_debug_export_logs_title">Exportovať záznamy ladenia</string>

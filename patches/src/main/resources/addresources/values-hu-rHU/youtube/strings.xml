@@ -454,13 +454,13 @@ Figyelem: Lehet, hogy az élő közvetítéseknél nem működik"</string>
   <string name="morphe_save_to_watch_later_success_toast">A videó sikeresen mentve a „Később megnézem” lejátszási listára</string>
   <string name="morphe_save_to_watch_later_already_exists_toast">Ez a videó már mentve van a „Később megnézem” lejátszási listára</string>
   <string name="morphe_save_to_watch_later_error_toast">A videó nem menthető a „Később megnézem” lejátszási listára</string>
-  <string name="morphe_queue_flyout_title">Hozzáadás a Morphe sorhoz</string>
+  <string name="morphe_queue_flyout_title">Hozzáadás a YTritik sorhoz</string>
   <string name="morphe_queue_restore_title">Tartsa fenn a sorát a munkamenetek között</string>
   <string name="morphe_queue_restore_summary">A sor az alkalmazás újraindítása után is megőrizhető</string>
   <string name="morphe_swap_save_and_queue_actions_title">Csere a Mentés és a Sorba rendezés műveletekhez</string>
   <string name="morphe_swap_save_and_queue_actions_summary">Érintse meg a sorba rendezési lehetőségekért, vagy tartsa lenyomva a későbbi megtekintéshez való mentéshez</string>
-  <string name="morphe_queue_override_flyout_menu_title">A Morphe sor felülbírálása a lejálistában</string>
-  <string name="morphe_queue_override_flyout_menu_summary">A Morphe sorbanálítást nyit meg a YouTube sor helyett.</string>
+  <string name="morphe_queue_override_flyout_menu_title">A YTritik sor felülbírálása a lejálistában</string>
+  <string name="morphe_queue_override_flyout_menu_summary">A YTritik sorbanálítást nyit meg a YouTube sor helyett.</string>
   <string name="morphe_queue_add_flyout_menu_title">Sor menüelem hozzáadása a hírfolyam felugró menühöz</string>
   <string name="morphe_queue_add_flyout_menu_summary">Hozzáad egy további felugró menüelemet. Engedélyezze, ha a \"Hozzáadás a sorhoz\" nem jelenik meg.</string>
   <string name="morphe_queue_manager_check_failed_auth">Nem jelentkezett be</string>
@@ -476,7 +476,7 @@ Figyelem: Lehet, hogy az élő közvetítéseknél nem működik"</string>
   <string name="morphe_queue_manager_fetch_succeeded_create">Sor létrehozva</string>
   <string name="morphe_queue_manager_fetch_succeeded_remove">Eltávolítva a sorból</string>
   <string name="morphe_queue_manager_fetch_succeeded_save">A sor mentve lett a(z) %s helyre</string>
-  <string name="morphe_queue_manager_playlist_title">Morphe sor</string>
+  <string name="morphe_queue_manager_playlist_title">YTritik sor</string>
   <string name="morphe_queue_manager_add_to_queue">Hozzáadás a sorhoz</string>
   <string name="morphe_queue_manager_add_to_queue_and_open_queue">Hozzáadás a sorhoz és megnyitás</string>
   <string name="morphe_queue_manager_add_to_queue_and_play_video">Hozzáadás a sorhoz és lejátszás</string>
@@ -672,7 +672,7 @@ A javításhoz kapcsold be a 'Videóstreamek meghamisítása' opciót, és módo
   <string name="morphe_show_settings_button_title">Beállítások gomb megjelenítése</string>
   <string name="morphe_show_settings_button_index_title">Beállítások gomb pozíciója</string>
   <string name="morphe_show_settings_button_type_title">Beállítások gomb művelete</string>
-  <string name="morphe_show_settings_button_type_summary">Ha be van kapcsolva, a koppintás megnyitja a Morphe beállításait, a hosszú megnyomás pedig a YouTube beállításait, a letiltás megcseréli őket</string>
+  <string name="morphe_show_settings_button_type_summary">Ha be van kapcsolva, a koppintás megnyitja a YTritik beállításait, a hosszú megnyomás pedig a YouTube beállításait, a letiltás megcseréli őket</string>
   <string name="morphe_swap_create_with_notifications_button_title">Cserélje fel a Létrehozás gombot az Értesítések gombbal</string>
   <string name="morphe_swap_create_with_notifications_button_summary">Ha ennek a beállításnak a módosítása nem érvényesül, próbálkozzon titkos üzemmóddal.</string>
   <string name="morphe_hide_navigation_button_labels_title">A navigációs gombok címkéinek elrejtése</string>
@@ -699,7 +699,7 @@ A Beállítások eléréséhez engedje a Beállítások gombot a Általános →
   <string name="morphe_show_toolbar_settings_button_title">Beállítások gomb megjelenítése</string>
   <string name="morphe_show_toolbar_settings_button_index_title">Beállítások gomb pozíciója</string>
   <string name="morphe_show_toolbar_settings_button_type_title">Beállítások gomb művelet</string>
-  <string name="morphe_show_toolbar_settings_button_type_summary">Ha be van kapcsolva, a koppintás megnyitja a Morphe beállításait és a hosszú megnyomás megnyitja a YouTube beállításait, a letiltás kicseréli őket</string>
+  <string name="morphe_show_toolbar_settings_button_type_summary">Ha be van kapcsolva, a koppintás megnyitja a YTritik beállításait és a hosszú megnyomás megnyitja a YouTube beállításait, a letiltás kicseréli őket</string>
   <!-- layout.hide.player.flyoutmenupanel.hidePlayerFlyoutMenuPatch -->
   <string name="morphe_hide_player_flyout_title">Előugró menü</string>
   <string name="morphe_hide_player_flyout_summary">Válassza ki, mely komponenseket rejtsen el a lejátszó felugró ablakban</string>

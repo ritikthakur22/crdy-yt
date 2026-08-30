@@ -460,7 +460,7 @@ Second \"item\" text"</string>
   <string name="morphe_swap_save_and_queue_actions_title">สลับการดำเนินการบันทึกและคิว</string>
   <string name="morphe_swap_save_and_queue_actions_summary">แตะเพื่อดูตัวเลือกคิว แตะค้างเพื่อบันทึกเพื่อดูในภายหลัง</string>
   <string name="morphe_queue_override_flyout_menu_title">ปุ่มยกเลิกคิวการเล่นแบบผุดขึ้น</string>
-  <string name="morphe_queue_override_flyout_menu_summary">เปิดคิว Morphe แทนคิว YouTube</string>
+  <string name="morphe_queue_override_flyout_menu_summary">เปิดคิว YTritik แทนคิว YouTube</string>
   <string name="morphe_queue_add_flyout_menu_title">เพิ่มรายการเมนูฟลายเอาต์ในฟีดคิว</string>
   <string name="morphe_queue_add_flyout_menu_summary">เพิ่มรายการฟลายเอาต์เพิ่มเติม เปิดใช้งานนี้หากไม่แสดง \"เพิ่มในคิว\"</string>
   <string name="morphe_queue_manager_check_failed_auth">ยังไม่ได้เข้าสู่ระบบ</string>
@@ -672,7 +672,7 @@ Second \"item\" text"</string>
   <string name="morphe_show_settings_button_title">แสดงปุ่มการตั้งค่า</string>
   <string name="morphe_show_settings_button_index_title">ตำแหน่งปุ่มการตั้งค่า</string>
   <string name="morphe_show_settings_button_type_title">การดำเนินการปุ่มการตั้งค่า</string>
-  <string name="morphe_show_settings_button_type_summary">เมื่อเปิดใช้งาน การแตะจะเปิดการตั้งค่า Morphe และการกดค้างไว้จะเปิดการตั้งค่า YouTube การปิดใช้งานจะสลับพฤติกรรม</string>
+  <string name="morphe_show_settings_button_type_summary">เมื่อเปิดใช้งาน การแตะจะเปิดการตั้งค่า YTritik และการกดค้างไว้จะเปิดการตั้งค่า YouTube การปิดใช้งานจะสลับพฤติกรรม</string>
   <string name="morphe_swap_create_with_notifications_button_title">สลับปุ่มสร้างกับปุ่มการแจ้งเตือน</string>
   <string name="morphe_swap_create_with_notifications_button_summary">หากการเปลี่ยนแปลงการตั้งค่านี้ไม่มีผล ให้ลองสลับไปโหมดไม่ระบุตัวตน</string>
   <string name="morphe_hide_navigation_button_labels_title">ซ่อนป้ายกำกับปุ่มนำทาง</string>
@@ -699,7 +699,7 @@ Second \"item\" text"</string>
   <string name="morphe_show_toolbar_settings_button_title">แสดงปุ่มการตั้งค่า</string>
   <string name="morphe_show_toolbar_settings_button_index_title">ตำแหน่งปุ่มการตั้งค่า</string>
   <string name="morphe_show_toolbar_settings_button_type_title">การดำเนินการปุ่มการตั้งค่า</string>
-  <string name="morphe_show_toolbar_settings_button_type_summary">เมื่อเปิดใช้งาน การแตะจะเปิดการตั้งค่า Morphe และการกดค้างไว้จะเปิดการตั้งค่า YouTube การปิดใช้งานจะสลับพฤติกรรม</string>
+  <string name="morphe_show_toolbar_settings_button_type_summary">เมื่อเปิดใช้งาน การแตะจะเปิดการตั้งค่า YTritik และการกดค้างไว้จะเปิดการตั้งค่า YouTube การปิดใช้งานจะสลับพฤติกรรม</string>
   <!-- layout.hide.player.flyoutmenupanel.hidePlayerFlyoutMenuPatch -->
   <string name="morphe_hide_player_flyout_title">เมนูแบบเลื่อนลง</string>
   <string name="morphe_hide_player_flyout_summary">เลือกส่วนประกอบที่จะปรากฏในเมนู flyout ของเครื่องเล่น</string>

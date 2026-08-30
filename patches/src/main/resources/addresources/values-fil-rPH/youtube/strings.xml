@@ -454,13 +454,13 @@ Impormasyon: Maaaring hindi gumana sa mga live stream"</string>
   <string name="morphe_save_to_watch_later_success_toast">Matagumpay na naisave ang video sa playlist na I-save para manood mamaya</string>
   <string name="morphe_save_to_watch_later_already_exists_toast">Naisave na ang videong ito sa playlist na I-save para manood mamaya</string>
   <string name="morphe_save_to_watch_later_error_toast">Hindi ma-save ang videong ito sa playlist na I-save para manood mamaya</string>
-  <string name="morphe_queue_flyout_title">Idagdag sa Morphe queue</string>
+  <string name="morphe_queue_flyout_title">Idagdag sa YTritik queue</string>
   <string name="morphe_queue_restore_title">Panatilihin ang pila sa pagitan ng mga sesyon</string>
   <string name="morphe_queue_restore_summary">Ang pila ay nananatili kahit i-restart ang app</string>
   <string name="morphe_swap_save_and_queue_actions_title">Palitan ang Save at Queue na aksyon</string>
   <string name="morphe_swap_save_and_queue_actions_summary">I-tap para sa mga opsyon sa queue, i-tap at pindutin nang matagal para i-save para mapanood mamaya</string>
   <string name="morphe_queue_override_flyout_menu_title">Palitan ang pila ng feed flyout na buton</string>
-  <string name="morphe_queue_override_flyout_menu_summary">Binubuksan ang pila ng Morphe sa halip na ang pila ng YouTube</string>
+  <string name="morphe_queue_override_flyout_menu_summary">Binubuksan ang pila ng YTritik sa halip na ang pila ng YouTube</string>
   <string name="morphe_queue_add_flyout_menu_title">Idagdag ang feed flyout queue na menu item</string>
   <string name="morphe_queue_add_flyout_menu_summary">Nagdaragdag ng karagdagang flyout item. I-enable ito kung hindi ipinapakita ang \"Idagdag sa queue\".</string>
   <string name="morphe_queue_manager_check_failed_auth">Hindi naka-log in</string>
@@ -672,7 +672,7 @@ Dapat ibigay ang 'Caption cookies'"</string>
   <string name="morphe_show_settings_button_title">Ipakita ang Settings button</string>
   <string name="morphe_show_settings_button_index_title">Posisyon ng Settings button</string>
   <string name="morphe_show_settings_button_type_title">Aksyon ng buton ng Mga Setting</string>
-  <string name="morphe_show_settings_button_type_summary">Binubuksan ang Morphe settings kapag naka-enable, o YouTube settings kapag naka-disable</string>
+  <string name="morphe_show_settings_button_type_summary">Binubuksan ang YTritik settings kapag naka-enable, o YouTube settings kapag naka-disable</string>
   <string name="morphe_swap_create_with_notifications_button_title">Pagpalitin ang button na Create sa button na Notifications</string>
   <string name="morphe_swap_create_with_notifications_button_summary">Kung ang pagbabago sa setting na ito ay hindi magkaroon ng epekto, subukang lumipat sa Incognito mode.</string>
   <string name="morphe_hide_navigation_button_labels_title">Itago ang mga tatak ng navigation button</string>
@@ -699,7 +699,7 @@ Upang ma-access ang Settings, i-enable ang Settings button sa pamamagitan ng Gen
   <string name="morphe_show_toolbar_settings_button_title">Ipakita ang Settings button</string>
   <string name="morphe_show_toolbar_settings_button_index_title">Posisyon ng Settings button</string>
   <string name="morphe_show_toolbar_settings_button_type_title">Aksyon ng buton ng Mga Setting</string>
-  <string name="morphe_show_toolbar_settings_button_type_summary">Kapag naka-enable, ang pag-tap ay bubukas sa Morphe settings at ang mahabang pagpindot ay bubukas sa YouTube settings, i-disable para pagbaliktarin</string>
+  <string name="morphe_show_toolbar_settings_button_type_summary">Kapag naka-enable, ang pag-tap ay bubukas sa YTritik settings at ang mahabang pagpindot ay bubukas sa YouTube settings, i-disable para pagbaliktarin</string>
   <!-- layout.hide.player.flyoutmenupanel.hidePlayerFlyoutMenuPatch -->
   <string name="morphe_hide_player_flyout_title">Flyout menu</string>
   <string name="morphe_hide_player_flyout_summary">Itago ang \'Audio Track\' menu</string>
@@ -710,7 +710,7 @@ Upang ma-access ang Settings, i-enable ang Settings button sa pamamagitan ng Gen
   <string name="morphe_hide_player_flyout_audio_track_not_available">"Nakatago ang menu na 'Audio Track'\n\nUpang ipakita ang menu na 'Audio Track', baguhin ang 'I-spoof ang mga video stream' sa anumang client maliban sa 'Android Studio' at 'Android VR Downgraded'"</string>
   <string name="morphe_hide_player_flyout_audio_track_footer_title">Ang address na ginagamit ng SponsorBlock para gumawa ng mga tawag sa server</string>
   <!-- 'Captions' should be translated using the same localized wording YouTube displays for the menu item. -->
-  <string name="morphe_hide_player_flyout_captions_title">Ang iyong configuration ng SponsorBlock JSON na maaaring i-import / i-export sa Morphe at iba pang mga platform ng SponsorBlock</string>
+  <string name="morphe_hide_player_flyout_captions_title">Ang iyong configuration ng SponsorBlock JSON na maaaring i-import / i-export sa YTritik at iba pang mga platform ng SponsorBlock</string>
   <string name="morphe_hide_player_flyout_captions_footer_title">Itago ang footer ng menu ng Captions</string>
   <string name="morphe_hide_player_flyout_captions_header_title">Itago ang Captions menu header</string>
   <!-- 'Additional settings / More' should be translated using the same localized wording YouTube displays for the menu item. -->

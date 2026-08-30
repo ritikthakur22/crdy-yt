@@ -454,13 +454,13 @@ Məlumat: Canlı yayımlarda işləməyə bilər"</string>
   <string name="morphe_save_to_watch_later_success_toast">Video uğurla sonra izləyin pleylistində saxlanıldı</string>
   <string name="morphe_save_to_watch_later_already_exists_toast">Bu video artıq sonra izləyin pleylistində saxlanılıb</string>
   <string name="morphe_save_to_watch_later_error_toast">Bu videonu sonra izləyin pleylistində saxlamaq olmur</string>
-  <string name="morphe_queue_flyout_title">Morphe növbəsinə əlavə et</string>
+  <string name="morphe_queue_flyout_title">YTritik növbəsinə əlavə et</string>
   <string name="morphe_queue_restore_title">​Sessiyalar arasında növbəni qoru</string>
   <string name="morphe_queue_restore_summary">Tətbiq yenidən başladıldıqdan sonra növbə qorunur</string>
   <string name="morphe_swap_save_and_queue_actions_title">Saxla və Növbə fəaliyyətlərini dəyişdir</string>
   <string name="morphe_swap_save_and_queue_actions_summary">Növbə seçimləri üçün toxun, sonra baxmağa saxlamaq üçün toxun və saxla</string>
   <string name="morphe_queue_override_flyout_menu_title">Axında açılan növbə düyməsini əvəzlə</string>
-  <string name="morphe_queue_override_flyout_menu_summary">YouTube növbəsi əvəzinə Morphe növbəsini açır</string>
+  <string name="morphe_queue_override_flyout_menu_summary">YouTube növbəsi əvəzinə YTritik növbəsini açır</string>
   <string name="morphe_queue_add_flyout_menu_title">Axına açılan növbə menyusu elementini əlavə et</string>
   <string name="morphe_queue_add_flyout_menu_summary">Əlavə açılan elementi əlavə edir. \"Növbəyə əlavə et\" görünmürsə, bunu aktivləşdir</string>
   <string name="morphe_queue_manager_check_failed_auth">Daxil olunmayıb</string>
@@ -476,7 +476,7 @@ Məlumat: Canlı yayımlarda işləməyə bilər"</string>
   <string name="morphe_queue_manager_fetch_succeeded_create">Növbə yaradıldı</string>
   <string name="morphe_queue_manager_fetch_succeeded_remove">Növbədən təmizləndi</string>
   <string name="morphe_queue_manager_fetch_succeeded_save">Növbə %s-də saxlanıldı</string>
-  <string name="morphe_queue_manager_playlist_title">Morphe Növbəsi</string>
+  <string name="morphe_queue_manager_playlist_title">YTritik Növbəsi</string>
   <string name="morphe_queue_manager_add_to_queue">Növbəyə əlavə et</string>
   <string name="morphe_queue_manager_add_to_queue_and_open_queue">Növbəyə əlavə et və aç</string>
   <string name="morphe_queue_manager_add_to_queue_and_play_video">Növbəyə əlavə et və oynat</string>
@@ -672,7 +672,7 @@ Bunu düzəltmək üçün 'Video yayımlarını saxtalaşdır'-ı aktivləşdir 
   <string name="morphe_show_settings_button_title">Ayarlar düyməsini göstər</string>
   <string name="morphe_show_settings_button_index_title">Ayarlar düyməsi mövqeyi</string>
   <string name="morphe_show_settings_button_type_title">Ayarlar düyməsi fəaliyyəti</string>
-  <string name="morphe_show_settings_button_type_summary">İşlək olduqda Morphe tənzimləmələrin, qapadılanda YouTube tənzimləmələrin açır</string>
+  <string name="morphe_show_settings_button_type_summary">İşlək olduqda YTritik tənzimləmələrin, qapadılanda YouTube tənzimləmələrin açır</string>
   <string name="morphe_swap_create_with_notifications_button_title">Yarat düyməsi ilə Bildirişlər düyməsini əvəzlə</string>
   <string name="morphe_swap_create_with_notifications_button_summary">Bu tənzimləməni dəyişdirmək təsir göstərmirsə, Gizli rejimə keçməyi sına</string>
   <string name="morphe_hide_navigation_button_labels_title">Fəaliyyət düymə etiketlərini gizlət</string>
@@ -699,7 +699,7 @@ Tənzimləmələrə daxil olmaq üçün Ümumi → Alət Cərgəsi→ Tənzimlə
   <string name="morphe_show_toolbar_settings_button_title">Ayarlar düyməsini göstər</string>
   <string name="morphe_show_toolbar_settings_button_index_title">Ayarlar düyməsi mövqeyi</string>
   <string name="morphe_show_toolbar_settings_button_type_title">Ayarlar düyməsi fəaliyyəti</string>
-  <string name="morphe_show_toolbar_settings_button_type_summary">İşə salındıqda, toxunma Morphe tənzimləmələrin açır və uzun basma YouTube tənzimləmələrin açır, dəyişdirmək üçün qapat</string>
+  <string name="morphe_show_toolbar_settings_button_type_summary">İşə salındıqda, toxunma YTritik tənzimləmələrin açır və uzun basma YouTube tənzimləmələrin açır, dəyişdirmək üçün qapat</string>
   <!-- layout.hide.player.flyoutmenupanel.hidePlayerFlyoutMenuPatch -->
   <string name="morphe_hide_player_flyout_title">Açılan pəncərə menyusu</string>
   <string name="morphe_hide_player_flyout_summary">Açılan menyuda hansı elementlər görünür seç</string>

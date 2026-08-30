@@ -460,7 +460,7 @@ Second \"item\" text"</string>
   <string name="morphe_swap_save_and_queue_actions_title">Размяна на действията Запази и Опашка</string>
   <string name="morphe_swap_save_and_queue_actions_summary">Натиснете за опции за опашка, натиснете и задръжте, за да запазите за гледане по-късно</string>
   <string name="morphe_queue_override_flyout_menu_title">Бутон за заместване на опашката на канала</string>
-  <string name="morphe_queue_override_flyout_menu_summary">Отваря опашката на Morphe вместо опашката на YouTube</string>
+  <string name="morphe_queue_override_flyout_menu_summary">Отваря опашката на YTritik вместо опашката на YouTube</string>
   <string name="morphe_queue_add_flyout_menu_title">Добавяне на елемент от менюто за излитащ прозорец на емисията</string>
   <string name="morphe_queue_add_flyout_menu_summary">Добавя допълнителен елемент в излитащия прозорец. Активирайте това, ако „Добавяне към опашката“ не се показва</string>
   <string name="morphe_queue_manager_check_failed_auth">Невход в системата</string>

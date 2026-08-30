@@ -31,9 +31,9 @@ Second \"item\" text"</string>
   <string name="morphe_custom_branding_name_entry_5">باو</string>
   <string name="morphe_custom_branding_icon_title">وێنۆکەی ئەپ</string>
   <string name="morphe_custom_branding_icon_entry_1">ڕەسەن</string>
-  <string name="morphe_custom_branding_icon_entry_2">Morphe ڕەش</string>
-  <string name="morphe_custom_branding_icon_entry_3">Morphe تاریک</string>
-  <string name="morphe_custom_branding_icon_entry_4">Morphe ڕۆشن</string>
+  <string name="morphe_custom_branding_icon_entry_2">YTritik ڕەش</string>
+  <string name="morphe_custom_branding_icon_entry_3">YTritik تاریک</string>
+  <string name="morphe_custom_branding_icon_entry_4">YTritik ڕۆشن</string>
   <!-- Translation should match morphe_custom_branding_notification_icon_entry_3 -->
   <!-- Translation should match morphe_custom_branding_notification_icon_entry_3 -->
   <!-- Translations of this should be identical to morphe_custom_branding_name_entry_5 -->
@@ -132,5 +132,5 @@ Da te'îl bikin, li ser berdewam bikin xwarê"</string>
   <string name="morphe_ryd_estimated_like_summary">Shows an estimated like count on videos where the creator has disabled likes</string>
   <string name="morphe_ryd_toast_on_connection_error_title">نشان دادن ڕێنمایەکانی هەڵە یەکباری پەیوەندیمان</string>
   <string name="morphe_ryd_toast_on_connection_error_summary">Shows a notification when the Return YouTube Dislike server is unavailable</string>
-  <!-- Statistic strings are shown in the settings only when Morphe debug mode is enabled. Typical users will never see these. -->
+  <!-- Statistic strings are shown in the settings only when YTritik debug mode is enabled. Typical users will never see these. -->
 </resources>

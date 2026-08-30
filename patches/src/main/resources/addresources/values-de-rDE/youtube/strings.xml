@@ -477,7 +477,7 @@ Info: Funktioniert möglicherweise nicht bei Livestreams"</string>
   <string name="morphe_queue_manager_fetch_succeeded_create">Warteschlange erstellt</string>
   <string name="morphe_queue_manager_fetch_succeeded_remove">Aus der Warteschlange entfernt</string>
   <string name="morphe_queue_manager_fetch_succeeded_save">Warteschlange gespeichert unter %s</string>
-  <string name="morphe_queue_manager_playlist_title">Morphe-Warteschlange</string>
+  <string name="morphe_queue_manager_playlist_title">YTritik-Warteschlange</string>
   <string name="morphe_queue_manager_add_to_queue">Zur Warteschlange hinzufügen</string>
   <string name="morphe_queue_manager_add_to_queue_and_open_queue">Zur Warteschlange hinzufügen und öffnen</string>
   <string name="morphe_queue_manager_add_to_queue_and_play_video">Zur Warteschlange hinzufügen und Video abspielen</string>

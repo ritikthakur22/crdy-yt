@@ -460,7 +460,7 @@ Second \"item\" text"</string>
   <string name="morphe_swap_save_and_queue_actions_title">Αντιμετάθεση των ενεργειών Αποθήκευσης και Προσθήκης στην ουρά</string>
   <string name="morphe_swap_save_and_queue_actions_summary">Πατήστε για επιλογές ουράς, πατήστε και κρατήστε για αποθήκευση για να παρακολουθήσετε αργότερα</string>
   <string name="morphe_queue_override_flyout_menu_title">Κουμπί αντικατάστασης σειράς αναδυόμενου μενού ροής</string>
-  <string name="morphe_queue_override_flyout_menu_summary">Ανοίγει την ουρά Morphe αντί για την ουρά YouTube</string>
+  <string name="morphe_queue_override_flyout_menu_summary">Ανοίγει την ουρά YTritik αντί για την ουρά YouTube</string>
   <string name="morphe_queue_add_flyout_menu_title">Προσθήκη στοιχείου μενού αναδυόμενου παραθύρου ροής</string>
   <string name="morphe_queue_add_flyout_menu_summary">Προσθέτει ένα επιπλέον στοιχείο αναδυόμενου παραθύρου. Ενεργοποιήστε αυτό εάν δεν εμφανίζεται η \"Προσθήκη στην ουρά\"</string>
   <string name="morphe_queue_manager_check_failed_auth">Δεν έχετε συνδεθεί</string>
@@ -699,7 +699,7 @@ Second \"item\" text"</string>
   <string name="morphe_show_toolbar_settings_button_title">Εμφάνιση κουμπιού \'Ρυθμίσεις\'</string>
   <string name="morphe_show_toolbar_settings_button_index_title">Θέση κουμπιού \'Ρυθμίσεις\'</string>
   <string name="morphe_show_toolbar_settings_button_type_title">Δείκτης κουμπιού Ρυθμίσεων</string>
-  <string name="morphe_show_toolbar_settings_button_type_summary">Όταν είναι ενεργοποιημένο, η παρατήρηση ανοίγει τις ρυθμίσεις Morphe και η μεγάλη παρατήρηση ανοίγει τις ρυθμίσεις YouTube, απενεργοποιήστε για να αντιστρέψετε</string>
+  <string name="morphe_show_toolbar_settings_button_type_summary">Όταν είναι ενεργοποιημένο, η παρατήρηση ανοίγει τις ρυθμίσεις YTritik και η μεγάλη παρατήρηση ανοίγει τις ρυθμίσεις YouTube, απενεργοποιήστε για να αντιστρέψετε</string>
   <!-- layout.hide.player.flyoutmenupanel.hidePlayerFlyoutMenuPatch -->
   <string name="morphe_hide_player_flyout_title">Αναδυόμενο μενού ρυθμίσεων</string>
   <string name="morphe_hide_player_flyout_summary">Επιλέξτε ποια στοιχεία θα εμφανίζονται στο αναδυόμενο μενού</string>

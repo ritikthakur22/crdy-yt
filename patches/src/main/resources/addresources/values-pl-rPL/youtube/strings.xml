@@ -460,7 +460,7 @@ Uwaga: Może nie działać na transmisjach na żywo"</string>
   <string name="morphe_swap_save_and_queue_actions_title">Zamień akcje Zapisz i Kolejka</string>
   <string name="morphe_swap_save_and_queue_actions_summary">Dotknij, aby wyświetlić opcje kolejki. Przytrzymaj, aby zapisać do obejrzenia później</string>
   <string name="morphe_queue_override_flyout_menu_title">Zastąp przycisk kolejki w menu strony głównej</string>
-  <string name="morphe_queue_override_flyout_menu_summary">Otwiera kolejkę Morphe zamiast kolejki YouTube</string>
+  <string name="morphe_queue_override_flyout_menu_summary">Otwiera kolejkę YTritik zamiast kolejki YouTube</string>
   <string name="morphe_queue_add_flyout_menu_title">Dodaj opcję dodawania do kolejki w wysuwanym menu</string>
   <string name="morphe_queue_add_flyout_menu_summary">Dodaje dodatkową pozycję w wysuwanym menu. Włącz tę opcję, jeśli \"Dodaj do kolejki\" nie jest wyświetlane</string>
   <string name="morphe_queue_manager_check_failed_auth">Nie zalogowano</string>

@@ -464,7 +464,7 @@ Mistral Nemo هو الخيار الأرخص، بينما توفر Gemma 4 أعل
   <string name="morphe_swap_save_and_queue_actions_title">تبديل إجراءات حفظ وإضافة إلى قائمة الانتظار</string>
   <string name="morphe_swap_save_and_queue_actions_summary">انقر لخيارات قائمة الانتظار، واضغط مع الاستمرار للحفظ في المشاهدة لاحقًا</string>
   <string name="morphe_queue_override_flyout_menu_title">تجاوز زر قائمة الانتظار في القائمة المنبثقة</string>
-  <string name="morphe_queue_override_flyout_menu_summary">يفتح قائمة انتظار Morphe بدلًا من قائمة انتظار YouTube</string>
+  <string name="morphe_queue_override_flyout_menu_summary">يفتح قائمة انتظار YTritik بدلًا من قائمة انتظار YouTube</string>
   <string name="morphe_queue_add_flyout_menu_title">إضافة خيار قائمة الانتظار إلى قائمة الخلاصة المنبثقة</string>
   <string name="morphe_queue_add_flyout_menu_summary">يضيف خيارًا إضافيًا إلى القائمة المنبثقة. فعّل هذا الخيار إذا لم تظهر \"إضافة إلى قائمة الانتظار\"</string>
   <string name="morphe_queue_manager_check_failed_auth">تسجيل الدخول غير ممكن</string>
@@ -676,7 +676,7 @@ Mistral Nemo هو الخيار الأرخص، بينما توفر Gemma 4 أعل
   <string name="morphe_show_settings_button_title">عرض زر الإعدادات</string>
   <string name="morphe_show_settings_button_index_title">موضع زر الإعدادات</string>
   <string name="morphe_show_settings_button_type_title">إجراء زر الإعدادات</string>
-  <string name="morphe_show_settings_button_type_summary">يفتح إعدادات Morphe عند التمكين، أو إعدادات YouTube عند التعطيل</string>
+  <string name="morphe_show_settings_button_type_summary">يفتح إعدادات YTritik عند التمكين، أو إعدادات YouTube عند التعطيل</string>
   <string name="morphe_swap_create_with_notifications_button_title">تبديل زر الإنشاء بزر الإشعارات</string>
   <string name="morphe_swap_create_with_notifications_button_summary">إذا لم يُؤدِّ تغيير هذا الإعداد إلى أي نتيجة، جرِّب التبديل إلى وضع التصفّح المتخفي</string>
   <string name="morphe_hide_navigation_button_labels_title">إخفاء تسميات زر التنقل</string>

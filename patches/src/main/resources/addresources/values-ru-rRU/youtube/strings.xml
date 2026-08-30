@@ -462,7 +462,7 @@ Second \"item\" text"</string>
   <string name="morphe_swap_save_and_queue_actions_title">Поменять местами действия \"Сохранить\" и \"В очередь\"</string>
   <string name="morphe_swap_save_and_queue_actions_summary">Нажмите для опций очереди, нажмите и удерживайте, чтобы сохранить для просмотра позже</string>
   <string name="morphe_queue_override_flyout_menu_title">Кнопка для переопределения очереди всплывающего окна каналов</string>
-  <string name="morphe_queue_override_flyout_menu_summary">Открывает очередь Morphe вместо очереди YouTube</string>
+  <string name="morphe_queue_override_flyout_menu_summary">Открывает очередь YTritik вместо очереди YouTube</string>
   <string name="morphe_queue_add_flyout_menu_title">Добавить пункт меню очереди во всплывающее меню ленты</string>
   <string name="morphe_queue_add_flyout_menu_summary">Добавляет дополнительный элемент всплывающего меню. Включите это, если пункт \"Добавить в очередь\" не отображается.</string>
   <string name="morphe_queue_manager_check_failed_auth">Не вошел в систему</string>
@@ -743,7 +743,7 @@ Second \"item\" text"</string>
   <string name="morphe_hide_player_flyout_quality_header_title">Скрыть заголовок Качество</string>
   <!-- layout.hide.autoplaypreview.hideAutoplayPreviewPatch -->
   <string name="morphe_hide_autoplay_preview_title">Скрыть предварительный просмотр автовоспроизведения</string>
-  <string name="morphe_hide_autoplay_preview_summary">Ваша конфигурация JSON SponsorBlock может быть импортирована или экспортирована в Morphe и другие платформы SponsorBlock. Она включает в себя Ваш личный идентификатор пользователя. Подумайте дважды перед тем, как делиться ею с кем-либо</string>
+  <string name="morphe_hide_autoplay_preview_summary">Ваша конфигурация JSON SponsorBlock может быть импортирована или экспортирована в YTritik и другие платформы SponsorBlock. Она включает в себя Ваш личный идентификатор пользователя. Подумайте дважды перед тем, как делиться ею с кем-либо</string>
   <!-- layout.buttons.overlay.hidePlayerOverlayButtonsPatch -->
   <string name="morphe_overlay_buttons_screen_title">Кнопки наложения</string>
   <string name="morphe_overlay_buttons_screen_summary">Выберите, какие элементы отображаются поверх видеоплеера</string>

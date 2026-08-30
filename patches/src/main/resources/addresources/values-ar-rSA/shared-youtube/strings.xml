@@ -60,14 +60,14 @@ Second \"item\" text"</string>
   <string name="morphe_custom_branding_icon_entry_3">داكن Morphe</string>
   <string name="morphe_custom_branding_icon_entry_4">فاتح Morphe</string>
   <!-- Translation should match morphe_custom_branding_notification_icon_entry_3 -->
-  <string name="morphe_custom_branding_icon_entry_5">Morphe Play Light</string>
+  <string name="morphe_custom_branding_icon_entry_5">YTritik Play Light</string>
   <!-- Translation should match morphe_custom_branding_notification_icon_entry_3 -->
-  <string name="morphe_custom_branding_icon_entry_6">Morphe Play Black</string>
+  <string name="morphe_custom_branding_icon_entry_6">YTritik Play Black</string>
   <!-- Translations of this should be identical to morphe_custom_branding_name_entry_5 -->
   <string name="morphe_custom_branding_icon_entry_7">مُخصّص</string>
   <string name="morphe_custom_branding_notification_icon_title">رمز الإشعار</string>
   <string name="morphe_custom_branding_notification_icon_entry_1">مطابقة أيقونة التطبيق</string>
-  <string name="morphe_custom_branding_notification_icon_entry_3">Morphe Play</string>
+  <string name="morphe_custom_branding_notification_icon_entry_3">YTritik Play</string>
   <!-- misc.dns.checkWatchHistoryDomainNameResolutionPatch -->
   <string name="morphe_check_watch_history_domain_name_dialog_title">إشعار Morphe</string>
   <string name="morphe_check_watch_history_domain_name_dialog_message">لم يتم حفظ سجل المشاهدة الخاص بك.&lt;br&gt;&lt;br&gt;من المرجح أن يكون السبب في ذلك هو مانع إعلانات DNS أو وكيل الشبكة.&lt;br&gt;&lt;br&gt;لإصلاح هذه المشكلة، قم بإضافة &lt;b&gt;s.youtube.com&lt;/b&gt; إلى القائمة البيضاء أو قم بإيقاف تشغيل جميع أدوات حظر DNS ووكلاء البروكسي.</string>
@@ -112,7 +112,7 @@ Second \"item\" text"</string>
   <string name="morphe_spoof_video_streams_sign_in_android_vr_success_dialog_title">تم تسجيل الدخول بنجاح</string>
   <string name="morphe_spoof_video_streams_sign_in_android_vr_success_dialog_message">"تم حفظ بيانات المصادقة
 
-• لن يتم استيراد/تصدير بيانات مصادقة Android VR من إعدادات Morphe الخاصة بك
+• لن يتم استيراد/تصدير بيانات مصادقة Android VR من إعدادات YTritik الخاصة بك
 • إذا لم يتم استخدام هذا التطبيق لمدة 6 أشهر، فستقوم Google بإزالة بيانات المصادقة هذه
 • ستحتاج إلى تسجيل الدخول مرة أخرى إذا قمت بتغيير كلمة مرور Google أو إلغاء تسجيل هذا الجهاز من إعدادات Google الخاصة بك"</string>
   <string name="morphe_oauth2_connection_failure_timeout">OAuth2 غير متاح مؤقتًا (انتهت مهلة API)</string>
@@ -214,7 +214,7 @@ Second \"item\" text"</string>
   <string name="morphe_ryd_attribution_summary">"يتم توفير البيانات بواسطة Return YouTube Dislike API
 
 انقر هنا لفتح ReturnYouTubeDislike.com"</string>
-  <!-- Statistic strings are shown in the settings only when Morphe debug mode is enabled. Typical users will never see these. -->
+  <!-- Statistic strings are shown in the settings only when YTritik debug mode is enabled. Typical users will never see these. -->
   <string name="morphe_ryd_statistics_category_title">Return YouTube Dislike إحصائيات API لهذا الجهاز</string>
   <string name="morphe_ryd_statistics_getFetchCallResponseTimeAverage_title">وقت استجابة API، المتوسط</string>
   <string name="morphe_ryd_statistics_getFetchCallResponseTimeMin_title">وقت استجابة API، الحد الأدنى</string>

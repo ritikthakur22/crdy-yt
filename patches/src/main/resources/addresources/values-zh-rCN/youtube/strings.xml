@@ -454,13 +454,13 @@ Second \"item\" text"</string>
   <string name="morphe_save_to_watch_later_success_toast">视频已成功保存到稍后观看播放列表</string>
   <string name="morphe_save_to_watch_later_already_exists_toast">此视频已保存到稍后观看播放列表</string>
   <string name="morphe_save_to_watch_later_error_toast">无法将此视频保存到稍后观看播放列表</string>
-  <string name="morphe_queue_flyout_title">添加到 Morphe 队列</string>
+  <string name="morphe_queue_flyout_title">添加到 YTritik 队列</string>
   <string name="morphe_queue_restore_title">在会话之间保留队列</string>
   <string name="morphe_queue_restore_summary">重启应用后队列仍会保留</string>
   <string name="morphe_swap_save_and_queue_actions_title">交换保存和队列操作</string>
   <string name="morphe_swap_save_and_queue_actions_summary">点击查看队列选项，长按保存以供稍后观看</string>
   <string name="morphe_queue_override_flyout_menu_title">覆盖信息流浮动队列按钮</string>
-  <string name="morphe_queue_override_flyout_menu_summary">打开 Morphe 队列，而不是 YouTube 队列</string>
+  <string name="morphe_queue_override_flyout_menu_summary">打开 YTritik 队列，而不是 YouTube 队列</string>
   <string name="morphe_queue_add_flyout_menu_title">添加信息流弹出菜单项</string>
   <string name="morphe_queue_add_flyout_menu_summary">添加额外的弹出菜单项。如果未显示“添加到队列”，请启用此选项</string>
   <string name="morphe_queue_manager_check_failed_auth">未登录</string>
@@ -476,7 +476,7 @@ Second \"item\" text"</string>
   <string name="morphe_queue_manager_fetch_succeeded_create">队列已创建</string>
   <string name="morphe_queue_manager_fetch_succeeded_remove">已从队列中移除</string>
   <string name="morphe_queue_manager_fetch_succeeded_save">队列已保存到 %s</string>
-  <string name="morphe_queue_manager_playlist_title">Morphe 队列</string>
+  <string name="morphe_queue_manager_playlist_title">YTritik 队列</string>
   <string name="morphe_queue_manager_add_to_queue">添加到队列</string>
   <string name="morphe_queue_manager_add_to_queue_and_open_queue">添加到队列并打开</string>
   <string name="morphe_queue_manager_add_to_queue_and_play_video">添加到队列并播放</string>
@@ -672,7 +672,7 @@ Second \"item\" text"</string>
   <string name="morphe_show_settings_button_title">显示设置按钮</string>
   <string name="morphe_show_settings_button_index_title">设置按钮位置</string>
   <string name="morphe_show_settings_button_type_title">设置按钮操作</string>
-  <string name="morphe_show_settings_button_type_summary">启用时打开 Morphe 设置，禁用时打开 YouTube 设置</string>
+  <string name="morphe_show_settings_button_type_summary">启用时打开 YTritik 设置，禁用时打开 YouTube 设置</string>
   <string name="morphe_swap_create_with_notifications_button_title">交换“创建”按钮与“通知”按钮</string>
   <string name="morphe_swap_create_with_notifications_button_summary">如果更改此设置没有生效，请尝试切换到无痕模式。</string>
   <string name="morphe_hide_navigation_button_labels_title">隐藏导航栏按钮标签</string>
@@ -699,7 +699,7 @@ Second \"item\" text"</string>
   <string name="morphe_show_toolbar_settings_button_title">显示设置按钮</string>
   <string name="morphe_show_toolbar_settings_button_index_title">设置按钮位置</string>
   <string name="morphe_show_toolbar_settings_button_type_title">设置按钮操作</string>
-  <string name="morphe_show_toolbar_settings_button_type_summary">启用时，点击可打开 Morphe 设置，长按可打开 YouTube 设置，禁用则反向操作</string>
+  <string name="morphe_show_toolbar_settings_button_type_summary">启用时，点击可打开 YTritik 设置，长按可打开 YouTube 设置，禁用则反向操作</string>
   <!-- layout.hide.player.flyoutmenupanel.hidePlayerFlyoutMenuPatch -->
   <string name="morphe_hide_player_flyout_title">弹出菜单</string>
   <string name="morphe_hide_player_flyout_summary">选择在浮动菜单中显示哪些组件</string>

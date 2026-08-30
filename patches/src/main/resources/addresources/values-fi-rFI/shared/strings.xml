@@ -29,7 +29,7 @@ Second \"item\" text"</string>
   <!-- String is also duplicated in Reddit import / export preference -->
   <string name="morphe_settings_import">Tuo</string>
   <string name="morphe_settings_import_copy">Kopioi</string>
-  <string name="morphe_settings_import_reset">Morphe-asetukset nollattiin</string>
+  <string name="morphe_settings_import_reset">YTritik-asetukset nollattiin</string>
   <string name="morphe_settings_import_success">%d asetusta tuotiin</string>
   <string name="morphe_settings_import_failure_parse">Tuonti epäonnistui: %s</string>
   <string name="morphe_settings_search_hint">Hae asetuksista</string>
@@ -50,7 +50,7 @@ Second \"item\" text"</string>
   <string name="morphe_settings_search_history_title">Näytä asetusten hakuhistoria</string>
   <string name="morphe_show_menu_icons_title">Näytä Morphe-asetuskuvakkeet</string>
   <string name="morphe_settings_menu_copy_path">Kopioitu: %s</string>
-  <string name="morphe_language_title">Morphen kieli</string>
+  <string name="morphe_language_title">YTritikn kieli</string>
   <string name="morphe_language_user_dialog_message">"Joidenkin kielten käännökset saattavat puuttua tai olla puutteellisia.
 
 Kääntääksesi uusia kieliä tai parantaaksesi olemassa olevia käännöksiä, vieraile osoitteessa morphe.software/translate"</string>
@@ -64,8 +64,8 @@ Kääntääksesi uusia kieliä tai parantaaksesi olemassa olevia käännöksiä,
   <string name="morphe_settings_export_file_success">Asetukset on viety onnistuneesti</string>
   <string name="morphe_settings_export_file_failed">Asetusten vienti epäonnistui</string>
   <!-- String is also duplicated in Reddit about preference -->
-  <string name="morphe_settings_about_links_body_version_current">Käytät uusinta Morphe Patchesin versiota &lt;i&gt;%s&lt;/i&gt;</string>
-  <string name="morphe_settings_about_links_body_version_outdated">Käytät Morphe Patchesin versiota &lt;i&gt;%1$s&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Päivitys saatavilla: &lt;i&gt;%2$s&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Päivittääksesi muokkaukset, käytä Morphea muokataksesi tämän sovelluksen uudelleen</string>
+  <string name="morphe_settings_about_links_body_version_current">Käytät uusinta YTritik Patchesin versiota &lt;i&gt;%s&lt;/i&gt;</string>
+  <string name="morphe_settings_about_links_body_version_outdated">Käytät YTritik Patchesin versiota &lt;i&gt;%1$s&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Päivitys saatavilla: &lt;i&gt;%2$s&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Päivittääksesi muokkaukset, käytä Morphea muokataksesi tämän sovelluksen uudelleen</string>
   <string name="morphe_settings_about_links_dev_header">Huomautus</string>
   <string name="morphe_settings_about_links_dev_body">Tämä versio on ennakkojulkaisuversio, joten voit kokea odottamattomia ongelmia</string>
   <string name="morphe_settings_about_links_header">Viralliset linkit</string>

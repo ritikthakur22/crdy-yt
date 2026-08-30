@@ -54,18 +54,18 @@ Skontrolujte, či je názov balíka správny a či je aplikácia nainštalovaná
   <string name="morphe_custom_branding_name_entry_5">Vlastný</string>
   <string name="morphe_custom_branding_icon_title">Ikona aplikácie</string>
   <string name="morphe_custom_branding_icon_entry_1">Pôvodná</string>
-  <string name="morphe_custom_branding_icon_entry_2">Morphe čierna</string>
-  <string name="morphe_custom_branding_icon_entry_3">Morphe tmavá</string>
-  <string name="morphe_custom_branding_icon_entry_4">Morphe svetlá</string>
+  <string name="morphe_custom_branding_icon_entry_2">YTritik čierna</string>
+  <string name="morphe_custom_branding_icon_entry_3">YTritik tmavá</string>
+  <string name="morphe_custom_branding_icon_entry_4">YTritik svetlá</string>
   <!-- Translation should match morphe_custom_branding_notification_icon_entry_3 -->
-  <string name="morphe_custom_branding_icon_entry_5">Morphe hra so svetlom</string>
+  <string name="morphe_custom_branding_icon_entry_5">YTritik hra so svetlom</string>
   <!-- Translation should match morphe_custom_branding_notification_icon_entry_3 -->
-  <string name="morphe_custom_branding_icon_entry_6">Morphe hra s čiernou</string>
+  <string name="morphe_custom_branding_icon_entry_6">YTritik hra s čiernou</string>
   <!-- Translations of this should be identical to morphe_custom_branding_name_entry_5 -->
   <string name="morphe_custom_branding_icon_entry_7">Vlastná</string>
   <string name="morphe_custom_branding_notification_icon_title">Ikona upozornenia</string>
   <string name="morphe_custom_branding_notification_icon_entry_1">Zmeniť ikonu aplikácie</string>
-  <string name="morphe_custom_branding_notification_icon_entry_3">Morphe hra</string>
+  <string name="morphe_custom_branding_notification_icon_entry_3">YTritik hra</string>
   <!-- misc.dns.checkWatchHistoryDomainNameResolutionPatch -->
   <string name="morphe_check_watch_history_domain_name_dialog_title">Upozornenie Morphe</string>
   <string name="morphe_check_watch_history_domain_name_dialog_message">Vaša história sledovania sa neukladá.&lt;br&gt;&lt;br&gt;Toto je s najväčšou pravdepodobnosťou spôsobené DNS blokovačom reklám alebo sieťovým proxy.&lt;br&gt;&lt;br&gt;Ak to chcete vyriešiť, pridajte &lt;b&gt;s.youtube.com&lt;/b&gt; do whitelistu alebo vypnite všetky DNS blokovače a proxy servery.</string>
@@ -110,7 +110,7 @@ Ak sa chcete prihlásiť, stlačte tlačidlo Pokračovať"</string>
   <string name="morphe_spoof_video_streams_sign_in_android_vr_success_dialog_title">Prihlásenie úspešné</string>
   <string name="morphe_spoof_video_streams_sign_in_android_vr_success_dialog_message">"Overenie uložené
 
-• Nastavenia Morphe nebudú importovať/exportovať overenie pre Android VR
+• Nastavenia YTritik nebudú importovať/exportovať overenie pre Android VR
 • Po 6 mesiacoch od posledného použitia tejto aplikácie Google odstráni toto overenie
 • Budete sa musieť znova prihlásiť, ak zmeníte svoje heslo Google alebo zrušíte registráciu tohto zariadenia v nastaveniach Google"</string>
   <string name="morphe_oauth2_connection_failure_timeout">OAuth2 je dočasne nedostupné (časový limit API vypršal)</string>
@@ -212,7 +212,7 @@ Ak ju neskôr vypnete, odporúda sa vymazať dáta aplikácie, aby ste predišli
   <string name="morphe_ryd_attribution_summary">"Údaje poskytuje API Return YouTube Dislike
 
 Ťuknite sem a otvorte ReturnYouTubeDislike.com"</string>
-  <!-- Statistic strings are shown in the settings only when Morphe debug mode is enabled. Typical users will never see these. -->
+  <!-- Statistic strings are shown in the settings only when YTritik debug mode is enabled. Typical users will never see these. -->
   <string name="morphe_ryd_statistics_category_title">Štatistiky API Return YouTube Dislike pre toto zariadenie</string>
   <string name="morphe_ryd_statistics_getFetchCallResponseTimeAverage_title">Čas odozvy API, priemerný</string>
   <string name="morphe_ryd_statistics_getFetchCallResponseTimeMin_title">Čas odozvy API, minimálny</string>

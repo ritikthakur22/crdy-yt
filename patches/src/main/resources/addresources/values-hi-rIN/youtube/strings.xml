@@ -454,13 +454,13 @@ OpenRouter.ai खोलने के लिए यहां टैप करे�
   <string name="morphe_save_to_watch_later_success_toast">वीडियो को बाद में देखने की प्लेलिस्ट में सफलतापूर्वक सहेजा गया</string>
   <string name="morphe_save_to_watch_later_already_exists_toast">यह वीडियो पहले से ही बाद में देखने की प्लेलिस्ट में सहेजा गया है</string>
   <string name="morphe_save_to_watch_later_error_toast">इस वीडियो को बाद में देखने की प्लेलिस्ट में सहेजा नहीं जा सकता</string>
-  <string name="morphe_queue_flyout_title">Morphe कतार में जोड़ें</string>
+  <string name="morphe_queue_flyout_title">YTritik कतार में जोड़ें</string>
   <string name="morphe_queue_restore_title">सत्रों के बीच कतार बनाए रखें</string>
   <string name="morphe_queue_restore_summary">ऐप को पुनरारंभ करने के बाद कतार बनी रहती है</string>
   <string name="morphe_swap_save_and_queue_actions_title">स्वैप सेव और क्यू क्रियाएँ</string>
   <string name="morphe_swap_save_and_queue_actions_summary">क्यू विकल्पों के लिए टैप करें, बाद में देखने के लिए सेव करने के लिए टैप करके दबाएँ</string>
   <string name="morphe_queue_override_flyout_menu_title">फ़ीड फ्लाईआउट कतार बटन को ओवरराइड करें</string>
-  <string name="morphe_queue_override_flyout_menu_summary">Morphe कतार को YouTube कतार के बजाय खोलता है</string>
+  <string name="morphe_queue_override_flyout_menu_summary">YTritik कतार को YouTube कतार के बजाय खोलता है</string>
   <string name="morphe_queue_add_flyout_menu_title">फ़ीड फ़्लाईआउट कतार मेनू आइटम जोड़ें</string>
   <string name="morphe_queue_add_flyout_menu_summary">एक अतिरिक्त फ़्लाईआउट आइटम जोड़ता है। यदि \"कतार में जोड़ें\" नहीं दिखाया गया है तो इसे सक्षम करें।</string>
   <string name="morphe_queue_manager_check_failed_auth">लॉग इन नहीं किया गया</string>
@@ -476,7 +476,7 @@ OpenRouter.ai खोलने के लिए यहां टैप करे�
   <string name="morphe_queue_manager_fetch_succeeded_create">क्यू बनाया गया</string>
   <string name="morphe_queue_manager_fetch_succeeded_remove">क्यू से हटाया गया</string>
   <string name="morphe_queue_manager_fetch_succeeded_save">क्यू को %s में सहेजा गया</string>
-  <string name="morphe_queue_manager_playlist_title">Morphe कतार</string>
+  <string name="morphe_queue_manager_playlist_title">YTritik कतार</string>
   <string name="morphe_queue_manager_add_to_queue">क्यू में जोड़ें</string>
   <string name="morphe_queue_manager_add_to_queue_and_open_queue">क्यू में जोड़ें और खोलें</string>
   <string name="morphe_queue_manager_add_to_queue_and_play_video">क्यू में जोड़ें और चलाएं</string>
@@ -699,7 +699,7 @@ OpenRouter.ai खोलने के लिए यहां टैप करे�
   <string name="morphe_show_toolbar_settings_button_title">सेटिंग दिखाएं</string>
   <string name="morphe_show_toolbar_settings_button_index_title">सेटिंग बटन की स्थिति</string>
   <string name="morphe_show_toolbar_settings_button_type_title">सेटिंग बटन कार्रवाई</string>
-  <string name="morphe_show_toolbar_settings_button_type_summary">जब सक्षम हो, तो टैप करने पर Morphe सेटिंग्स खुलती है और लंबे समय तक दबाने पर YouTube सेटिंग्स खुलती है, स्वैप करने के लिए अक्षम करें</string>
+  <string name="morphe_show_toolbar_settings_button_type_summary">जब सक्षम हो, तो टैप करने पर YTritik सेटिंग्स खुलती है और लंबे समय तक दबाने पर YouTube सेटिंग्स खुलती है, स्वैप करने के लिए अक्षम करें</string>
   <!-- layout.hide.player.flyoutmenupanel.hidePlayerFlyoutMenuPatch -->
   <string name="morphe_hide_player_flyout_title">फ्लायआउट मेनू</string>
   <string name="morphe_hide_player_flyout_summary">फ़्लाईआउट मेनू में कौन से घटक दिखाई दें, चुनें</string>

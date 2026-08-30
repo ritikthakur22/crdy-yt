@@ -476,7 +476,7 @@ Info: Fungerer kanskje ikke på direktesendinger"</string>
   <string name="morphe_queue_manager_fetch_succeeded_create">Køen er opprettet</string>
   <string name="morphe_queue_manager_fetch_succeeded_remove">Fjernet fra køen</string>
   <string name="morphe_queue_manager_fetch_succeeded_save">Køen er lagret til %s</string>
-  <string name="morphe_queue_manager_playlist_title">Morphe-k%C3%B8</string>
+  <string name="morphe_queue_manager_playlist_title">YTritik-k%C3%B8</string>
   <string name="morphe_queue_manager_add_to_queue">Legg til i køen</string>
   <string name="morphe_queue_manager_add_to_queue_and_open_queue">Legg til i køen og åpne</string>
   <string name="morphe_queue_manager_add_to_queue_and_play_video">Legg til i køen og spill</string>

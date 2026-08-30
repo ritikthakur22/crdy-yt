@@ -57,17 +57,17 @@ Second \"item\" text"</string>
   <string name="morphe_custom_branding_icon_title">Иконка приложения</string>
   <string name="morphe_custom_branding_icon_entry_1">Оригинальная</string>
   <string name="morphe_custom_branding_icon_entry_2">Мorphe чёрный</string>
-  <string name="morphe_custom_branding_icon_entry_3">Morphe тёмный</string>
+  <string name="morphe_custom_branding_icon_entry_3">YTritik тёмный</string>
   <string name="morphe_custom_branding_icon_entry_4">Мorphe светлый</string>
   <!-- Translation should match morphe_custom_branding_notification_icon_entry_3 -->
-  <string name="morphe_custom_branding_icon_entry_5">Morphe светлый</string>
+  <string name="morphe_custom_branding_icon_entry_5">YTritik светлый</string>
   <!-- Translation should match morphe_custom_branding_notification_icon_entry_3 -->
-  <string name="morphe_custom_branding_icon_entry_6">Morphe чёрный</string>
+  <string name="morphe_custom_branding_icon_entry_6">YTritik чёрный</string>
   <!-- Translations of this should be identical to morphe_custom_branding_name_entry_5 -->
   <string name="morphe_custom_branding_icon_entry_7">Пользовательский</string>
   <string name="morphe_custom_branding_notification_icon_title">Значок уведомления</string>
   <string name="morphe_custom_branding_notification_icon_entry_1">Соответствие значку приложения</string>
-  <string name="morphe_custom_branding_notification_icon_entry_3">Morphe play</string>
+  <string name="morphe_custom_branding_notification_icon_entry_3">YTritik play</string>
   <!-- misc.dns.checkWatchHistoryDomainNameResolutionPatch -->
   <string name="morphe_check_watch_history_domain_name_dialog_title">Уведомление Morphe</string>
   <string name="morphe_check_watch_history_domain_name_dialog_message">Ваша история просмотра не сохраняется.&lt;br&gt;&lt;br&gt; Вероятнее всего это вызвано DNS блокировщиком рекламы или сетевым прокси.&lt;br&gt;&lt;br&gt; Чтобы это исправить, добавьте &lt;b&gt;s.youtube.com&lt;/b&gt; в белый список блокировщика рекламы или отключите все блокировщики DNS и прокси.</string>
@@ -112,7 +112,7 @@ Second \"item\" text"</string>
   <string name="morphe_spoof_video_streams_sign_in_android_vr_success_dialog_title">Вход выполнен успешно</string>
   <string name="morphe_spoof_video_streams_sign_in_android_vr_success_dialog_message">"Аутентификация сохранена
 
-• В настройках Morphe не будет импортироваться/экспортироваться аутентификация Android VR
+• В настройках YTritik не будет импортироваться/экспортироваться аутентификация Android VR
 • Если это приложение не будет использоваться в течение 6 месяцев, Google удалит эту аутентификацию
 • Вам нужно будет снова войти, если вы измените пароль Google или отмените регистрацию этого устройства в настройках Google"</string>
   <string name="morphe_oauth2_connection_failure_timeout">OAuth2 временно недоступен (время ожидания API истекло)</string>
@@ -214,7 +214,7 @@ Second \"item\" text"</string>
   <string name="morphe_ryd_attribution_summary">"Данные предоставляются API Return YouTube Dislike
 
 Нажмите здесь, чтобы открыть ReturnYouTubeDislike.com"</string>
-  <!-- Statistic strings are shown in the settings only when Morphe debug mode is enabled. Typical users will never see these. -->
+  <!-- Statistic strings are shown in the settings only when YTritik debug mode is enabled. Typical users will never see these. -->
   <string name="morphe_ryd_statistics_category_title">Статистика API Return YouTube Dislike для этого устройства</string>
   <string name="morphe_ryd_statistics_getFetchCallResponseTimeAverage_title">Время ответа API, среднее</string>
   <string name="morphe_ryd_statistics_getFetchCallResponseTimeMin_title">Время ответа API, минимальное</string>

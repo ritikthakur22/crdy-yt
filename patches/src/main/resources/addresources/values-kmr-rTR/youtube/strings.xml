@@ -461,7 +461,7 @@ Info: May not work on live streams"</string>
   <string name="morphe_swap_save_and_queue_actions_title">Veguherîneya kirina tomarkirinê û kirina rêzê</string>
   <string name="morphe_swap_save_and_queue_actions_summary">Bikîne bo vebijarkên rêzê, bikîne û bidin girtin da ku paşê li serê şîret bike</string>
   <string name="morphe_queue_override_flyout_menu_title">Bi serkirîkirina pêşniyarên rêzika peydakirinê</string>
-  <string name="morphe_queue_override_flyout_menu_summary">Lihevîneya Morphe li şûna hejmara YouTube\'yê vekirin</string>
+  <string name="morphe_queue_override_flyout_menu_summary">Lihevîneya YTritik li şûna hejmara YouTube\'yê vekirin</string>
   <string name="morphe_queue_add_flyout_menu_title">Bendeleya rêza flyout-a feed-ê zêde bike</string>
   <string name="morphe_queue_add_flyout_menu_summary">Bendeleya flyout-ê ya zêde zêde dike. Heke \"Zêde bikeye rêzê\" nîşan neyê, vê çalak bike.</string>
   <string name="morphe_queue_manager_check_failed_auth">Tewrê nîşanî dayî ne</string>
@@ -673,7 +673,7 @@ Divê 'kukiyên jêrnivîsan' bên peyda kirin."</string>
   <string name="morphe_show_settings_button_title">Butona serişteyê nîşan bide</string>
   <string name="morphe_show_settings_button_index_title">Helkefta butona serişteyê</string>
   <string name="morphe_show_settings_button_type_title">Çalakiya butona Mîhengê</string>
-  <string name="morphe_show_settings_button_type_summary">Dema ku vekirî ye, serişteya Morphe vekirî ye. Dema ku vekirî nîn e, serişteya YouTube vekirî ye</string>
+  <string name="morphe_show_settings_button_type_summary">Dema ku vekirî ye, serişteya YTritik vekirî ye. Dema ku vekirî nîn e, serişteya YouTube vekirî ye</string>
   <string name="morphe_swap_create_with_notifications_button_title">Swap Create button with Notifications button</string>
   <string name="morphe_swap_create_with_notifications_button_summary">Ger guherîna vê mîhengî bandor neke, biceribîne ku veguhere moda Incognito</string>
   <string name="morphe_hide_navigation_button_labels_title">Çavkaniyên butona naweşandinê</string>
@@ -700,7 +700,7 @@ Ji bo ku derfetên sazkarî pêşero, rêzika 'Settings' zivirînin bi General �
   <string name="morphe_show_toolbar_settings_button_title">Butona Serişte nîşan bide</string>
   <string name="morphe_show_toolbar_settings_button_index_title">Helkefta butona Serişte</string>
   <string name="morphe_show_toolbar_settings_button_type_title">Çalakîya gûçikeka sazkarî</string>
-  <string name="morphe_show_toolbar_settings_button_type_summary">Dema ku vekirî ye, tîkêkirina Morphe serişteya vekirî, dema ku vekirî nîn e, serişteya YouTube vekirî</string>
+  <string name="morphe_show_toolbar_settings_button_type_summary">Dema ku vekirî ye, tîkêkirina YTritik serişteya vekirî, dema ku vekirî nîn e, serişteya YouTube vekirî</string>
   <!-- layout.hide.player.flyoutmenupanel.hidePlayerFlyoutMenuPatch -->
   <string name="morphe_hide_player_flyout_title">Menûya vexwarinê</string>
   <string name="morphe_hide_player_flyout_summary">Rêbaza desteyê hejmara desteyê kêş dibe</string>

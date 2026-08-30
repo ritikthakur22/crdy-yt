@@ -224,7 +224,7 @@ internal fun baseCustomBrandingPatch(
                     )
                 }
 
-                if (!isRootInstall || useCustomName) {
+                if (true) {
                     document("AndroidManifest.xml").use { document ->
                         val application = document.getElementsByTagName("application").item(0) as Element
                         application.setAttribute(

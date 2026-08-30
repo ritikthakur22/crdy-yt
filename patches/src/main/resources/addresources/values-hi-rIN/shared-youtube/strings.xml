@@ -56,18 +56,18 @@ Second \"item\" text"</string>
   <string name="morphe_custom_branding_name_entry_5">कस्टम</string>
   <string name="morphe_custom_branding_icon_title">एप्प आइकॉन</string>
   <string name="morphe_custom_branding_icon_entry_1">ओरिजिनल</string>
-  <string name="morphe_custom_branding_icon_entry_2">Morphe काला</string>
+  <string name="morphe_custom_branding_icon_entry_2">YTritik काला</string>
   <string name="morphe_custom_branding_icon_entry_3">मorphe डार्क</string>
-  <string name="morphe_custom_branding_icon_entry_4">Morphe प्रकाश</string>
+  <string name="morphe_custom_branding_icon_entry_4">YTritik प्रकाश</string>
   <!-- Translation should match morphe_custom_branding_notification_icon_entry_3 -->
-  <string name="morphe_custom_branding_icon_entry_5">Morphe प्ले लाइट</string>
+  <string name="morphe_custom_branding_icon_entry_5">YTritik प्ले लाइट</string>
   <!-- Translation should match morphe_custom_branding_notification_icon_entry_3 -->
-  <string name="morphe_custom_branding_icon_entry_6">Morphe प्ले ब्लैक</string>
+  <string name="morphe_custom_branding_icon_entry_6">YTritik प्ले ब्लैक</string>
   <!-- Translations of this should be identical to morphe_custom_branding_name_entry_5 -->
   <string name="morphe_custom_branding_icon_entry_7">कस्टम</string>
   <string name="morphe_custom_branding_notification_icon_title">सूचना चिह्न</string>
   <string name="morphe_custom_branding_notification_icon_entry_1">ऐप आइकन से मिलाएं</string>
-  <string name="morphe_custom_branding_notification_icon_entry_3">Morphe प्ले</string>
+  <string name="morphe_custom_branding_notification_icon_entry_3">YTritik प्ले</string>
   <!-- misc.dns.checkWatchHistoryDomainNameResolutionPatch -->
   <string name="morphe_check_watch_history_domain_name_dialog_title">मorphe नोटिस</string>
   <string name="morphe_check_watch_history_domain_name_dialog_message">आपकी देखने की जानकारी सहेजी नहीं जा रही है.&lt;br&gt;&lt;br&gt;यह बहुत अधिक संभावना है कि यह DNS विज्ञापन अवरोधक या नेटवर्क प्रॉक्सी के कारण है.&lt;br&gt;&lt;br&gt;इस समस्या को ठीक करने के लिए, &lt;b&gt;s.youtube.com&lt;/b&gt; को व्हाइटलिस्ट करें या सभी DNS अवरोधकों और प्रॉक्सी को बंद कर दें।</string>
@@ -214,7 +214,7 @@ Second \"item\" text"</string>
   <string name="morphe_ryd_attribution_summary">"डेटा Return YouTube Dislike API द्वारा प्रदान किया गया है
 
 ReturnYouTubeDislike.com खोलने के लिए यहाँ टैप करें"</string>
-  <!-- Statistic strings are shown in the settings only when Morphe debug mode is enabled. Typical users will never see these. -->
+  <!-- Statistic strings are shown in the settings only when YTritik debug mode is enabled. Typical users will never see these. -->
   <string name="morphe_ryd_statistics_category_title">इस डिवाइस के Return YouTube Dislike API आँकड़े</string>
   <string name="morphe_ryd_statistics_getFetchCallResponseTimeAverage_title">एपीआई प्रतिक्रिया समय, औसत</string>
   <string name="morphe_ryd_statistics_getFetchCallResponseTimeMin_title">एपीआई प्रतिक्रिया समय, न्यूनतम</string>

@@ -56,20 +56,20 @@ Verifiser at pakkenavnet er korrekt og appen er installert"</string>
   <string name="morphe_custom_branding_name_entry_5">Tilpass</string>
   <string name="morphe_custom_branding_icon_title">Appikon</string>
   <string name="morphe_custom_branding_icon_entry_1">Original</string>
-  <string name="morphe_custom_branding_icon_entry_2">Morphe svart</string>
-  <string name="morphe_custom_branding_icon_entry_3">Morphe mørk</string>
-  <string name="morphe_custom_branding_icon_entry_4">Morphe lys</string>
+  <string name="morphe_custom_branding_icon_entry_2">YTritik svart</string>
+  <string name="morphe_custom_branding_icon_entry_3">YTritik mørk</string>
+  <string name="morphe_custom_branding_icon_entry_4">YTritik lys</string>
   <!-- Translation should match morphe_custom_branding_notification_icon_entry_3 -->
-  <string name="morphe_custom_branding_icon_entry_5">Morphe lek lett</string>
+  <string name="morphe_custom_branding_icon_entry_5">YTritik lek lett</string>
   <!-- Translation should match morphe_custom_branding_notification_icon_entry_3 -->
-  <string name="morphe_custom_branding_icon_entry_6">Morphe lek svart</string>
+  <string name="morphe_custom_branding_icon_entry_6">YTritik lek svart</string>
   <!-- Translations of this should be identical to morphe_custom_branding_name_entry_5 -->
   <string name="morphe_custom_branding_icon_entry_7">Tilpass</string>
   <string name="morphe_custom_branding_notification_icon_title">Varslingsikon</string>
   <string name="morphe_custom_branding_notification_icon_entry_1">Tilpass app-ikon</string>
-  <string name="morphe_custom_branding_notification_icon_entry_3">Morphe spill</string>
+  <string name="morphe_custom_branding_notification_icon_entry_3">YTritik spill</string>
   <!-- misc.dns.checkWatchHistoryDomainNameResolutionPatch -->
-  <string name="morphe_check_watch_history_domain_name_dialog_title">Morphe-varsel</string>
+  <string name="morphe_check_watch_history_domain_name_dialog_title">YTritik-varsel</string>
   <string name="morphe_check_watch_history_domain_name_dialog_message">Din seerhistorikk lagres ikke.&lt;br&gt;&lt;br&gt;Dette skyldes mest sannsynlig en DNS-annonsesblokkering eller et nettverksproxy.&lt;br&gt;&lt;br&gt;For å fikse dette, legg til &lt;b&gt;s.youtube.com&lt;/b&gt; på hvitelisten eller slå av alle DNS-blokkeringer og proxyer.</string>
   <string name="morphe_check_watch_history_domain_name_dialog_ignore">Ikke vis igjen</string>
   <!-- misc.spoof.spoofVideoStreamsPatch -->
@@ -214,7 +214,7 @@ Hvis du slår det av senere, anbefales det å slette appdataene for å forhindre
   <string name="morphe_ryd_attribution_summary">"Data er levert av Return YouTube Dislike API
 
 Trykk her for å åpne ReturnYouTubeDislike.com"</string>
-  <!-- Statistic strings are shown in the settings only when Morphe debug mode is enabled. Typical users will never see these. -->
+  <!-- Statistic strings are shown in the settings only when YTritik debug mode is enabled. Typical users will never see these. -->
   <string name="morphe_ryd_statistics_category_title">Return YouTube Dislike API-statistikk for denne enheten</string>
   <string name="morphe_ryd_statistics_getFetchCallResponseTimeAverage_title">API-responstid, gjennomsnitt</string>
   <string name="morphe_ryd_statistics_getFetchCallResponseTimeMin_title">API-responstid, minimum</string>
