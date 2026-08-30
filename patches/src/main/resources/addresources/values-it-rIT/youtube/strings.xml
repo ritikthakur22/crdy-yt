@@ -17,7 +17,7 @@ Second \"item\" text"</string>
 -->
 <resources>
   <!-- misc.settings.settingsPatch -->
-  <!-- In languages where "About" is ambiguous, translate this as "About Morphe" (i.e., About this app). -->
+  <!-- In languages where "About" is ambiguous, translate this as "About YTritik" (i.e., About this app). -->
   <string name="morphe_settings_screen_00_about_title">A proposito di</string>
   <string name="morphe_settings_screen_01_ads_title">Annunci</string>
   <string name="morphe_settings_screen_02_alt_thumbnails_title">Miniature alternative</string>
@@ -454,7 +454,7 @@ Avviso: Potrebbe non funzionare sui video in diretta"</string>
   <string name="morphe_save_to_watch_later_success_toast">Video salvato con successo nella playlist \"Guarda più tardi\"</string>
   <string name="morphe_save_to_watch_later_already_exists_toast">Questo video è già stato salvato nella playlist \"Guarda più tardi\"</string>
   <string name="morphe_save_to_watch_later_error_toast">Impossibile salvare questo video nella playlist \"Guardalo più tardi\"</string>
-  <string name="morphe_queue_flyout_title">Aggiungi alla coda di Morphe</string>
+  <string name="morphe_queue_flyout_title">Aggiungi alla coda di YTritik</string>
   <string name="morphe_queue_restore_title">Mantieni la coda tra le sessioni</string>
   <string name="morphe_queue_restore_summary">La coda viene mantenuta anche riavviando l\'app</string>
   <string name="morphe_swap_save_and_queue_actions_title">Scambia le azioni Salva e Metti in coda</string>
@@ -476,7 +476,7 @@ Avviso: Potrebbe non funzionare sui video in diretta"</string>
   <string name="morphe_queue_manager_fetch_succeeded_create">Coda creata</string>
   <string name="morphe_queue_manager_fetch_succeeded_remove">Rimosso dalla coda</string>
   <string name="morphe_queue_manager_fetch_succeeded_save">Coda salvata in %s</string>
-  <string name="morphe_queue_manager_playlist_title">Coda di Morphe</string>
+  <string name="morphe_queue_manager_playlist_title">Coda di YTritik</string>
   <string name="morphe_queue_manager_add_to_queue">Aggiungi alla coda</string>
   <string name="morphe_queue_manager_add_to_queue_and_open_queue">Aggiungi alla coda e apri</string>
   <string name="morphe_queue_manager_add_to_queue_and_play_video">Aggiungi alla coda e riproduci</string>

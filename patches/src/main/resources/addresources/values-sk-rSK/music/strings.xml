@@ -29,7 +29,7 @@ Second \"item\" text"</string>
   <string name="morphe_external_downloader_flyout_menu_title">Nahradiť ponuku sťahovania</string>
   <string name="morphe_external_downloader_flyout_menu_summary">Používa vami vybraný externý sťahovač namiesto štandardnej rozbaľovacej ponuky Sťahovanie</string>
   <!-- misc.settings.settingsPatch -->
-  <!-- In languages where "About" is ambiguous, translate this as "About Morphe" (i.e., About this app). -->
+  <!-- In languages where "About" is ambiguous, translate this as "About YTritik" (i.e., About this app). -->
   <string name="morphe_settings_music_screen_0_about_title">O aplikácii</string>
   <string name="morphe_settings_music_screen_1_ads_title">Reklamy</string>
   <string name="morphe_settings_music_screen_2_feed_title">Obsah</string>

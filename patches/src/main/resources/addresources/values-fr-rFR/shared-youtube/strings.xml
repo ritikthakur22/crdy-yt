@@ -69,7 +69,7 @@ Vérifiez que le nom de paquet est correct et que l'application est bien install
   <string name="morphe_custom_branding_notification_icon_entry_1">Faire correspondre l\'icône de l\'application</string>
   <string name="morphe_custom_branding_notification_icon_entry_3">YTritik play</string>
   <!-- misc.dns.checkWatchHistoryDomainNameResolutionPatch -->
-  <string name="morphe_check_watch_history_domain_name_dialog_title">Avis Morphe</string>
+  <string name="morphe_check_watch_history_domain_name_dialog_title">Avis YTritik</string>
   <string name="morphe_check_watch_history_domain_name_dialog_message">Les vidéos que vous regardez ne sont pas enregistrées dans votre historique.&lt;br&gt;&lt;br&gt;La cause la plus probable est l\'utilisation d\'un serveur DNS bloqueur de publicités ou d\'un proxy.&lt;br&gt;&lt;br&gt;Pour résoudre ce problème, autorisez l\'accès à &lt;b&gt;s.youtube.com&lt;/b&gt; ou désactivez tous vos bloqueurs DNS et proxys.</string>
   <string name="morphe_check_watch_history_domain_name_dialog_ignore">Ne plus afficher</string>
   <!-- misc.spoof.spoofVideoStreamsPatch -->

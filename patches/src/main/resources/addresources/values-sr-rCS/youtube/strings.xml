@@ -17,7 +17,7 @@ Second \"item\" text"</string>
 -->
 <resources>
   <!-- misc.settings.settingsPatch -->
-  <!-- In languages where "About" is ambiguous, translate this as "About Morphe" (i.e., About this app). -->
+  <!-- In languages where "About" is ambiguous, translate this as "About YTritik" (i.e., About this app). -->
   <string name="morphe_settings_screen_00_about_title">O programu</string>
   <string name="morphe_settings_screen_01_ads_title">Oglasi</string>
   <string name="morphe_settings_screen_02_alt_thumbnails_title">Alternativne sličice</string>
@@ -672,7 +672,7 @@ Da biste to popravili, uključite opciju „Lažiranje video tokova“ i promeni
   <string name="morphe_show_settings_button_title">Prikaži dugme „Podešavanja”</string>
   <string name="morphe_show_settings_button_index_title">Položaj dugmeta „Podešavanja”</string>
   <string name="morphe_show_settings_button_type_title">Akcija dugmeta za podešavanja</string>
-  <string name="morphe_show_settings_button_type_summary">Kada je omogućeno, dodirivanje otvara podešavanja Morphe-a, a držanje otvara podešavanja YouTube-a, onemogući da ih razmeni</string>
+  <string name="morphe_show_settings_button_type_summary">Kada je omogućeno, dodirivanje otvara podešavanja YTritik-a, a držanje otvara podešavanja YouTube-a, onemogući da ih razmeni</string>
   <string name="morphe_swap_create_with_notifications_button_title">Zameni dugme Napravi sa dugmetom Obaveštenja</string>
   <string name="morphe_swap_create_with_notifications_button_summary">Ako menjanje ove postavke ne stupi na snagu, pokušajte da pređete u Incognito režim</string>
   <string name="morphe_hide_navigation_button_labels_title">Sakrij oznake dugmadi za navigaciju</string>
@@ -699,7 +699,7 @@ Da biste pristupili Podešavanjima, omogućite dugme Podešavanja preko Opšte �
   <string name="morphe_show_toolbar_settings_button_title">Prikaži dugme „Podešavanja”</string>
   <string name="morphe_show_toolbar_settings_button_index_title">Položaj dugmeta „Podešavanja”</string>
   <string name="morphe_show_toolbar_settings_button_type_title">Akcija za dugme za podešavanja</string>
-  <string name="morphe_show_toolbar_settings_button_type_summary">Kada je omogućeno, dodirivanje otvara podešavanja Morphe-a, a držanje otvara podešavanja YouTube-a</string>
+  <string name="morphe_show_toolbar_settings_button_type_summary">Kada je omogućeno, dodirivanje otvara podešavanja YTritik-a, a držanje otvara podešavanja YouTube-a</string>
   <!-- layout.hide.player.flyoutmenupanel.hidePlayerFlyoutMenuPatch -->
   <string name="morphe_hide_player_flyout_title">Padajući meni</string>
   <string name="morphe_hide_player_flyout_summary">Sakrij meni „Traka zvuka”</string>

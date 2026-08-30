@@ -48,15 +48,15 @@ Second \"item\" text"</string>
   <string name="morphe_settings_search_empty_history_title">היסטוריית החיפוש ריקה</string>
   <string name="morphe_settings_search_empty_history_summary">כדי לשמור היסטוריית חיפוש, הקלד שאילתת חיפוש ולחץ על Enter</string>
   <string name="morphe_settings_search_history_title">הצג הגדרות היסטוריית חיפוש</string>
-  <string name="morphe_show_menu_icons_title">הצג סמלי הגדרות Morphe</string>
+  <string name="morphe_show_menu_icons_title">הצג סמלי הגדרות YTritik</string>
   <string name="morphe_settings_menu_copy_path">הועתק: %s</string>
-  <string name="morphe_language_title">שפת Morphe</string>
+  <string name="morphe_language_title">שפת YTritik</string>
   <string name="morphe_language_user_dialog_message">"תרגומים עבור שפות מסוימות עשויים להיות חסרים או לא מלאים.
 
 כדי לתרגם שפות חדשות או לשפר את התרגומים הקיימים, בקר ב-morphe.software/translate"</string>
   <string name="morphe_language_DEFAULT">שפת היישום</string>
   <string name="morphe_pref_import_export_title">ייבוא / ייצוא</string>
-  <string name="morphe_pref_import_export_summary">ייבוא / ייצוא הגדרות Morphe</string>
+  <string name="morphe_pref_import_export_summary">ייבוא / ייצוא הגדרות YTritik</string>
   <string name="morphe_settings_import_file">ייבוא מתוך קובץ</string>
   <string name="morphe_settings_import_file_success">ההגדרות יובאו בהצלחה, הקש שמור כדי להחיל</string>
   <string name="morphe_settings_import_file_failed">נכשל ייבוא הגדרות</string>
@@ -89,12 +89,12 @@ Second \"item\" text"</string>
   <string name="morphe_debug_title">אפשר הודעות דיבאג</string>
   <string name="morphe_debug_stacktrace_title">עקבות מחסנית באיתור באגים</string>
   <string name="morphe_debug_stacktrace_summary">כולל מעקב מחסנית ביומני ניפוי באגים כדי לעזור בזיהוי שגיאות</string>
-  <string name="morphe_debug_toast_on_error_title">הצג הודעה קופצת בעת שגיאת Morphe</string>
-  <string name="morphe_debug_toast_on_error_user_dialog_message">"השבתת הודעות שגיאה קופצות מסתירה את כל הודעות השגיאה של Morphe.
+  <string name="morphe_debug_toast_on_error_title">הצג הודעה קופצת בעת שגיאת YTritik</string>
+  <string name="morphe_debug_toast_on_error_user_dialog_message">"השבתת הודעות שגיאה קופצות מסתירה את כל הודעות השגיאה של YTritik.
 
 לא תקבל הודעה על אירועים בלתי צפויים."</string>
   <string name="morphe_debug_export_logs_title">ייצוא יומני איתור באגים</string>
-  <string name="morphe_debug_export_logs_summary">ייצוא יומני איתור באגים Morphe</string>
+  <string name="morphe_debug_export_logs_summary">ייצוא יומני איתור באגים YTritik</string>
   <string name="morphe_debug_export_logs_file">ייצוא לקובץ</string>
   <string name="morphe_debug_export_logs_success">יומני איתור באגים יובאו בהצלחה</string>
   <string name="morphe_debug_export_logs_failed">נכשל לייצא יומני איתור באגים</string>

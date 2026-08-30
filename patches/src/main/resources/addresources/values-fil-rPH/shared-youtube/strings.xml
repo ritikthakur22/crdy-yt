@@ -69,7 +69,7 @@ I-verify na tama ang pangalan ng pakete at naka-install ang app"</string>
   <string name="morphe_custom_branding_notification_icon_entry_1">Itugma ang icon ng app</string>
   <string name="morphe_custom_branding_notification_icon_entry_3">YTritik play</string>
   <!-- misc.dns.checkWatchHistoryDomainNameResolutionPatch -->
-  <string name="morphe_check_watch_history_domain_name_dialog_title">Paunawa ng Morphe</string>
+  <string name="morphe_check_watch_history_domain_name_dialog_title">Paunawa ng YTritik</string>
   <string name="morphe_check_watch_history_domain_name_dialog_message">Hindi sine-save ang iyong kasaysayan ng panonood.&lt;br&gt;&lt;br&gt;Malamang na ito ay sanhi ng isang DNS ad blocker o network proxy.&lt;br&gt;&lt;br&gt;Upang ayusin ito, i-whitelist ang &lt;b&gt;s.youtube.com&lt;/b&gt; o patayin ang lahat ng DNS blocker at proxy.</string>
   <string name="morphe_check_watch_history_domain_name_dialog_ignore">Huwag nang ipakita muli</string>
   <!-- misc.spoof.spoofVideoStreamsPatch -->

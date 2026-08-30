@@ -69,7 +69,7 @@ Verifica que el nombre del paquete sea correcto y que la aplicación esté insta
   <string name="morphe_custom_branding_notification_icon_entry_1">Coincidir con el icono de la aplicación</string>
   <string name="morphe_custom_branding_notification_icon_entry_3">YTritik play</string>
   <!-- misc.dns.checkWatchHistoryDomainNameResolutionPatch -->
-  <string name="morphe_check_watch_history_domain_name_dialog_title">Aviso de Morphe</string>
+  <string name="morphe_check_watch_history_domain_name_dialog_title">Aviso de YTritik</string>
   <string name="morphe_check_watch_history_domain_name_dialog_message">Tu historial de reproducción no se está guardando.&lt;br&gt;&lt;br&gt;Probablemente sea por un bloqueador de anuncios DNS o proxy.&lt;br&gt;&lt;br&gt;Para solucionarlo, permite el dominio &lt;b&gt;s.youtube.com&lt;/b&gt; o desactiva los bloqueadores DNS y proxies.</string>
   <string name="morphe_check_watch_history_domain_name_dialog_ignore">No mostrar de nuevo</string>
   <!-- misc.spoof.spoofVideoStreamsPatch -->

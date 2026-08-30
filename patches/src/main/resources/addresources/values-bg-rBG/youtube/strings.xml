@@ -17,7 +17,7 @@ Second \"item\" text"</string>
 -->
 <resources>
   <!-- misc.settings.settingsPatch -->
-  <!-- In languages where "About" is ambiguous, translate this as "About Morphe" (i.e., About this app). -->
+  <!-- In languages where "About" is ambiguous, translate this as "About YTritik" (i.e., About this app). -->
   <string name="morphe_settings_screen_00_about_title">Относно</string>
   <string name="morphe_settings_screen_01_ads_title">Реклами</string>
   <string name="morphe_settings_screen_02_alt_thumbnails_title">Алтернативни миниатюри</string>
@@ -454,7 +454,7 @@ Second \"item\" text"</string>
   <string name="morphe_save_to_watch_later_success_toast">Видеоклипът е запазен успешно в плейлиста Гледай по-късно</string>
   <string name="morphe_save_to_watch_later_already_exists_toast">Този видеоклип вече е запазен в плейлиста Гледай по-късно</string>
   <string name="morphe_save_to_watch_later_error_toast">Не може да се запази този видеоклип в плейлиста Гледай по-късно</string>
-  <string name="morphe_queue_flyout_title">Добавяне към опашката на Morphe</string>
+  <string name="morphe_queue_flyout_title">Добавяне към опашката на YTritik</string>
   <string name="morphe_queue_restore_title">Запазване на опашката между сесиите</string>
   <string name="morphe_queue_restore_summary">Опашката се запазва след рестартиране на приложението</string>
   <string name="morphe_swap_save_and_queue_actions_title">Размяна на действията Запази и Опашка</string>
@@ -476,7 +476,7 @@ Second \"item\" text"</string>
   <string name="morphe_queue_manager_fetch_succeeded_create">Опашката е създадена</string>
   <string name="morphe_queue_manager_fetch_succeeded_remove">Премахнато от опашката</string>
   <string name="morphe_queue_manager_fetch_succeeded_save">Опашката е запазена в %s</string>
-  <string name="morphe_queue_manager_playlist_title">Опашка на Morphe</string>
+  <string name="morphe_queue_manager_playlist_title">Опашка на YTritik</string>
   <string name="morphe_queue_manager_add_to_queue">Добавяне към опашката</string>
   <string name="morphe_queue_manager_add_to_queue_and_open_queue">Добавяне към опашката и отваряне</string>
   <string name="morphe_queue_manager_add_to_queue_and_play_video">Добавяне към опашката и възпроизвеждане</string>
@@ -624,7 +624,7 @@ Second \"item\" text"</string>
   <string name="morphe_hide_quick_actions_more_button_title">Скрий бутона „Търсене“</string>
   <string name="morphe_hide_quick_actions_more_videos_button_title">Покажи бутона „Настройки“</string>
   <string name="morphe_hide_quick_actions_playlist_button_title">Позиция на бутона „Настройки“</string>
-  <string name="morphe_hide_quick_actions_save_button_title">Когато е активирано, докосването отваря настройките на Morphe, а натискането и задържането отваря настройките на YouTube, деактивирайте, за да ги размените</string>
+  <string name="morphe_hide_quick_actions_save_button_title">Когато е активирано, докосването отваря настройките на YTritik, а натискането и задържането отваря настройките на YouTube, деактивирайте, за да ги размените</string>
   <string name="morphe_hide_quick_actions_share_button_title">Намалява хоризонталното разстояние между бутоните</string>
   <string name="morphe_quick_actions_top_margin_title">Горен марж на бързи действия</string>
   <string name="morphe_quick_actions_top_margin_summary">Задайте горен марж на лентата с бързи действия (0-32 dp)</string>
@@ -699,7 +699,7 @@ Second \"item\" text"</string>
   <string name="morphe_show_toolbar_settings_button_title">Показване на бутона за настройки</string>
   <string name="morphe_show_toolbar_settings_button_index_title">Позиция на бутона за настройки</string>
   <string name="morphe_show_toolbar_settings_button_type_title">Действие на бутона за настройки</string>
-  <string name="morphe_show_toolbar_settings_button_type_summary">Когато е активирано, докосването отваря настройките на Morphe, а продължителното натискане отваря настройките на YouTube, деактивирайте, за да ги размените</string>
+  <string name="morphe_show_toolbar_settings_button_type_summary">Когато е активирано, докосването отваря настройките на YTritik, а продължителното натискане отваря настройките на YouTube, деактивирайте, за да ги размените</string>
   <!-- layout.hide.player.flyoutmenupanel.hidePlayerFlyoutMenuPatch -->
   <string name="morphe_hide_player_flyout_title">Бутонът за коментари се показва</string>
   <string name="morphe_hide_player_flyout_summary">Изберете кои компоненти да се показват в падащото меню</string>

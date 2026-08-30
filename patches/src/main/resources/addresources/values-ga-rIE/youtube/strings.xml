@@ -17,7 +17,7 @@ Second \"item\" text"</string>
 -->
 <resources>
   <!-- misc.settings.settingsPatch -->
-  <!-- In languages where "About" is ambiguous, translate this as "About Morphe" (i.e., About this app). -->
+  <!-- In languages where "About" is ambiguous, translate this as "About YTritik" (i.e., About this app). -->
   <string name="morphe_settings_screen_00_about_title">Maidir</string>
   <string name="morphe_settings_screen_01_ads_title">Fógraí</string>
   <string name="morphe_settings_screen_02_alt_thumbnails_title">Mionsamhlacha malartacha</string>
@@ -454,7 +454,7 @@ Eolas: Seans nach n-oibreoidh sé ar shruthanna beo"</string>
   <string name="morphe_save_to_watch_later_success_toast">Sábháilte go rathúil an físeán i seinmliosta Féach Níos Déanaí</string>
   <string name="morphe_save_to_watch_later_already_exists_toast">Tá an físeán seo sábháilte cheana féin sa seinmliosta féach níos déanaí</string>
   <string name="morphe_save_to_watch_later_error_toast">Ní féidir an físeán seo a shábháil sa seinmliosta féach níos déanaí</string>
-  <string name="morphe_queue_flyout_title">Cuir leis an scuaine Morphe</string>
+  <string name="morphe_queue_flyout_title">Cuir leis an scuaine YTritik</string>
   <string name="morphe_queue_restore_title">Coinnigh scuaine idir seisiúin</string>
   <string name="morphe_queue_restore_summary">Coinnítear an scuaine tar éis an aip a atosú</string>
   <string name="morphe_swap_save_and_queue_actions_title">Malartaigh gníomhartha Sábháil agus Ciú</string>
@@ -476,7 +476,7 @@ Eolas: Seans nach n-oibreoidh sé ar shruthanna beo"</string>
   <string name="morphe_queue_manager_fetch_succeeded_create">Cruthaíodh an scuaine</string>
   <string name="morphe_queue_manager_fetch_succeeded_remove">Bainte den scuaine</string>
   <string name="morphe_queue_manager_fetch_succeeded_save">Sábháilte an scuaine chuig %s</string>
-  <string name="morphe_queue_manager_playlist_title">Ciú Morphe</string>
+  <string name="morphe_queue_manager_playlist_title">Ciú YTritik</string>
   <string name="morphe_queue_manager_add_to_queue">Cuir leis an scuaine</string>
   <string name="morphe_queue_manager_add_to_queue_and_open_queue">Cuir leis an scuaine agus oscail</string>
   <string name="morphe_queue_manager_add_to_queue_and_play_video">Cuir leis an scuaine agus seinn</string>

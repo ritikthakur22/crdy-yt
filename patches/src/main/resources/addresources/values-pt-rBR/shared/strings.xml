@@ -48,15 +48,15 @@ Second \"item\" text"</string>
   <string name="morphe_settings_search_empty_history_title">O histórico de pesquisa está vazio</string>
   <string name="morphe_settings_search_empty_history_summary">Para salvar o histórico de pesquisa, digite uma consulta de pesquisa e pressione Enter</string>
   <string name="morphe_settings_search_history_title">Mostrar histórico de pesquisa das configurações</string>
-  <string name="morphe_show_menu_icons_title">Mostrar ícones de configuração do Morphe</string>
+  <string name="morphe_show_menu_icons_title">Mostrar ícones de configuração do YTritik</string>
   <string name="morphe_settings_menu_copy_path">Copiado: %s</string>
-  <string name="morphe_language_title">Idioma do Morphe</string>
+  <string name="morphe_language_title">Idioma do YTritik</string>
   <string name="morphe_language_user_dialog_message">"Traduções para alguns idiomas podem estar faltando ou incompletas.
 
 Para traduzir novos idiomas ou melhorar as traduções existentes, visite morphe.software/translate"</string>
   <string name="morphe_language_DEFAULT">Idioma do aplicativo</string>
   <string name="morphe_pref_import_export_title">Importar / Exportar</string>
-  <string name="morphe_pref_import_export_summary">Importar / Exportar as configurações do Morphe</string>
+  <string name="morphe_pref_import_export_summary">Importar / Exportar as configurações do YTritik</string>
   <string name="morphe_settings_import_file">Importar do arquivo</string>
   <string name="morphe_settings_import_file_success">Configurações importadas com sucesso, toque em Salvar para aplicar</string>
   <string name="morphe_settings_import_file_failed">Falha ao importar as configurações</string>
@@ -89,12 +89,12 @@ Para traduzir novos idiomas ou melhorar as traduções existentes, visite morphe
   <string name="morphe_debug_title">Ativar registro de depuração</string>
   <string name="morphe_debug_stacktrace_title">Rastreamento de pilha do registro de depuração</string>
   <string name="morphe_debug_stacktrace_summary">Inclui rastreamentos de pilha nos logs de depuração para ajudar a identificar erros</string>
-  <string name="morphe_debug_toast_on_error_title">Mostrar notificação flutuante de erro do Morphe</string>
-  <string name="morphe_debug_toast_on_error_user_dialog_message">"Desligar as notificações de erro oculta todas as notificações de erro do Morphe.
+  <string name="morphe_debug_toast_on_error_title">Mostrar notificação flutuante de erro do YTritik</string>
+  <string name="morphe_debug_toast_on_error_user_dialog_message">"Desligar as notificações de erro oculta todas as notificações de erro do YTritik.
 
 Você não será notificado sobre nenhum evento inesperado."</string>
   <string name="morphe_debug_export_logs_title">Exportar registros de depuração</string>
-  <string name="morphe_debug_export_logs_summary">Exportar registros de depuração Morphe</string>
+  <string name="morphe_debug_export_logs_summary">Exportar registros de depuração YTritik</string>
   <string name="morphe_debug_export_logs_file">Exportar para arquivo</string>
   <string name="morphe_debug_export_logs_success">Registros de depuração exportados com sucesso</string>
   <string name="morphe_debug_export_logs_failed">Falha ao exportar registros de depuração</string>

@@ -88,8 +88,8 @@ Second \"item\" text"</string>
   <string name="morphe_sb_api_url_changed">API:n URL-osoitetta muutettiin</string>
   <string name="morphe_sb_settings_ie_title">Tuo/Vie asetukset</string>
   <string name="morphe_sb_settings_copy">Kopioi</string>
-  <string name="morphe_sb_settings_ie_summary">SponsorBlockin JSON-konfiguraatiosi, joka voidaan tuoda/viedä Morpheiin ja muihin SponsorBlock-alustoihin</string>
-  <string name="morphe_sb_settings_ie_summary_warning">"SponsorBlockin JSON-konfiguraatiosi, joka voidaan tuoda/viedä Morpheiin ja muihin SponsorBlock-alustoihin. Tämä sisältää yksityisen UserID:si. Jaa tämä harkiten"</string>
+  <string name="morphe_sb_settings_ie_summary">SponsorBlockin JSON-konfiguraatiosi, joka voidaan tuoda/viedä YTritikiin ja muihin SponsorBlock-alustoihin</string>
+  <string name="morphe_sb_settings_ie_summary_warning">"SponsorBlockin JSON-konfiguraatiosi, joka voidaan tuoda/viedä YTritikiin ja muihin SponsorBlock-alustoihin. Tämä sisältää yksityisen UserID:si. Jaa tämä harkiten"</string>
   <string name="morphe_sb_settings_import_successful">Asetusten tuonti onnistui</string>
   <string name="morphe_sb_settings_import_failed">Tuonti epäonnistui: %s</string>
   <string name="morphe_sb_settings_export_failed">Vienti epäonnistui: %s</string>

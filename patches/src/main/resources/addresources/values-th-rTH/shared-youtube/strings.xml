@@ -69,7 +69,7 @@ Second \"item\" text"</string>
   <string name="morphe_custom_branding_notification_icon_entry_1">จับคู่ไอคอนแอป</string>
   <string name="morphe_custom_branding_notification_icon_entry_3">YTritik play</string>
   <!-- misc.dns.checkWatchHistoryDomainNameResolutionPatch -->
-  <string name="morphe_check_watch_history_domain_name_dialog_title">ประกาศ Morphe</string>
+  <string name="morphe_check_watch_history_domain_name_dialog_title">ประกาศ YTritik</string>
   <string name="morphe_check_watch_history_domain_name_dialog_message">ประวัติการรับชมของคุณไม่ได้ถูกบันทึก&lt;br&gt;&lt;br&gt;สาเหตุที่เป็นไปได้มากที่สุดคือตัวบล็อกโฆษณา DNS หรือพร็อกซีเครือข่าย&lt;br&gt;&lt;br&gt;เพื่อแก้ไขปัญหานี้ ให้เพิ่ม &lt;b&gt;s.youtube.com&lt;/b&gt; ในรายการที่อนุญาต หรือปิดตัวบล็อกโฆษณา DNS และพร็อกซีทั้งหมด</string>
   <string name="morphe_check_watch_history_domain_name_dialog_ignore">อย่าแสดงอีก</string>
   <!-- misc.spoof.spoofVideoStreamsPatch -->

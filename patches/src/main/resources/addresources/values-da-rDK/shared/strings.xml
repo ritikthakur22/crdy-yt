@@ -48,7 +48,7 @@ Second \"item\" text"</string>
   <string name="morphe_settings_search_empty_history_title">Søgehistorikken er tom</string>
   <string name="morphe_settings_search_empty_history_summary">For at gemme søgehistorik skal du skrive en søgeforespørgsel og trykke på Enter</string>
   <string name="morphe_settings_search_history_title">Vis indstillingssøgehistorik</string>
-  <string name="morphe_show_menu_icons_title">Vis Morphe-indstillingsikoner</string>
+  <string name="morphe_show_menu_icons_title">Vis YTritik-indstillingsikoner</string>
   <string name="morphe_settings_menu_copy_path">Kopieret: %s</string>
   <string name="morphe_language_title">YTritik-sprog</string>
   <string name="morphe_language_user_dialog_message">"Oversættelser for nogle sprog kan mangle eller være ufuldstændige.
@@ -56,7 +56,7 @@ Second \"item\" text"</string>
 For at oversætte nye sprog eller forbedre de eksisterende oversættelser, besøg morphe.software/translate"</string>
   <string name="morphe_language_DEFAULT">App-sprog</string>
   <string name="morphe_pref_import_export_title">Importér/Eksportér</string>
-  <string name="morphe_pref_import_export_summary">Importér/Eksportér Morphe-indstillinger</string>
+  <string name="morphe_pref_import_export_summary">Importér/Eksportér YTritik-indstillinger</string>
   <string name="morphe_settings_import_file">Importér fra fil</string>
   <string name="morphe_settings_import_file_success">Indstillinger importeret med succes, tryk på Gem for at anvende</string>
   <string name="morphe_settings_import_file_failed">Importering af indstillinger mislykkedes</string>
@@ -89,8 +89,8 @@ For at oversætte nye sprog eller forbedre de eksisterende oversættelser, besø
   <string name="morphe_debug_title">Aktivér fejlfindingslogning</string>
   <string name="morphe_debug_stacktrace_title">Fejlfindingslogge inkluderer stakspor</string>
   <string name="morphe_debug_stacktrace_summary">Inkluderer stack traces i fejlfindingslogs for at hjælpe med at identificere fejl</string>
-  <string name="morphe_debug_toast_on_error_title">Vis toastbesked ved Morphe-fejl</string>
-  <string name="morphe_debug_toast_on_error_user_dialog_message">"Hvis du deaktiverer fejl-toasts, skjules alle Morphe-fejlmeddelelser.
+  <string name="morphe_debug_toast_on_error_title">Vis toastbesked ved YTritik-fejl</string>
+  <string name="morphe_debug_toast_on_error_user_dialog_message">"Hvis du deaktiverer fejl-toasts, skjules alle YTritik-fejlmeddelelser.
 
 Du modtager ikke notifikationer om uventede hændelser."</string>
   <string name="morphe_debug_export_logs_title">Eksportér fejlfindingslogfiler</string>

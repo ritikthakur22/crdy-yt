@@ -17,7 +17,7 @@ Second \"item\" text"</string>
 -->
 <resources>
   <!-- misc.settings.settingsPatch -->
-  <!-- In languages where "About" is ambiguous, translate this as "About Morphe" (i.e., About this app). -->
+  <!-- In languages where "About" is ambiguous, translate this as "About YTritik" (i.e., About this app). -->
   <string name="morphe_settings_screen_00_about_title">Om</string>
   <string name="morphe_settings_screen_01_ads_title">Annonser</string>
   <string name="morphe_settings_screen_02_alt_thumbnails_title">Alternativa miniatyrbilder</string>
@@ -454,13 +454,13 @@ Information: Kanske inte fungerar i livestreamar"</string>
   <string name="morphe_save_to_watch_later_success_toast">Videon har sparats i spellistan Titta senare</string>
   <string name="morphe_save_to_watch_later_already_exists_toast">Den här videon har redan sparats i spellistan Titta senare</string>
   <string name="morphe_save_to_watch_later_error_toast">Det går inte att spara den här videon i spellistan Titta senare</string>
-  <string name="morphe_queue_flyout_title">Lägg till i Morphe-kön</string>
+  <string name="morphe_queue_flyout_title">Lägg till i YTritik-kön</string>
   <string name="morphe_queue_restore_title">Behåll kön mellan sessioner</string>
   <string name="morphe_queue_restore_summary">Kön behålls efter omstart av appen</string>
   <string name="morphe_swap_save_and_queue_actions_title">Byt plats på åtgärderna Spara och Kö</string>
   <string name="morphe_swap_save_and_queue_actions_summary">Tryck för köalternativ, tryck länge för att spara till Titta senare</string>
   <string name="morphe_queue_override_flyout_menu_title">Åsidosätt flyout-knappen för kö i flödet</string>
-  <string name="morphe_queue_override_flyout_menu_summary">Öppnar Morphe-kön istället för YouTube-kön</string>
+  <string name="morphe_queue_override_flyout_menu_summary">Öppnar YTritik-kön istället för YouTube-kön</string>
   <string name="morphe_queue_add_flyout_menu_title">Lägg till menyalternativ för kö i flödernas flyout-meny</string>
   <string name="morphe_queue_add_flyout_menu_summary">Lägger till ett extra flyout-objekt. Aktivera detta om \"Lägg till i kön\" inte visas</string>
   <string name="morphe_queue_manager_check_failed_auth">Inte inloggad</string>
@@ -672,7 +672,7 @@ För att åtgärda detta, aktivera \"Falska videoströmmar\" och ändra \"Standa
   <string name="morphe_show_settings_button_title">Visa knappen Inställningar</string>
   <string name="morphe_show_settings_button_index_title">Position för knappen Inställningar</string>
   <string name="morphe_show_settings_button_type_title">Åtgärd för knappen Inställningar</string>
-  <string name="morphe_show_settings_button_type_summary">Öppnar Morphe-inställningarna när det här alternativet är aktiverat, eller YouTube-inställningarna när det är inaktiverat</string>
+  <string name="morphe_show_settings_button_type_summary">Öppnar YTritik-inställningarna när det här alternativet är aktiverat, eller YouTube-inställningarna när det är inaktiverat</string>
   <string name="morphe_swap_create_with_notifications_button_title">Byt knappen Skapa mot knappen Aviseringar</string>
   <string name="morphe_swap_create_with_notifications_button_summary">Om den här inställningen inte träder i kraft kan du testa att byta till inkognitoläget</string>
   <string name="morphe_hide_navigation_button_labels_title">Dölj etiketter för navigeringsknappar</string>
@@ -699,7 +699,7 @@ Om du vill komma åt inställningarna aktiverar du knappen Inställningar via Al
   <string name="morphe_show_toolbar_settings_button_title">Visa knappen Inställningar</string>
   <string name="morphe_show_toolbar_settings_button_index_title">Position för knappen Inställningar</string>
   <string name="morphe_show_toolbar_settings_button_type_title">Åtgärd för knappen Inställningar</string>
-  <string name="morphe_show_toolbar_settings_button_type_summary">När det här alternativet är aktiverat öppnar ett tryck Morphe-inställningarna och ett långt tryck YouTube-inställningarna. Inaktivera för att byta</string>
+  <string name="morphe_show_toolbar_settings_button_type_summary">När det här alternativet är aktiverat öppnar ett tryck YTritik-inställningarna och ett långt tryck YouTube-inställningarna. Inaktivera för att byta</string>
   <!-- layout.hide.player.flyoutmenupanel.hidePlayerFlyoutMenuPatch -->
   <string name="morphe_hide_player_flyout_title">Flyout-meny</string>
   <string name="morphe_hide_player_flyout_summary">Välj vilka komponenter som visas i flyout-menyn</string>

@@ -17,8 +17,8 @@ Second \"item\" text"</string>
 -->
 <resources>
   <!-- misc.settings.settingsPatch -->
-  <!-- In languages where "About" is ambiguous, translate this as "About Morphe" (i.e., About this app). -->
-  <string name="morphe_settings_screen_00_about_title">Um Morphe</string>
+  <!-- In languages where "About" is ambiguous, translate this as "About YTritik" (i.e., About this app). -->
+  <string name="morphe_settings_screen_00_about_title">Um YTritik</string>
   <string name="morphe_settings_screen_01_ads_title">Auglýsingar</string>
   <string name="morphe_settings_screen_02_alt_thumbnails_title">Aðrar smámyndir</string>
   <string name="morphe_settings_screen_03_feed_title">Straumur</string>

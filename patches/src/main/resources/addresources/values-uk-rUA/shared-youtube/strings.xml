@@ -69,7 +69,7 @@ Second \"item\" text"</string>
   <string name="morphe_custom_branding_notification_icon_entry_1">Відповідати іконці застосунку</string>
   <string name="morphe_custom_branding_notification_icon_entry_3">YTritik play</string>
   <!-- misc.dns.checkWatchHistoryDomainNameResolutionPatch -->
-  <string name="morphe_check_watch_history_domain_name_dialog_title">Повідомлення Morphe</string>
+  <string name="morphe_check_watch_history_domain_name_dialog_title">Повідомлення YTritik</string>
   <string name="morphe_check_watch_history_domain_name_dialog_message">Ваша історія переглядів не зберігається.&lt;br&gt;&lt;br&gt;Швидше за все, це спричинено блокувальником реклами DNS або мережевим проксі.&lt;br&gt;&lt;br&gt;Щоб це виправити, додайте &lt;b&gt;s.youtube.com&lt;/b&gt; у білий список блокувальника або вимкніть усі DNS блокувальники та проксі.</string>
   <string name="morphe_check_watch_history_domain_name_dialog_ignore">Більше не показувати</string>
   <!-- misc.spoof.spoofVideoStreamsPatch -->

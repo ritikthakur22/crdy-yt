@@ -69,7 +69,7 @@ Kiểm tra xem tên gói có chính xác không và ứng dụng đã được c
   <string name="morphe_custom_branding_notification_icon_entry_1">Khớp biểu tượng ứng dụng</string>
   <string name="morphe_custom_branding_notification_icon_entry_3">YTritik play</string>
   <!-- misc.dns.checkWatchHistoryDomainNameResolutionPatch -->
-  <string name="morphe_check_watch_history_domain_name_dialog_title">Thông báo Morphe</string>
+  <string name="morphe_check_watch_history_domain_name_dialog_title">Thông báo YTritik</string>
   <string name="morphe_check_watch_history_domain_name_dialog_message">Nhật ký xem của bạn hiện không được lưu lại.&lt;br&gt;&lt;br&gt;Nguyên nhân thường là do DNS chặn quảng cáo hoặc proxy mạng.&lt;br&gt;&lt;br&gt;Vì vậy, hãy thử thêm &lt;b&gt;s.youtube.com&lt;/b&gt; vào danh sách cho phép, hoặc tắt tất cả DNS và proxy.</string>
   <string name="morphe_check_watch_history_domain_name_dialog_ignore">Không hiện lại</string>
   <!-- misc.spoof.spoofVideoStreamsPatch -->

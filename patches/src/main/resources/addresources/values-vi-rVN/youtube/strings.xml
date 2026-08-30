@@ -17,7 +17,7 @@ Second \"item\" text"</string>
 -->
 <resources>
   <!-- misc.settings.settingsPatch -->
-  <!-- In languages where "About" is ambiguous, translate this as "About Morphe" (i.e., About this app). -->
+  <!-- In languages where "About" is ambiguous, translate this as "About YTritik" (i.e., About this app). -->
   <string name="morphe_settings_screen_00_about_title">Giới thiệu</string>
   <string name="morphe_settings_screen_01_ads_title">Quảng cáo</string>
   <string name="morphe_settings_screen_02_alt_thumbnails_title">Hình thu nhỏ thay thế</string>
@@ -453,7 +453,7 @@ Lưu ý: Có thể không hoạt động với video phát trực tiếp"</strin
   <string name="morphe_save_to_watch_later_success_toast">Video đã được lưu thành công vào danh sách xem sau</string>
   <string name="morphe_save_to_watch_later_already_exists_toast">Video này đã được lưu trong danh sách xem sau</string>
   <string name="morphe_save_to_watch_later_error_toast">Không thể lưu video này vào danh sách xem sau</string>
-  <string name="morphe_queue_flyout_title">Thêm vào hàng chờ Morphe</string>
+  <string name="morphe_queue_flyout_title">Thêm vào hàng chờ YTritik</string>
   <string name="morphe_queue_restore_title">Lưu hàng chờ giữa các phiên</string>
   <string name="morphe_queue_restore_summary">Hàng chờ vẫn được lưu sau khi tắt đi bật lại ứng dụng</string>
   <string name="morphe_swap_save_and_queue_actions_title">Đổi chỗ Lưu và tùy chọn Hàng chờ</string>
@@ -475,7 +475,7 @@ Lưu ý: Có thể không hoạt động với video phát trực tiếp"</strin
   <string name="morphe_queue_manager_fetch_succeeded_create">Đã tạo hàng chờ</string>
   <string name="morphe_queue_manager_fetch_succeeded_remove">Đã xóa khỏi hàng chờ</string>
   <string name="morphe_queue_manager_fetch_succeeded_save">Đã lưu hàng chờ vào %s</string>
-  <string name="morphe_queue_manager_playlist_title">Hàng chờ Morphe</string>
+  <string name="morphe_queue_manager_playlist_title">Hàng chờ YTritik</string>
   <string name="morphe_queue_manager_add_to_queue">Thêm vào hàng chờ</string>
   <string name="morphe_queue_manager_add_to_queue_and_open_queue">Thêm vào hàng chờ và mở</string>
   <string name="morphe_queue_manager_add_to_queue_and_play_video">Thêm vào hàng chờ và phát</string>

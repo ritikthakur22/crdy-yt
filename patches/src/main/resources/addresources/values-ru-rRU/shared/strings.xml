@@ -48,15 +48,15 @@ Second \"item\" text"</string>
   <string name="morphe_settings_search_empty_history_title">История поиска пуста</string>
   <string name="morphe_settings_search_empty_history_summary">Для сохранения истории поиска введите поисковый запрос и нажмите Enter</string>
   <string name="morphe_settings_search_history_title">Показать историю поиска настроек</string>
-  <string name="morphe_show_menu_icons_title">Показать иконки в настройках Morphe</string>
+  <string name="morphe_show_menu_icons_title">Показать иконки в настройках YTritik</string>
   <string name="morphe_settings_menu_copy_path">Скопировано: %s</string>
-  <string name="morphe_language_title">Язык настроек Morphe</string>
+  <string name="morphe_language_title">Язык настроек YTritik</string>
   <string name="morphe_language_user_dialog_message">"Переводы для некоторых языков могут быть неполными или отсутствовать.
 
 Чтобы перевести новые языки или улучшить существующие переводы, посетите morphe.software/translate"</string>
   <string name="morphe_language_DEFAULT">Язык приложения YouTube</string>
   <string name="morphe_pref_import_export_title">Резервное копирование настроек</string>
-  <string name="morphe_pref_import_export_summary">Создание и восстановление резервной копии настроек Morphe</string>
+  <string name="morphe_pref_import_export_summary">Создание и восстановление резервной копии настроек YTritik</string>
   <string name="morphe_settings_import_file">Импорт из файла</string>
   <string name="morphe_settings_import_file_success">Настройки успешно импортированы, нажмите \"Сохранить\", чтобы применить</string>
   <string name="morphe_settings_import_file_failed">Не удалось импортировать настройки</string>
@@ -89,12 +89,12 @@ Second \"item\" text"</string>
   <string name="morphe_debug_title">Включить журналы отладки</string>
   <string name="morphe_debug_stacktrace_title">Трассировка стека журнала отладки</string>
   <string name="morphe_debug_stacktrace_summary">Включает трассировки стека в журналы отладки, чтобы помочь выявить ошибки</string>
-  <string name="morphe_debug_toast_on_error_title">Показать всплывающее уведомление при ошибке Morphe</string>
-  <string name="morphe_debug_toast_on_error_user_dialog_message">"Отключение всплывающих уведомлений об ошибках скроет все сообщения об ошибках Morphe.
+  <string name="morphe_debug_toast_on_error_title">Показать всплывающее уведомление при ошибке YTritik</string>
+  <string name="morphe_debug_toast_on_error_user_dialog_message">"Отключение всплывающих уведомлений об ошибках скроет все сообщения об ошибках YTritik.
 
 Вы не будете уведомлены о каких-либо непредвиденных событиях."</string>
   <string name="morphe_debug_export_logs_title">Экспорт журналов отладки</string>
-  <string name="morphe_debug_export_logs_summary">Экспорт журналов отладки Morphe</string>
+  <string name="morphe_debug_export_logs_summary">Экспорт журналов отладки YTritik</string>
   <string name="morphe_debug_export_logs_file">Экспорт в файл</string>
   <string name="morphe_debug_export_logs_success">Журналы отладки успешно экспортированы</string>
   <string name="morphe_debug_export_logs_failed">Не удалось экспортировать журналы отладки</string>

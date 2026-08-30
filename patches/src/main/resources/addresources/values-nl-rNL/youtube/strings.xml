@@ -17,7 +17,7 @@ Second \"item\" text"</string>
 -->
 <resources>
   <!-- misc.settings.settingsPatch -->
-  <!-- In languages where "About" is ambiguous, translate this as "About Morphe" (i.e., About this app). -->
+  <!-- In languages where "About" is ambiguous, translate this as "About YTritik" (i.e., About this app). -->
   <string name="morphe_settings_screen_00_about_title">Over</string>
   <string name="morphe_settings_screen_01_ads_title">Advertenties</string>
   <string name="morphe_settings_screen_02_alt_thumbnails_title">Alternatieve miniaturen</string>
@@ -454,13 +454,13 @@ Info: Werkt mogelijk niet op livestreams"</string>
   <string name="morphe_save_to_watch_later_success_toast">Video succesvol opgeslagen in afspeellijst \'Bekijk later\'</string>
   <string name="morphe_save_to_watch_later_already_exists_toast">Deze video is al opgeslagen in de afspeellijst \'Bekijk later\'</string>
   <string name="morphe_save_to_watch_later_error_toast">Kan deze video niet opslaan in de afspeellijst \'Bekijk later\'</string>
-  <string name="morphe_queue_flyout_title">Toevoegen aan Morphe-wachtrij</string>
+  <string name="morphe_queue_flyout_title">Toevoegen aan YTritik-wachtrij</string>
   <string name="morphe_queue_restore_title">Wachtrij behouden tussen sessies</string>
   <string name="morphe_queue_restore_summary">Wachtrij blijft behouden na het opnieuw starten van de app</string>
   <string name="morphe_swap_save_and_queue_actions_title">Verwissel de acties Opslaan en Wachtrij</string>
   <string name="morphe_swap_save_and_queue_actions_summary">Tik voor wachtrijopties, tik en houd ingedrukt om later te bekijken</string>
   <string name="morphe_queue_override_flyout_menu_title">Vervang wachtrij flyout-knop</string>
-  <string name="morphe_queue_override_flyout_menu_summary">Opent de Morphe-wachtrij in plaats van de YouTube-wachtrij</string>
+  <string name="morphe_queue_override_flyout_menu_summary">Opent de YTritik-wachtrij in plaats van de YouTube-wachtrij</string>
   <string name="morphe_queue_add_flyout_menu_title">Feed-flyoutmenu-item toevoegen</string>
   <string name="morphe_queue_add_flyout_menu_summary">Voegt een extra flyout-item toe. Schakel dit in als \"Toevoegen aan wachtrij\" niet wordt weergegeven</string>
   <string name="morphe_queue_manager_check_failed_auth">Niet ingelogd</string>
@@ -666,7 +666,7 @@ Om dit op te lossen, schakel je 'Video streams spoofen' in en wijzig je de 'Stan
   <!-- 'Notifications' should be translated using the same localized wording YouTube displays for the tab. -->
   <string name="morphe_hide_notifications_button_title">Toon Instellingen-knop</string>
   <string name="morphe_show_search_button_title">Instellingen-knop positie</string>
-  <string name="morphe_show_search_button_index_title">Wanneer ingeschakeld, opent het tikken Morphe-instellingen en lang indrukken opent YouTube-instellingen, schakel uit om te wisselen</string>
+  <string name="morphe_show_search_button_index_title">Wanneer ingeschakeld, opent het tikken YTritik-instellingen en lang indrukken opent YouTube-instellingen, schakel uit om te wisselen</string>
   <string name="morphe_show_settings_button_title">Vermindert de horizontale spatiëring tussen knoppen</string>
   <string name="morphe_show_settings_button_index_title">Animeert overgangen bij het wisselen tussen tabbladen</string>
   <string name="morphe_show_settings_button_type_title">Actie van de instellingenknop</string>
@@ -697,7 +697,7 @@ Om Instellingen te openen, schakelt u de knop Instellingen in via Algemeen → W
   <string name="morphe_show_toolbar_settings_button_title">Toon Instellingen-knop</string>
   <string name="morphe_show_toolbar_settings_button_index_title">Instellingen-knop positie</string>
   <string name="morphe_show_toolbar_settings_button_type_title">Instellingenknop actie</string>
-  <string name="morphe_show_toolbar_settings_button_type_summary">Wanneer ingeschakeld, opent tikken Morphe-instellingen en ingedrukt houden opent YouTube-instellingen, uitschakelen om te wisselen</string>
+  <string name="morphe_show_toolbar_settings_button_type_summary">Wanneer ingeschakeld, opent tikken YTritik-instellingen en ingedrukt houden opent YouTube-instellingen, uitschakelen om te wisselen</string>
   <!-- layout.hide.player.flyoutmenupanel.hidePlayerFlyoutMenuPatch -->
   <string name="morphe_hide_player_flyout_title">Uitklapmenu</string>
   <string name="morphe_hide_player_flyout_summary">Vermindert de horizontale spatiëring tussen knoppen</string>

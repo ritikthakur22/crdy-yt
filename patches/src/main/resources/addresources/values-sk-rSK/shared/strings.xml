@@ -48,15 +48,15 @@ Second \"item\" text"</string>
   <string name="morphe_settings_search_empty_history_title">História vyhľadávania je prázdna</string>
   <string name="morphe_settings_search_empty_history_summary">Pre uloženie do histórie vyhľadávania zadajte vyhľadávací dotaz a stlačte Enter</string>
   <string name="morphe_settings_search_history_title">Zobraziť históriu vyhľadávania v nastaveniach</string>
-  <string name="morphe_show_menu_icons_title">Zobraziť ikony nastavení Morphe</string>
+  <string name="morphe_show_menu_icons_title">Zobraziť ikony nastavení YTritik</string>
   <string name="morphe_settings_menu_copy_path">Kopírované: %s</string>
-  <string name="morphe_language_title">Jazyk Morphe</string>
+  <string name="morphe_language_title">Jazyk YTritik</string>
   <string name="morphe_language_user_dialog_message">"Preklady pre niektoré jazyky sa môžu byť neúplné.
 
 Ak chcete prekladať nové jazyky alebo vylepšiť existujúce preklady, navštívte morphe.software/translate"</string>
   <string name="morphe_language_DEFAULT">Jazyk aplikácie</string>
   <string name="morphe_pref_import_export_title">Importovať / Exportovať</string>
-  <string name="morphe_pref_import_export_summary">Importovať / Exportovať nastavenia Morphe</string>
+  <string name="morphe_pref_import_export_summary">Importovať / Exportovať nastavenia YTritik</string>
   <string name="morphe_settings_import_file">Importovať zo súboru</string>
   <string name="morphe_settings_import_file_success">Nastavenia boli úspešne importované, klepnite na Uložiť, aby ste ich aplikovali</string>
   <string name="morphe_settings_import_file_failed">Nepodarilo sa importovať nastavenia</string>
@@ -65,7 +65,7 @@ Ak chcete prekladať nové jazyky alebo vylepšiť existujúce preklady, navšt�
   <string name="morphe_settings_export_file_failed">Nepodarilo sa exportovať nastavenia</string>
   <!-- String is also duplicated in Reddit about preference -->
   <string name="morphe_settings_about_links_body_version_current">Používate najnovšiu verziu YTritik Patches &lt;i&gt;%s&lt;/i&gt;</string>
-  <string name="morphe_settings_about_links_body_version_outdated">Používate záplaty YTritik verzia &lt;i&gt;%1$s&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Dostupná aktualizácia: &lt;i&gt;%2$s&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Na aktualizáciu záplat znovu zaplátajte aplikáciu cez Morphe</string>
+  <string name="morphe_settings_about_links_body_version_outdated">Používate záplaty YTritik verzia &lt;i&gt;%1$s&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Dostupná aktualizácia: &lt;i&gt;%2$s&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Na aktualizáciu záplat znovu zaplátajte aplikáciu cez YTritik</string>
   <string name="morphe_settings_about_links_dev_header">Poznámka</string>
   <string name="morphe_settings_about_links_dev_body">Táto verzia je predbežná a môžu sa vyskytnúť neočakávané problémy</string>
   <string name="morphe_settings_about_links_header">Oficiálne odkazy</string>
@@ -89,12 +89,12 @@ Ak chcete prekladať nové jazyky alebo vylepšiť existujúce preklady, navšt�
   <string name="morphe_debug_title">Zaznamenávanie ladiacich informácií</string>
   <string name="morphe_debug_stacktrace_title">Záznamy ladenia budú obsahovať trasovacie stopy</string>
   <string name="morphe_debug_stacktrace_summary">Zahrňuje trasovanie zásobníka v protokoloch ladenia, aby sa pomohlo pri identifikácii chýb</string>
-  <string name="morphe_debug_toast_on_error_title">Zobraziť oznámenie v prípade chyby Morphe</string>
+  <string name="morphe_debug_toast_on_error_title">Zobraziť oznámenie v prípade chyby YTritik</string>
   <string name="morphe_debug_toast_on_error_user_dialog_message">"Vypnutím chybových upozornení skryjete všetky notifikácie YTritik o chybách.
 
 Nebudete informovaný o žiadnych nečakaných udalostiach."</string>
   <string name="morphe_debug_export_logs_title">Exportovať záznamy ladenia</string>
-  <string name="morphe_debug_export_logs_summary">Exportovať záznamy ladenia Morphe</string>
+  <string name="morphe_debug_export_logs_summary">Exportovať záznamy ladenia YTritik</string>
   <string name="morphe_debug_export_logs_file">Exportovať do súboru</string>
   <string name="morphe_debug_export_logs_success">Záznamy ladenia boli exportované</string>
   <string name="morphe_debug_export_logs_failed">Nepodarilo sa exportovať záznamy ladenia</string>

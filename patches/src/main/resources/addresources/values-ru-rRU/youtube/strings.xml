@@ -17,7 +17,7 @@ Second \"item\" text"</string>
 -->
 <resources>
   <!-- misc.settings.settingsPatch -->
-  <!-- In languages where "About" is ambiguous, translate this as "About Morphe" (i.e., About this app). -->
+  <!-- In languages where "About" is ambiguous, translate this as "About YTritik" (i.e., About this app). -->
   <string name="morphe_settings_screen_00_about_title">Информация</string>
   <string name="morphe_settings_screen_01_ads_title">Реклама</string>
   <string name="morphe_settings_screen_02_alt_thumbnails_title">Альтернативные миниатюры</string>
@@ -456,7 +456,7 @@ Second \"item\" text"</string>
   <string name="morphe_save_to_watch_later_success_toast">Видео успешно сохранено в плейлист \"Смотреть позже\"</string>
   <string name="morphe_save_to_watch_later_already_exists_toast">Это видео уже сохранено в плейлист \"Смотреть позже\"</string>
   <string name="morphe_save_to_watch_later_error_toast">Не удалось сохранить это видео в плейлист \"Смотреть позже\"</string>
-  <string name="morphe_queue_flyout_title">Добавить в очередь Morphe</string>
+  <string name="morphe_queue_flyout_title">Добавить в очередь YTritik</string>
   <string name="morphe_queue_restore_title">Сохранять очередь между сеансами</string>
   <string name="morphe_queue_restore_summary">Очередь сохраняется после перезапуска приложения</string>
   <string name="morphe_swap_save_and_queue_actions_title">Поменять местами действия \"Сохранить\" и \"В очередь\"</string>
@@ -478,7 +478,7 @@ Second \"item\" text"</string>
   <string name="morphe_queue_manager_fetch_succeeded_create">Очередь создана</string>
   <string name="morphe_queue_manager_fetch_succeeded_remove">Удалено из очереди</string>
   <string name="morphe_queue_manager_fetch_succeeded_save">Очередь сохранена в %s</string>
-  <string name="morphe_queue_manager_playlist_title">Очередь Morphe</string>
+  <string name="morphe_queue_manager_playlist_title">Очередь YTritik</string>
   <string name="morphe_queue_manager_add_to_queue">Добавить в очередь</string>
   <string name="morphe_queue_manager_add_to_queue_and_open_queue">Добавить в очередь и открыть</string>
   <string name="morphe_queue_manager_add_to_queue_and_play_video">Добавить в очередь и воспроизвести</string>
@@ -674,7 +674,7 @@ Second \"item\" text"</string>
   <string name="morphe_show_settings_button_title">Показать кнопку \"Настройки\"</string>
   <string name="morphe_show_settings_button_index_title">Положение кнопки \"Настройки\"</string>
   <string name="morphe_show_settings_button_type_title">Действие кнопки \"Настройки\"</string>
-  <string name="morphe_show_settings_button_type_summary">При включении нажатие открывает настройки Morphe, а удержание — настройки YouTube, отключение меняет поведение</string>
+  <string name="morphe_show_settings_button_type_summary">При включении нажатие открывает настройки YTritik, а удержание — настройки YouTube, отключение меняет поведение</string>
   <string name="morphe_swap_create_with_notifications_button_title">Заменяет кнопку «Создать» кнопкой «Уведомления»</string>
   <string name="morphe_swap_create_with_notifications_button_summary">Если изменение этой настройки не получило эффекта, попробуйте переключиться в режим Инкогнито</string>
   <string name="morphe_hide_navigation_button_labels_title">Скрыть подписи кнопок навигации</string>
@@ -701,7 +701,7 @@ Second \"item\" text"</string>
   <string name="morphe_show_toolbar_settings_button_title">Показать кнопку \"Настройки\"</string>
   <string name="morphe_show_toolbar_settings_button_index_title">Положение кнопки \"Настройки\"</string>
   <string name="morphe_show_toolbar_settings_button_type_title">Действие кнопки \"Настройки\"</string>
-  <string name="morphe_show_toolbar_settings_button_type_summary">При включении нажатие открывает настройки Morphe, а удержание — настройки YouTube, отключение меняет поведение</string>
+  <string name="morphe_show_toolbar_settings_button_type_summary">При включении нажатие открывает настройки YTritik, а удержание — настройки YouTube, отключение меняет поведение</string>
   <!-- layout.hide.player.flyoutmenupanel.hidePlayerFlyoutMenuPatch -->
   <string name="morphe_hide_player_flyout_title">Выдвижное меню плеера</string>
   <string name="morphe_hide_player_flyout_summary">Выберите, какие компоненты отображаются в выпадающем меню плеера</string>

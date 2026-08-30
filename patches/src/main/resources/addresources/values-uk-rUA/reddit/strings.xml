@@ -60,7 +60,7 @@ Second \"item\" text"</string>
   <string name="morphe_remove_nsfw_dialog_title">Видалити діалог попередження NSFW</string>
   <string name="morphe_remove_nsfw_dialog_summary">Автоматично підтверджує попередження про контент для дорослих при відвідуванні субредіту</string>
   <string name="morphe_screen_miscellaneous_title">Різне</string>
-  <string name="morphe_about_title">Про Morphe</string>
+  <string name="morphe_about_title">Про YTritik</string>
   <string name="morphe_about_summary">Версія патчів та офіційні посилання</string>
   <string name="morphe_sanitize_sharing_links_title">Очищувати посилання для поширення</string>
   <string name="morphe_sanitize_sharing_links_summary">Видаляє параметри відстеження з посилань при поширенні</string>

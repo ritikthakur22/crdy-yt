@@ -17,7 +17,7 @@ Second \"item\" text"</string>
 -->
 <resources>
   <!-- misc.settings.settingsPatch -->
-  <!-- In languages where "About" is ambiguous, translate this as "About Morphe" (i.e., About this app). -->
+  <!-- In languages where "About" is ambiguous, translate this as "About YTritik" (i.e., About this app). -->
   <string name="morphe_settings_screen_00_about_title">O aplikaciji</string>
   <string name="morphe_settings_screen_01_ads_title">Oglasi</string>
   <string name="morphe_settings_screen_02_alt_thumbnails_title">Alternativne minijature</string>
@@ -674,7 +674,7 @@ Kako biste to popravili, uključite \"Lažiranje video streamova\" i promijenite
   <string name="morphe_show_settings_button_title">Prikaži gumb Postavke</string>
   <string name="morphe_show_settings_button_index_title">Pozicija gumba Postavke</string>
   <string name="morphe_show_settings_button_type_title">Radnja tipke Postavke</string>
-  <string name="morphe_show_settings_button_type_summary">Otvara postavke Morphea kada je omogućeno, ili postavke YouTubea kada je onemogućeno</string>
+  <string name="morphe_show_settings_button_type_summary">Otvara postavke YTritika kada je omogućeno, ili postavke YouTubea kada je onemogućeno</string>
   <string name="morphe_swap_create_with_notifications_button_title">Zamijeni gumb Izradi s gumbom Obavijesti</string>
   <string name="morphe_swap_create_with_notifications_button_summary">Ako promjena ove postavke nema učinka, pokušajte prijeći u Inkognito način</string>
   <string name="morphe_hide_navigation_button_labels_title">Sakrij oznake navigacijskih tipki</string>
@@ -701,7 +701,7 @@ Za pristup Postavkama, omogućite gumb Postavke putem Općenito $\rightarrow$ Tr
   <string name="morphe_show_toolbar_settings_button_title">Prikaži gumb Postavke</string>
   <string name="morphe_show_toolbar_settings_button_index_title">Pozicija gumba Postavke</string>
   <string name="morphe_show_toolbar_settings_button_type_title">Radnja tipke Postavke</string>
-  <string name="morphe_show_toolbar_settings_button_type_summary">Kada je omogućeno, dodir otvara postavke Morphea, a dugi pritisak otvara postavke YouTubea; onemogućite za zamjenu</string>
+  <string name="morphe_show_toolbar_settings_button_type_summary">Kada je omogućeno, dodir otvara postavke YTritika, a dugi pritisak otvara postavke YouTubea; onemogućite za zamjenu</string>
   <!-- layout.hide.player.flyoutmenupanel.hidePlayerFlyoutMenuPatch -->
   <string name="morphe_hide_player_flyout_title">Flyout meni</string>
   <string name="morphe_hide_player_flyout_summary">Odaberite koje komponente se pojavljuju u izletnom izborniku</string>

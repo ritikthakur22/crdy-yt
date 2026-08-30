@@ -48,15 +48,15 @@ Second \"item\" text"</string>
   <string name="morphe_settings_search_empty_history_title">Riwayat pencarian kosong</string>
   <string name="morphe_settings_search_empty_history_summary">Untuk menyimpan riwayat pencarian, ketik kueri pencarian dan tekan Enter</string>
   <string name="morphe_settings_search_history_title">Tampilkan pengaturan riwayat pencarian</string>
-  <string name="morphe_show_menu_icons_title">Tampilkan ikon pengaturan Morphe</string>
+  <string name="morphe_show_menu_icons_title">Tampilkan ikon pengaturan YTritik</string>
   <string name="morphe_settings_menu_copy_path">Disalin: %s</string>
-  <string name="morphe_language_title">Bahasa Morphe</string>
+  <string name="morphe_language_title">Bahasa YTritik</string>
   <string name="morphe_language_user_dialog_message">"Terjemahan untuk beberapa bahasa mungkin hilang atau tidak lengkap.
 
 Untuk menerjemahkan bahasa baru atau meningkatkan terjemahan yang sudah ada, kunjungi morphe.software/translate"</string>
   <string name="morphe_language_DEFAULT">Bahasa aplikasi</string>
   <string name="morphe_pref_import_export_title">Impor / Ekspor</string>
-  <string name="morphe_pref_import_export_summary">Impor / Ekspor pengaturan Morphe</string>
+  <string name="morphe_pref_import_export_summary">Impor / Ekspor pengaturan YTritik</string>
   <string name="morphe_settings_import_file">Impor dari berkas</string>
   <string name="morphe_settings_import_file_success">Pengaturan berhasil diimpor, ketuk Simpan untuk menerapkan</string>
   <string name="morphe_settings_import_file_failed">Gagal mengimpor pengaturan</string>
@@ -89,12 +89,12 @@ Untuk menerjemahkan bahasa baru atau meningkatkan terjemahan yang sudah ada, kun
   <string name="morphe_debug_title">Aktifkan pencatatan debug</string>
   <string name="morphe_debug_stacktrace_title">Jejak stack catatan debug</string>
   <string name="morphe_debug_stacktrace_summary">Menyertakan jejak stack dalam catatan debug untuk membantu mengidentifikasi kesalahan</string>
-  <string name="morphe_debug_toast_on_error_title">Tampilkan pesan timbul pada kesalahan Morphe</string>
-  <string name="morphe_debug_toast_on_error_user_dialog_message">"Mematikan pesan timbul kesalahan menyembunyikan semua pemberitahuan kesalahan Morphe.
+  <string name="morphe_debug_toast_on_error_title">Tampilkan pesan timbul pada kesalahan YTritik</string>
+  <string name="morphe_debug_toast_on_error_user_dialog_message">"Mematikan pesan timbul kesalahan menyembunyikan semua pemberitahuan kesalahan YTritik.
 
 Anda tidak akan diberi tahu tentang kejadian yang tidak terduga."</string>
   <string name="morphe_debug_export_logs_title">Ekspor pencatatan debug</string>
-  <string name="morphe_debug_export_logs_summary">Ekspor pencatatan debug Morphe</string>
+  <string name="morphe_debug_export_logs_summary">Ekspor pencatatan debug YTritik</string>
   <string name="morphe_debug_export_logs_file">Ekspor ke berkas</string>
   <string name="morphe_debug_export_logs_success">Pencatatan debug berhasil diekspor</string>
   <string name="morphe_debug_export_logs_failed">Gagal mengekspor pencatatan debug</string>

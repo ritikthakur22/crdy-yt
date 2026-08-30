@@ -17,7 +17,7 @@ Second \"item\" text"</string>
 -->
 <resources>
   <!-- misc.settings.settingsPatch -->
-  <!-- In languages where "About" is ambiguous, translate this as "About Morphe" (i.e., About this app). -->
+  <!-- In languages where "About" is ambiguous, translate this as "About YTritik" (i.e., About this app). -->
   <string name="morphe_settings_screen_00_about_title">À propos</string>
   <string name="morphe_settings_screen_01_ads_title">Publicités</string>
   <string name="morphe_settings_screen_02_alt_thumbnails_title">Miniatures alternatives</string>
@@ -454,7 +454,7 @@ Info : Peut ne pas fonctionner sur les diffusions en direct"</string>
   <string name="morphe_save_to_watch_later_success_toast">Vidéo enregistrée avec succès dans la playlist \'À regarder plus tard\'</string>
   <string name="morphe_save_to_watch_later_already_exists_toast">Cette vidéo est déjà enregistrée dans la playlist \'À regarder plus tard\'</string>
   <string name="morphe_save_to_watch_later_error_toast">Impossible d\'enregistrer cette vidéo dans la playlist \'À regarder plus tard\'</string>
-  <string name="morphe_queue_flyout_title">Ajouter à la file d\'attente Morphe</string>
+  <string name="morphe_queue_flyout_title">Ajouter à la file d\'attente YTritik</string>
   <string name="morphe_queue_restore_title">Conserver la file d\'attente entre les sessions</string>
   <string name="morphe_queue_restore_summary">La file d\'attente est conservée après le redémarrage de l\'application</string>
   <string name="morphe_swap_save_and_queue_actions_title">Inverser les actions \'Enregistrer\' et \'File d\'attente\'</string>
@@ -476,7 +476,7 @@ Info : Peut ne pas fonctionner sur les diffusions en direct"</string>
   <string name="morphe_queue_manager_fetch_succeeded_create">File d\'attente créée</string>
   <string name="morphe_queue_manager_fetch_succeeded_remove">Supprimé de la file d\'attente</string>
   <string name="morphe_queue_manager_fetch_succeeded_save">File d\'attente enregistrée dans %s</string>
-  <string name="morphe_queue_manager_playlist_title">File d\'attente Morphe</string>
+  <string name="morphe_queue_manager_playlist_title">File d\'attente YTritik</string>
   <string name="morphe_queue_manager_add_to_queue">Ajouter à la file d\'attente</string>
   <string name="morphe_queue_manager_add_to_queue_and_open_queue">Ajouter à la file d\'attente et ouvrir</string>
   <string name="morphe_queue_manager_add_to_queue_and_play_video">Ajouter à la file d\'attente et lire</string>

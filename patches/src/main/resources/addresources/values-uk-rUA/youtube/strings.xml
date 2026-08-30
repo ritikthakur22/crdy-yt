@@ -17,8 +17,8 @@ Second \"item\" text"</string>
 -->
 <resources>
   <!-- misc.settings.settingsPatch -->
-  <!-- In languages where "About" is ambiguous, translate this as "About Morphe" (i.e., About this app). -->
-  <string name="morphe_settings_screen_00_about_title">Про Morphe</string>
+  <!-- In languages where "About" is ambiguous, translate this as "About YTritik" (i.e., About this app). -->
+  <string name="morphe_settings_screen_00_about_title">Про YTritik</string>
   <string name="morphe_settings_screen_01_ads_title">Реклама</string>
   <string name="morphe_settings_screen_02_alt_thumbnails_title">Альтернативні прев\'ю</string>
   <string name="morphe_settings_screen_03_feed_title">Стрічка</string>
@@ -454,7 +454,7 @@ Second \"item\" text"</string>
   <string name="morphe_save_to_watch_later_success_toast">Відео збережено у списку відтворення \"Подивитися пізніше\"</string>
   <string name="morphe_save_to_watch_later_already_exists_toast">Це відео вже збережено у списку відтворення \"Подивитися пізніше\"</string>
   <string name="morphe_save_to_watch_later_error_toast">Не вдалося зберегти це відео у списку відтворення \"Подивитися пізніше\"</string>
-  <string name="morphe_queue_flyout_title">Додати до черги Morphe</string>
+  <string name="morphe_queue_flyout_title">Додати до черги YTritik</string>
   <string name="morphe_queue_restore_title">Зберігати чергу між сесіями</string>
   <string name="morphe_queue_restore_summary">Черга зберігається після перезапуску застосунку</string>
   <string name="morphe_swap_save_and_queue_actions_title">Поміняти місцями кнопки \"Зберегти\" та \"Додати в чергу\"</string>
@@ -476,7 +476,7 @@ Second \"item\" text"</string>
   <string name="morphe_queue_manager_fetch_succeeded_create">Чергу створено</string>
   <string name="morphe_queue_manager_fetch_succeeded_remove">Видалено з черги</string>
   <string name="morphe_queue_manager_fetch_succeeded_save">Чергу збережено до %s</string>
-  <string name="morphe_queue_manager_playlist_title">Черга Morphe</string>
+  <string name="morphe_queue_manager_playlist_title">Черга YTritik</string>
   <string name="morphe_queue_manager_add_to_queue">Додати до черги</string>
   <string name="morphe_queue_manager_add_to_queue_and_open_queue">Додати до черги та відкрити</string>
   <string name="morphe_queue_manager_add_to_queue_and_play_video">Додати до черги та відтворити</string>
@@ -672,7 +672,7 @@ Second \"item\" text"</string>
   <string name="morphe_show_settings_button_title">Показати кнопку \"Налаштування\"</string>
   <string name="morphe_show_settings_button_index_title">Позиція кнопки налаштувань</string>
   <string name="morphe_show_settings_button_type_title">Дія кнопки \"Налаштування\"</string>
-  <string name="morphe_show_settings_button_type_summary">Відкриває налаштування Morphe, якщо ввімкнено, або налаштування YouTube, якщо вимкнено</string>
+  <string name="morphe_show_settings_button_type_summary">Відкриває налаштування YTritik, якщо ввімкнено, або налаштування YouTube, якщо вимкнено</string>
   <string name="morphe_swap_create_with_notifications_button_title">Поміняти місцями кнопку \"Створити\" та кнопку \"Сповіщення\"</string>
   <string name="morphe_swap_create_with_notifications_button_summary">Якщо зміна цього налаштування не набирає чинності, спробуйте перейти в анонімний режим</string>
   <string name="morphe_hide_navigation_button_labels_title">Приховати підписи кнопок навігації</string>
@@ -699,7 +699,7 @@ Second \"item\" text"</string>
   <string name="morphe_show_toolbar_settings_button_title">Показати кнопку \"Налаштування\"</string>
   <string name="morphe_show_toolbar_settings_button_index_title">Позиція кнопки налаштувань</string>
   <string name="morphe_show_toolbar_settings_button_type_title">Дія кнопки \"Налаштування\"</string>
-  <string name="morphe_show_toolbar_settings_button_type_summary">Якщо ввімкнено, то натискання відкриває налаштування Morphe, а утримання відкриває YouTube, якщо вимкнено, то навпаки</string>
+  <string name="morphe_show_toolbar_settings_button_type_summary">Якщо ввімкнено, то натискання відкриває налаштування YTritik, а утримання відкриває YouTube, якщо вимкнено, то навпаки</string>
   <!-- layout.hide.player.flyoutmenupanel.hidePlayerFlyoutMenuPatch -->
   <string name="morphe_hide_player_flyout_title">Висувне меню</string>
   <string name="morphe_hide_player_flyout_summary">Виберіть, які компоненти будуть показуватися у висувному меню</string>

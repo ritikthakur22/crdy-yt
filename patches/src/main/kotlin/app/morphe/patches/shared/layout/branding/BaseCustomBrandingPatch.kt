@@ -398,11 +398,11 @@ internal fun baseCustomBrandingPatch(
             if (true) {
                 application.setAttribute(
                     "android:icon",
-                    "@mipmap/morphe_launcher_black"
+                    "@drawable/morphe_custom_app_logo"
                 )
                 application.setAttribute(
                     "android:roundIcon",
-                    "@mipmap/morphe_launcher_black"
+                    "@drawable/morphe_custom_app_logo"
                 )
                 
                 // Also overwrite the original activity's icon and label directly!
@@ -411,8 +411,8 @@ internal fun baseCustomBrandingPatch(
                     activityAliasNameWithIntents
                 ) as? org.w3c.dom.Element
                 if (originalActivity != null) {
-                    originalActivity.setAttribute("android:icon", "@mipmap/morphe_launcher_black")
-                    originalActivity.setAttribute("android:roundIcon", "@mipmap/morphe_launcher_black")
+                    originalActivity.setAttribute("android:icon", "@drawable/morphe_custom_app_logo")
+                    originalActivity.setAttribute("android:roundIcon", "@drawable/morphe_custom_app_logo")
                     originalActivity.setAttribute("android:label", "YTritik")
                 }
             }

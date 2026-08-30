@@ -48,7 +48,7 @@ Second \"item\" text"</string>
   <string name="morphe_settings_search_empty_history_title">搜索历史为空</string>
   <string name="morphe_settings_search_empty_history_summary">要保存搜索历史，请键入搜索查询并按回车键</string>
   <string name="morphe_settings_search_history_title">显示设置搜索历史记录</string>
-  <string name="morphe_show_menu_icons_title">显示Morphe设置图标</string>
+  <string name="morphe_show_menu_icons_title">显示YTritik设置图标</string>
   <string name="morphe_settings_menu_copy_path">已复制：%s</string>
   <string name="morphe_language_title">YTritik 语言</string>
   <string name="morphe_language_user_dialog_message">"某些语言的翻译可能缺失或不完整。
@@ -65,7 +65,7 @@ Second \"item\" text"</string>
   <string name="morphe_settings_export_file_failed">导出设置失败</string>
   <!-- String is also duplicated in Reddit about preference -->
   <string name="morphe_settings_about_links_body_version_current">您正在使用最新的YTritik Patches版本 &lt;i&gt;%s&lt;/i&gt;</string>
-  <string name="morphe_settings_about_links_body_version_outdated">您正在使用YTritik Patches版本 &lt;i&gt;%1$s&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;可用更新版本: &lt;i&gt;%2$s&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;要更新您的补丁,请使用Morphe重新修补此应用程序</string>
+  <string name="morphe_settings_about_links_body_version_outdated">您正在使用YTritik Patches版本 &lt;i&gt;%1$s&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;可用更新版本: &lt;i&gt;%2$s&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;要更新您的补丁,请使用YTritik重新修补此应用程序</string>
   <string name="morphe_settings_about_links_dev_header">注意</string>
   <string name="morphe_settings_about_links_dev_body">此版本是预发布版本，您可能会遇到意外问题</string>
   <string name="morphe_settings_about_links_header">官方链接</string>
@@ -94,7 +94,7 @@ Second \"item\" text"</string>
 
 您不会收到任何意外事件的通知。"</string>
   <string name="morphe_debug_export_logs_title">导出调试日志</string>
-  <string name="morphe_debug_export_logs_summary">导出Morphe调试日志</string>
+  <string name="morphe_debug_export_logs_summary">导出YTritik调试日志</string>
   <string name="morphe_debug_export_logs_file">导出到文件</string>
   <string name="morphe_debug_export_logs_success">调试日志导出成功</string>
   <string name="morphe_debug_export_logs_failed">导出调试日志失败</string>

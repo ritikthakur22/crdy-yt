@@ -17,7 +17,7 @@ Second \"item\" text"</string>
 -->
 <resources>
   <!-- misc.settings.settingsPatch -->
-  <!-- In languages where "About" is ambiguous, translate this as "About Morphe" (i.e., About this app). -->
+  <!-- In languages where "About" is ambiguous, translate this as "About YTritik" (i.e., About this app). -->
   <string name="morphe_settings_screen_00_about_title">Om</string>
   <string name="morphe_settings_screen_01_ads_title">Annonser</string>
   <string name="morphe_settings_screen_02_alt_thumbnails_title">Alternative miniatyrbilder</string>
@@ -454,13 +454,13 @@ Info: Fungerer kanskje ikke på direktesendinger"</string>
   <string name="morphe_save_to_watch_later_success_toast">Videoen ble lagret i Se senere-listen</string>
   <string name="morphe_save_to_watch_later_already_exists_toast">Denne videoen er allerede lagret i Se senere-listen</string>
   <string name="morphe_save_to_watch_later_error_toast">Kunne ikke lagre denne videoen i Se senere-listen</string>
-  <string name="morphe_queue_flyout_title">Legg til i Morphe-kø</string>
+  <string name="morphe_queue_flyout_title">Legg til i YTritik-kø</string>
   <string name="morphe_queue_restore_title">Behold køen mellom øktene</string>
   <string name="morphe_queue_restore_summary">Køen beholdes etter omstart av appen</string>
   <string name="morphe_swap_save_and_queue_actions_title">Bytt om «Lagre» og «Kø»-handlinger</string>
   <string name="morphe_swap_save_and_queue_actions_summary">Trykk for køalternativer, trykk og hold for å lagre til «Se senere»</string>
   <string name="morphe_queue_override_flyout_menu_title">Overskriv kø-flyout-knappen for avspillingsliste</string>
-  <string name="morphe_queue_override_flyout_menu_summary">Åpner Morphe-køen i stedet for YouTube-køen</string>
+  <string name="morphe_queue_override_flyout_menu_summary">Åpner YTritik-køen i stedet for YouTube-køen</string>
   <string name="morphe_queue_add_flyout_menu_title">Legg til kømenyelement i feed-flyout</string>
   <string name="morphe_queue_add_flyout_menu_summary">Legger til et ekstra flyout-element. Aktiver dette hvis «Legg til i kø» ikke vises</string>
   <string name="morphe_queue_manager_check_failed_auth">Ikke logget inn</string>
@@ -672,7 +672,7 @@ For å fikse dette, slå på 'Forfalsk videostrømmer' og endre 'Standardklient'
   <string name="morphe_show_settings_button_title">Vis Innstillinger-knapp</string>
   <string name="morphe_show_settings_button_index_title">Innstillinger-knappposisjon</string>
   <string name="morphe_show_settings_button_type_title">Innstillingsknapp handling</string>
-  <string name="morphe_show_settings_button_type_summary">Åpner Morphe-innstillinger når den er aktivert, eller YouTube-innstillinger når den er deaktivert</string>
+  <string name="morphe_show_settings_button_type_summary">Åpner YTritik-innstillinger når den er aktivert, eller YouTube-innstillinger når den er deaktivert</string>
   <string name="morphe_swap_create_with_notifications_button_title">Bytt Create-knappen med Notifications-knappen</string>
   <string name="morphe_swap_create_with_notifications_button_summary">Hvis endring av denne innstillingen ikke trer i kraft, kan du prøve å bytte til inkognitomodus</string>
   <string name="morphe_hide_navigation_button_labels_title">Skjul navigasjonsknappetiketter</string>
@@ -699,7 +699,7 @@ For å få tilgang til Innstillinger, aktiver Innstillingsknappen via General �
   <string name="morphe_show_toolbar_settings_button_title">Vis Innstillinger-knapp</string>
   <string name="morphe_show_toolbar_settings_button_index_title">Innstillinger-knappposisjon</string>
   <string name="morphe_show_toolbar_settings_button_type_title">Innstillingsknapp handling</string>
-  <string name="morphe_show_toolbar_settings_button_type_summary">Når den er aktivert, åpner et trykk Morphe-innstillinger og et langt trykk YouTube-innstillinger, deaktiver for å bytte</string>
+  <string name="morphe_show_toolbar_settings_button_type_summary">Når den er aktivert, åpner et trykk YTritik-innstillinger og et langt trykk YouTube-innstillinger, deaktiver for å bytte</string>
   <!-- layout.hide.player.flyoutmenupanel.hidePlayerFlyoutMenuPatch -->
   <string name="morphe_hide_player_flyout_title">Flytende meny</string>
   <string name="morphe_hide_player_flyout_summary">Skjul \'Lydspor\'-meny</string>

@@ -17,7 +17,7 @@ Second \"item\" text"</string>
 -->
 <resources>
   <!-- misc.settings.settingsPatch -->
-  <!-- In languages where "About" is ambiguous, translate this as "About Morphe" (i.e., About this app). -->
+  <!-- In languages where "About" is ambiguous, translate this as "About YTritik" (i.e., About this app). -->
   <string name="morphe_settings_screen_00_about_title">Despre</string>
   <string name="morphe_settings_screen_01_ads_title">Reclame</string>
   <string name="morphe_settings_screen_02_alt_thumbnails_title">Miniaturi alternative</string>
@@ -454,7 +454,7 @@ Info: S-ar putea să nu funcționeze pe transmisiuni live"</string>
   <string name="morphe_save_to_watch_later_success_toast">Video salvat cu succes în lista de vizionare ulterioară</string>
   <string name="morphe_save_to_watch_later_already_exists_toast">Acest video este deja salvat în lista de vizionare ulterioară</string>
   <string name="morphe_save_to_watch_later_error_toast">Nu se poate salva acest video în lista de vizionare ulterioară</string>
-  <string name="morphe_queue_flyout_title">Adaugă în coada Morphe</string>
+  <string name="morphe_queue_flyout_title">Adaugă în coada YTritik</string>
   <string name="morphe_queue_restore_title">Menține coada între sesiuni</string>
   <string name="morphe_queue_restore_summary">Coada este păstrată după repornirea aplicației</string>
   <string name="morphe_swap_save_and_queue_actions_title">Schimbă acțiunile Salvare și Coadă</string>
@@ -476,7 +476,7 @@ Info: S-ar putea să nu funcționeze pe transmisiuni live"</string>
   <string name="morphe_queue_manager_fetch_succeeded_create">Coada a fost creată</string>
   <string name="morphe_queue_manager_fetch_succeeded_remove">Înlăturat din coadă</string>
   <string name="morphe_queue_manager_fetch_succeeded_save">Coada a fost salvată în %s</string>
-  <string name="morphe_queue_manager_playlist_title">Coada Morphe</string>
+  <string name="morphe_queue_manager_playlist_title">Coada YTritik</string>
   <string name="morphe_queue_manager_add_to_queue">Adaugă în coadă</string>
   <string name="morphe_queue_manager_add_to_queue_and_open_queue">Adaugă în coadă și deschide</string>
   <string name="morphe_queue_manager_add_to_queue_and_play_video">Adaugă în coadă și redă</string>
@@ -699,7 +699,7 @@ Pentru a accesa Setări, activați butonul Setări prin General → Bara de inst
   <string name="morphe_show_toolbar_settings_button_title">Afișează butonul Setări</string>
   <string name="morphe_show_toolbar_settings_button_index_title">Poziția butonului Setări</string>
   <string name="morphe_show_toolbar_settings_button_type_title">Acțiunea butonului Setări</string>
-  <string name="morphe_show_toolbar_settings_button_type_summary">Când este activat, atingerea deschide setările Morphe, iar apăsarea lungă deschide setările YouTube, dezactivează pentru a inversa</string>
+  <string name="morphe_show_toolbar_settings_button_type_summary">Când este activat, atingerea deschide setările YTritik, iar apăsarea lungă deschide setările YouTube, dezactivează pentru a inversa</string>
   <!-- layout.hide.player.flyoutmenupanel.hidePlayerFlyoutMenuPatch -->
   <string name="morphe_hide_player_flyout_title">Meniu flyout</string>
   <string name="morphe_hide_player_flyout_summary">Alege ce componente apar în meniul flyout</string>

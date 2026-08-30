@@ -69,7 +69,7 @@ Seiceáil go bhfuil an t-ainm pacáiste ceart agus go bhfuil an aip suiteáilte"
   <string name="morphe_custom_branding_notification_icon_entry_1">Deilbhín aip mheaitseála</string>
   <string name="morphe_custom_branding_notification_icon_entry_3">YTritik play</string>
   <!-- misc.dns.checkWatchHistoryDomainNameResolutionPatch -->
-  <string name="morphe_check_watch_history_domain_name_dialog_title">Fógra Morphe</string>
+  <string name="morphe_check_watch_history_domain_name_dialog_title">Fógra YTritik</string>
   <string name="morphe_check_watch_history_domain_name_dialog_message">Níl do stair faire á sábháil.&lt;br&gt;&lt;br&gt;Is dóichí gur bacadóir fógraí DNS nó seachfhreastalaí líonra is cúis leis seo.&lt;br&gt;&lt;br&gt;Chun seo a shocrú, cuir &lt;b&gt;s.youtube.com&lt;/b&gt; ar an liosta bán nó múch gach bacadóir agus seachfhreastalaí DNS.</string>
   <string name="morphe_check_watch_history_domain_name_dialog_ignore">Ná taispeáin arís</string>
   <!-- misc.spoof.spoofVideoStreamsPatch -->

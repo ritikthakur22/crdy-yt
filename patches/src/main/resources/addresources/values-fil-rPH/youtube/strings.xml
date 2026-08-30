@@ -17,7 +17,7 @@ Second \"item\" text"</string>
 -->
 <resources>
   <!-- misc.settings.settingsPatch -->
-  <!-- In languages where "About" is ambiguous, translate this as "About Morphe" (i.e., About this app). -->
+  <!-- In languages where "About" is ambiguous, translate this as "About YTritik" (i.e., About this app). -->
   <string name="morphe_settings_screen_00_about_title">Tungkol</string>
   <string name="morphe_settings_screen_01_ads_title">Patalastas</string>
   <string name="morphe_settings_screen_02_alt_thumbnails_title">Mga alternatibong thumbnail</string>
@@ -476,7 +476,7 @@ Impormasyon: Maaaring hindi gumana sa mga live stream"</string>
   <string name="morphe_queue_manager_fetch_succeeded_create">Nagawa ang queue</string>
   <string name="morphe_queue_manager_fetch_succeeded_remove">Inalis sa queue</string>
   <string name="morphe_queue_manager_fetch_succeeded_save">Na-save ang queue sa %s</string>
-  <string name="morphe_queue_manager_playlist_title">Pilang Morphe</string>
+  <string name="morphe_queue_manager_playlist_title">Pilang YTritik</string>
   <string name="morphe_queue_manager_add_to_queue">Idagdag sa queue</string>
   <string name="morphe_queue_manager_add_to_queue_and_open_queue">Idagdag sa queue at buksan</string>
   <string name="morphe_queue_manager_add_to_queue_and_play_video">Idagdag sa queue at i-play</string>

@@ -48,15 +48,15 @@ Second \"item\" text"</string>
   <string name="morphe_settings_search_empty_history_title">سجل البحث فارغ</string>
   <string name="morphe_settings_search_empty_history_summary">لحفظ سجل البحث، اكتب استعلام بحث واضغط على Enter</string>
   <string name="morphe_settings_search_history_title">عرض سجل بحث الإعدادات</string>
-  <string name="morphe_show_menu_icons_title">عرض أيقونات إعدادات Morphe</string>
+  <string name="morphe_show_menu_icons_title">عرض أيقونات إعدادات YTritik</string>
   <string name="morphe_settings_menu_copy_path">تم نسخ: %s</string>
-  <string name="morphe_language_title">لغة Morphe</string>
+  <string name="morphe_language_title">لغة YTritik</string>
   <string name="morphe_language_user_dialog_message">"قد تكون ترجمات بعض اللغات مفقودة أو غير مكتملة.
 
 لترجمة لغات جديدة أو تحسين الترجمات الحالية، تفضل بزيارة morphe.software/translate"</string>
   <string name="morphe_language_DEFAULT">لغة التطبيق</string>
   <string name="morphe_pref_import_export_title">استيراد / تصدير</string>
-  <string name="morphe_pref_import_export_summary">استيراد / تصدير إعدادات Morphe</string>
+  <string name="morphe_pref_import_export_summary">استيراد / تصدير إعدادات YTritik</string>
   <string name="morphe_settings_import_file">استيراد من ملف</string>
   <string name="morphe_settings_import_file_success">تم استيراد الإعدادات بنجاح، انقر على حفظ للتطبيق</string>
   <string name="morphe_settings_import_file_failed">فشل استيراد الإعدادات</string>
@@ -89,12 +89,12 @@ Second \"item\" text"</string>
   <string name="morphe_debug_title">تمكين سجلات التصحيح</string>
   <string name="morphe_debug_stacktrace_title">مسار التتبع في سجل التصحيح</string>
   <string name="morphe_debug_stacktrace_summary">تتضمن سجلات تصحيح الأخطاء Stack Traces للمساعدة في تحديد الأخطاء</string>
-  <string name="morphe_debug_toast_on_error_title">عرض ملاحظة عند وجود خطأ في Morphe</string>
-  <string name="morphe_debug_toast_on_error_user_dialog_message">"يؤدي إيقاف تشغيل ملاحظات الأخطاء إلى إخفاء كافة إشعارات أخطاء Morphe.
+  <string name="morphe_debug_toast_on_error_title">عرض ملاحظة عند وجود خطأ في YTritik</string>
+  <string name="morphe_debug_toast_on_error_user_dialog_message">"يؤدي إيقاف تشغيل ملاحظات الأخطاء إلى إخفاء كافة إشعارات أخطاء YTritik.
 
 لن يتم إعلامك بأي أخطاء غير متوقعة."</string>
   <string name="morphe_debug_export_logs_title">تصدير سجلات تصحيح الأخطاء</string>
-  <string name="morphe_debug_export_logs_summary">تصدير سجلات تصحيح Morphe</string>
+  <string name="morphe_debug_export_logs_summary">تصدير سجلات تصحيح YTritik</string>
   <string name="morphe_debug_export_logs_file">تصدير إلى ملف</string>
   <string name="morphe_debug_export_logs_success">تم تصدير سجلات التصحيح بنجاح</string>
   <string name="morphe_debug_export_logs_failed">فشل تصدير سجلات التصحيح</string>

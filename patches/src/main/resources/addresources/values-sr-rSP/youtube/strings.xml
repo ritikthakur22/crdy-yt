@@ -17,7 +17,7 @@ Second \"item\" text"</string>
 -->
 <resources>
   <!-- misc.settings.settingsPatch -->
-  <!-- In languages where "About" is ambiguous, translate this as "About Morphe" (i.e., About this app). -->
+  <!-- In languages where "About" is ambiguous, translate this as "About YTritik" (i.e., About this app). -->
   <string name="morphe_settings_screen_00_about_title">О програму</string>
   <string name="morphe_settings_screen_01_ads_title">Огласи</string>
   <string name="morphe_settings_screen_02_alt_thumbnails_title">Алтернативне сличице</string>
@@ -670,7 +670,7 @@ Promene uključuju:
   <string name="morphe_show_settings_button_title">Прикажи дугме „Подешавања“</string>
   <string name="morphe_show_settings_button_index_title">Позиција дугмета „Подешавања“</string>
   <string name="morphe_show_settings_button_type_title">Акција дугмета за подешавања</string>
-  <string name="morphe_show_settings_button_type_summary">Када је омогућено, додивањем се отварају подешавања програма Morphe, а дугим притиском – подешавања програма YouTube.</string>
+  <string name="morphe_show_settings_button_type_summary">Када је омогућено, додивањем се отварају подешавања програма YTritik, а дугим притиском – подешавања програма YouTube.</string>
   <string name="morphe_swap_create_with_notifications_button_title">Замените дугме „Направи“ дугметом „Обавештења“</string>
   <string name="morphe_swap_create_with_notifications_button_summary">Ако промена ове поставке не ступи на снагу, покушајте да пређете у режим инкогнита</string>
   <string name="morphe_hide_navigation_button_labels_title">Сакриј ознаке дугмади за навигацију</string>
@@ -697,7 +697,7 @@ Promene uključuju:
   <string name="morphe_show_toolbar_settings_button_title">Прикажи дугме „Подешавања“</string>
   <string name="morphe_show_toolbar_settings_button_index_title">Позиција дугмета „Подешавања“</string>
   <string name="morphe_show_toolbar_settings_button_type_title">Акција дугмета подешавања</string>
-  <string name="morphe_show_toolbar_settings_button_type_summary">Када је омогућено, додивањем се отварају подешавања програма Morphe, а дугим притиском – подешавања програма YouTube. Онемогућите да бисте их заменили.</string>
+  <string name="morphe_show_toolbar_settings_button_type_summary">Када је омогућено, додивањем се отварају подешавања програма YTritik, а дугим притиском – подешавања програма YouTube. Онемогућите да бисте их заменили.</string>
   <!-- layout.hide.player.flyoutmenupanel.hidePlayerFlyoutMenuPatch -->
   <string name="morphe_hide_player_flyout_title">Падајући мени</string>
   <string name="morphe_hide_player_flyout_summary">Одаберите које компоненте ће се појављивати у изскачућем менију.</string>

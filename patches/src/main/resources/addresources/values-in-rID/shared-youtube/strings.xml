@@ -69,7 +69,7 @@ Pastikan nama paket benar dan aplikasi sudah terpasang"</string>
   <string name="morphe_custom_branding_notification_icon_entry_1">Cocokkan ikon aplikasi</string>
   <string name="morphe_custom_branding_notification_icon_entry_3">YTritik play</string>
   <!-- misc.dns.checkWatchHistoryDomainNameResolutionPatch -->
-  <string name="morphe_check_watch_history_domain_name_dialog_title">Pemberitahuan Morphe</string>
+  <string name="morphe_check_watch_history_domain_name_dialog_title">Pemberitahuan YTritik</string>
   <string name="morphe_check_watch_history_domain_name_dialog_message">Riwayat tontonan Anda tidak sedang disimpan.&lt;br&gt;&lt;br&gt;Hal ini kemungkinan besar disebabkan oleh pemblokir iklan DNS atau proksi jaringan.&lt;br&gt;&lt;br&gt;Untuk memperbaikinya, masukkan daftar putih &lt;b&gt;s.youtube.com&lt;/b&gt; atau matikan semua pemblokir DNS dan proksi.</string>
   <string name="morphe_check_watch_history_domain_name_dialog_ignore">Jangan tampilkan lagi</string>
   <!-- misc.spoof.spoofVideoStreamsPatch -->

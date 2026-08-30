@@ -41,7 +41,7 @@ Second \"item\" text"</string>
   <string name="morphe_custom_branding_notification_icon_title">وێنۆکەی ئاگانامە</string>
   <string name="morphe_custom_branding_notification_icon_entry_1">هاوتاکردنی وێنۆکەی ئەپ</string>
   <!-- misc.dns.checkWatchHistoryDomainNameResolutionPatch -->
-  <string name="morphe_check_watch_history_domain_name_dialog_title">ڕاگەیاندنی Morphe</string>
+  <string name="morphe_check_watch_history_domain_name_dialog_title">ڕاگەیاندنی YTritik</string>
   <string name="morphe_check_watch_history_domain_name_dialog_message">جوتیان تۆمارە نەکراوە. &lt;br&gt;&lt;br&gt;ئەگەری زۆرە کە ئەمەش بەهۆی مسرەفەکانی DNS یان ناوتۆکی کاربێت.&lt;br&gt;&lt;br&gt;چۆنیەت بە ڕێگای سڕینەوە &lt;b&gt;s.youtube.com&lt;/b&gt; یان خەڵادانەوەی هەموو مسرەفەکانی DNS ناوتۆکی و پرووکسێکان.</string>
   <string name="morphe_check_watch_history_domain_name_dialog_ignore">نیشانی مەدەوە دووبارە</string>
   <!-- misc.spoof.spoofVideoStreamsPatch -->
@@ -78,7 +78,7 @@ Da te'îl bikin, li ser berdewam bikin xwarê"</string>
   <string name="morphe_spoof_video_streams_sign_in_android_vr_activation_code_dialog_open_website">کردنەوەی ماڵپەڕ</string>
   <string name="morphe_spoof_video_streams_sign_in_android_vr_success_dialog_message">"‌ڕێكخستن هه‌ڵگیراوه
 
-• ڕێكخستنه‌كانی Morphe-ت ناهێننه‌وه‌/نه‌هاته‌وه‌ Android VR
+• ڕێكخستنه‌كانی YTritik-ت ناهێننه‌وه‌/نه‌هاته‌وه‌ Android VR
 • كاتێكی ٦ مانگ ڕابێت، گۆگڵ ئەم ڕێكخستنە ده‌سڕێت
 • كاتێك وشه‌ختكه‌وتۆت، پێویسته‌ جارێكی تری ده‌رببێ بۆچون"</string>
   <string name="morphe_oauth2_connection_failure_timeout">OAuth2 بەردەست نیە ( کاتەکەی بەسەرچووە API)</string>

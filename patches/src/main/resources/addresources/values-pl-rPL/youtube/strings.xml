@@ -17,7 +17,7 @@ Second \"item\" text"</string>
 -->
 <resources>
   <!-- misc.settings.settingsPatch -->
-  <!-- In languages where "About" is ambiguous, translate this as "About Morphe" (i.e., About this app). -->
+  <!-- In languages where "About" is ambiguous, translate this as "About YTritik" (i.e., About this app). -->
   <string name="morphe_settings_screen_00_about_title">Informacje</string>
   <string name="morphe_settings_screen_01_ads_title">Reklamy</string>
   <string name="morphe_settings_screen_02_alt_thumbnails_title">Alternatywne miniaturki</string>
@@ -454,7 +454,7 @@ Uwaga: Może nie działać na transmisjach na żywo"</string>
   <string name="morphe_save_to_watch_later_success_toast">Zapisano na playliście \"Do obejrzenia\"</string>
   <string name="morphe_save_to_watch_later_already_exists_toast">Film jest już na playliście \"Do obejrzenia\"</string>
   <string name="morphe_save_to_watch_later_error_toast">Nie udało się zapisać na playliście \"Do obejrzenia\"</string>
-  <string name="morphe_queue_flyout_title">Dodaj do kolejki Morphe</string>
+  <string name="morphe_queue_flyout_title">Dodaj do kolejki YTritik</string>
   <string name="morphe_queue_restore_title">Zachowaj kolejkę po wyjściu</string>
   <string name="morphe_queue_restore_summary">Kolejka nie zniknie po ponownym uruchomieniu aplikacji</string>
   <string name="morphe_swap_save_and_queue_actions_title">Zamień akcje Zapisz i Kolejka</string>
@@ -476,7 +476,7 @@ Uwaga: Może nie działać na transmisjach na żywo"</string>
   <string name="morphe_queue_manager_fetch_succeeded_create">Utworzono kolejkę</string>
   <string name="morphe_queue_manager_fetch_succeeded_remove">Usunięto z kolejki</string>
   <string name="morphe_queue_manager_fetch_succeeded_save">Zapisano kolejkę na playliście %s</string>
-  <string name="morphe_queue_manager_playlist_title">Kolejka Morphe</string>
+  <string name="morphe_queue_manager_playlist_title">Kolejka YTritik</string>
   <string name="morphe_queue_manager_add_to_queue">Dodaj do kolejki</string>
   <string name="morphe_queue_manager_add_to_queue_and_open_queue">Dodaj do kolejki i otwórz</string>
   <string name="morphe_queue_manager_add_to_queue_and_play_video">Dodaj do kolejki i odtwórz</string>
@@ -672,7 +672,7 @@ Uwaga: Może nie działać na transmisjach na żywo"</string>
   <string name="morphe_show_settings_button_title">Pokaż przycisk Ustawienia</string>
   <string name="morphe_show_settings_button_index_title">Pozycja przycisku Ustawienia</string>
   <string name="morphe_show_settings_button_type_title">Działanie przycisku Ustawienia</string>
-  <string name="morphe_show_settings_button_type_summary">Otwiera ustawienia Morphe, gdy funkcja jest włączona, lub ustawienia YouTube, gdy jest wyłączona</string>
+  <string name="morphe_show_settings_button_type_summary">Otwiera ustawienia YTritik, gdy funkcja jest włączona, lub ustawienia YouTube, gdy jest wyłączona</string>
   <string name="morphe_swap_create_with_notifications_button_title">Zamień przycisk Utwórz z przyciskiem Powiadomienia</string>
   <string name="morphe_swap_create_with_notifications_button_summary">Jeśli zmiana tego ustawienia nie przyniesie efektu, spróbuj przełączyć się w tryb incognito</string>
   <string name="morphe_hide_navigation_button_labels_title">Ukryj etykiety przycisków nawigacji</string>
@@ -699,7 +699,7 @@ Aby przejść do ustawień, włącz przycisk w menu: Ogólne → Pasek narzędzi
   <string name="morphe_show_toolbar_settings_button_title">Pokaż przycisk Ustawienia</string>
   <string name="morphe_show_toolbar_settings_button_index_title">Pozycja przycisku Ustawienia</string>
   <string name="morphe_show_toolbar_settings_button_type_title">Działanie przycisku Ustawienia</string>
-  <string name="morphe_show_toolbar_settings_button_type_summary">Gdy włączone, dotknięcie otwiera ustawienia Morphe, a przytrzymanie ustawienia YouTube. Wyłącz, aby odwrócić te akcje</string>
+  <string name="morphe_show_toolbar_settings_button_type_summary">Gdy włączone, dotknięcie otwiera ustawienia YTritik, a przytrzymanie ustawienia YouTube. Wyłącz, aby odwrócić te akcje</string>
   <!-- layout.hide.player.flyoutmenupanel.hidePlayerFlyoutMenuPatch -->
   <string name="morphe_hide_player_flyout_title">Menu wysuwane</string>
   <string name="morphe_hide_player_flyout_summary">Zdecyduj, które elementy będą wyświetlane w menu wysuwanym filmu</string>

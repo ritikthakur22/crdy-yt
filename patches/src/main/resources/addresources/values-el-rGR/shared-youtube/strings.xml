@@ -69,7 +69,7 @@ Second \"item\" text"</string>
   <string name="morphe_custom_branding_notification_icon_entry_1">Αλλαγή εικονιδίου της εφαρμογής;</string>
   <string name="morphe_custom_branding_notification_icon_entry_3">YTritik play</string>
   <!-- misc.dns.checkWatchHistoryDomainNameResolutionPatch -->
-  <string name="morphe_check_watch_history_domain_name_dialog_title">Ειδοποίηση Morphe</string>
+  <string name="morphe_check_watch_history_domain_name_dialog_title">Ειδοποίηση YTritik</string>
   <string name="morphe_check_watch_history_domain_name_dialog_message">Το ιστορικό παρακολούθησης δεν αποθηκεύεται.&lt;br&gt;&lt;br&gt;Πιθανό να συμβαίνει λόγω κάποιας υπηρεσίας DNS που μπλοκάρει διαφημίσεις ή μέσω κάποιου διακομιστή μεσολάβησης δικτύου.&lt;br&gt;&lt;br&gt;Μια λύση γι\'αυτό θα ήταν να προσθέσετε σε whitelist το &lt;b&gt;s.youtube.com&lt;/b&gt; ή να απενεργοποιήστε το DNS και τους διακομιστές μεσολάβησης δικτύου.</string>
   <string name="morphe_check_watch_history_domain_name_dialog_ignore">Να μην εμφανιστεί ξανά</string>
   <!-- misc.spoof.spoofVideoStreamsPatch -->

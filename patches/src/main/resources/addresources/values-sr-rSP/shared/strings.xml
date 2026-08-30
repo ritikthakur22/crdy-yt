@@ -29,7 +29,7 @@ Second \"item\" text"</string>
   <!-- String is also duplicated in Reddit import / export preference -->
   <string name="morphe_settings_import">Увоз</string>
   <string name="morphe_settings_import_copy">Копирај</string>
-  <string name="morphe_settings_import_reset">Подешавања Morphe-а су враћена на подразумеване вредности</string>
+  <string name="morphe_settings_import_reset">Подешавања YTritik-а су враћена на подразумеване вредности</string>
   <string name="morphe_settings_import_success">Увезено %d подешавања</string>
   <string name="morphe_settings_import_failure_parse">Неуспешан увоз: %s</string>
   <string name="morphe_settings_search_hint">Претражите подешавања</string>
@@ -48,15 +48,15 @@ Second \"item\" text"</string>
   <string name="morphe_settings_search_empty_history_title">Историја претраге је празна</string>
   <string name="morphe_settings_search_empty_history_summary">Да бисте сачували историју претраге, унесите упит за претрагу и притисните Enter</string>
   <string name="morphe_settings_search_history_title">Прикажи историју претраге подешавања</string>
-  <string name="morphe_show_menu_icons_title">Прикажи иконице подешавања Morphe-а</string>
+  <string name="morphe_show_menu_icons_title">Прикажи иконице подешавања YTritik-а</string>
   <string name="morphe_settings_menu_copy_path">Копирано: %s</string>
-  <string name="morphe_language_title">Језик Morphe-a</string>
+  <string name="morphe_language_title">Језик YTritik-a</string>
   <string name="morphe_language_user_dialog_message">"Преводи за неке језике могу недостајати или бити непотпуни.
 
 Да бисте превели нове језике или побољшали постојеће преводе, посетите morphe.software/translate"</string>
   <string name="morphe_language_DEFAULT">Језик апликације</string>
   <string name="morphe_pref_import_export_title">Увоз / Извоз</string>
-  <string name="morphe_pref_import_export_summary">Увоз / Извоз подешавања Morphe-а</string>
+  <string name="morphe_pref_import_export_summary">Увоз / Извоз подешавања YTritik-а</string>
   <string name="morphe_settings_import_file">Увоз из фајла</string>
   <string name="morphe_settings_import_file_success">Подешавања су успешно увезена, додирните Сачувај да бисте их применили</string>
   <string name="morphe_settings_import_file_failed">Неуспешан увоз подешавања</string>
@@ -89,12 +89,12 @@ Second \"item\" text"</string>
   <string name="morphe_debug_title">Евидентирање отклањања грешака</string>
   <string name="morphe_debug_stacktrace_title">Следење стека у логу дебјуговања</string>
   <string name="morphe_debug_stacktrace_summary">Укључује трагове стека у дневнике за отклањање грешака како би се помогло у идентификацији грешака</string>
-  <string name="morphe_debug_toast_on_error_title">Прикажи искачуће обавештење при грешци с Morphe-ом</string>
-  <string name="morphe_debug_toast_on_error_user_dialog_message">"Искључивање искачућих обавештења о грешкама сакрива сва обавештења о грешкама у Morphe-у.
+  <string name="morphe_debug_toast_on_error_title">Прикажи искачуће обавештење при грешци с YTritik-ом</string>
+  <string name="morphe_debug_toast_on_error_user_dialog_message">"Искључивање искачућих обавештења о грешкама сакрива сва обавештења о грешкама у YTritik-у.
 
 Нећете бити обавештени ни о каквим неочекиваним догађајима."</string>
   <string name="morphe_debug_export_logs_title">Извези евиденције отклањања грешака</string>
-  <string name="morphe_debug_export_logs_summary">Извези лог дебјуговања Morphe</string>
+  <string name="morphe_debug_export_logs_summary">Извези лог дебјуговања YTritik</string>
   <string name="morphe_debug_export_logs_file">Извези у датотеку</string>
   <string name="morphe_debug_export_logs_success">Лог дебјуговања успешно извезен</string>
   <string name="morphe_debug_export_logs_failed">Неуспео извоз логова дебјуговања</string>

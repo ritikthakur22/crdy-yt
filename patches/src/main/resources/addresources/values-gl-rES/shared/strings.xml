@@ -64,8 +64,8 @@ Second \"item\" text"</string>
   <string name="morphe_settings_about_links_vanced">2019 &#8209; 2022</string>
   <!-- misc.debugging.enableDebuggingPatch -->
   <string name="morphe_debug_screen_title">Depuración</string>
-  <string name="morphe_debug_toast_on_error_title">Mostrar mensaxe toast en caso de erro de Morphe</string>
-  <string name="morphe_debug_toast_on_error_user_dialog_message">"Desactivar as mensaxes toast en caso de erro ocultará tódalas notificacións de erros de Morphe.
+  <string name="morphe_debug_toast_on_error_title">Mostrar mensaxe toast en caso de erro de YTritik</string>
+  <string name="morphe_debug_toast_on_error_user_dialog_message">"Desactivar as mensaxes toast en caso de erro ocultará tódalas notificacións de erros de YTritik.
 
 Non se lle notificará de ningún evento inesperado."</string>
   <string name="morphe_debug_export_logs_title">Exportar rexistros de depuración</string>

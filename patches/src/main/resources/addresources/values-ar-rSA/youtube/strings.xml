@@ -17,7 +17,7 @@ Second \"item\" text"</string>
 -->
 <resources>
   <!-- misc.settings.settingsPatch -->
-  <!-- In languages where "About" is ambiguous, translate this as "About Morphe" (i.e., About this app). -->
+  <!-- In languages where "About" is ambiguous, translate this as "About YTritik" (i.e., About this app). -->
   <string name="morphe_settings_screen_00_about_title">لمحة</string>
   <string name="morphe_settings_screen_01_ads_title">الإعلانات</string>
   <string name="morphe_settings_screen_02_alt_thumbnails_title">مصغرات فيديو بديلة</string>
@@ -458,7 +458,7 @@ Mistral Nemo هو الخيار الأرخص، بينما توفر Gemma 4 أعل
   <string name="morphe_save_to_watch_later_success_toast">تم حفظ الفيديو بنجاح في قائمة المشاهدة لاحقًا</string>
   <string name="morphe_save_to_watch_later_already_exists_toast">هذا الفيديو محفوظ بالفعل في قائمة المشاهدة لاحقًا</string>
   <string name="morphe_save_to_watch_later_error_toast">لا يمكن حفظ هذا الفيديو في قائمة المشاهدة لاحقًا</string>
-  <string name="morphe_queue_flyout_title">إضافة الى قائمة انتظار Morphe</string>
+  <string name="morphe_queue_flyout_title">إضافة الى قائمة انتظار YTritik</string>
   <string name="morphe_queue_restore_title">احتفظ بقائمة الانتظار بين الجلسات</string>
   <string name="morphe_queue_restore_summary">تبقى قائمة الانتظار محفوظة بعد إعادة تشغيل التطبيق</string>
   <string name="morphe_swap_save_and_queue_actions_title">تبديل إجراءات حفظ وإضافة إلى قائمة الانتظار</string>
@@ -480,7 +480,7 @@ Mistral Nemo هو الخيار الأرخص، بينما توفر Gemma 4 أعل
   <string name="morphe_queue_manager_fetch_succeeded_create">تم إنشاء قائمة الانتظار</string>
   <string name="morphe_queue_manager_fetch_succeeded_remove">تمت الإزالة من قائمة الانتظار</string>
   <string name="morphe_queue_manager_fetch_succeeded_save">تم حفظ قائمة الانتظار في %s</string>
-  <string name="morphe_queue_manager_playlist_title">قائمة تشغيل Morphe</string>
+  <string name="morphe_queue_manager_playlist_title">قائمة تشغيل YTritik</string>
   <string name="morphe_queue_manager_add_to_queue">إضافة إلى قائمة الانتظار</string>
   <string name="morphe_queue_manager_add_to_queue_and_open_queue">إضافة إلى قائمة الانتظار وفتح</string>
   <string name="morphe_queue_manager_add_to_queue_and_play_video">إضافة إلى قائمة الانتظار وتشغيل</string>
@@ -704,7 +704,7 @@ Mistral Nemo هو الخيار الأرخص، بينما توفر Gemma 4 أعل
   <string name="morphe_show_toolbar_settings_button_title">عرض زر الإعدادات</string>
   <string name="morphe_show_toolbar_settings_button_index_title">موضع زر الإعدادات</string>
   <string name="morphe_show_toolbar_settings_button_type_title">إجراء زر الإعدادات</string>
-  <string name="morphe_show_toolbar_settings_button_type_summary">عند التمكين، يفتح النقر إعدادات Morphe، ويفتح الضغط المطوّل إعدادات YouTube، قم بتعطيله للتبديل بينهما.</string>
+  <string name="morphe_show_toolbar_settings_button_type_summary">عند التمكين، يفتح النقر إعدادات YTritik، ويفتح الضغط المطوّل إعدادات YouTube، قم بتعطيله للتبديل بينهما.</string>
   <!-- layout.hide.player.flyoutmenupanel.hidePlayerFlyoutMenuPatch -->
   <string name="morphe_hide_player_flyout_title">القائمة المنبثقة</string>
   <string name="morphe_hide_player_flyout_summary">اختر المكونات التي تظهر في القائمة المنبثقة</string>

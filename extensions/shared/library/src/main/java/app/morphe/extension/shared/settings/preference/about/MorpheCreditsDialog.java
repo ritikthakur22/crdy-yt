@@ -18,7 +18,7 @@ import java.util.Locale;
 class MorpheCreditsDialog extends AboutWebViewDialog {
 
     private static final List<MorpheAboutPreference.WebLink> WORKS_LINKS_CURRENT = List.of(
-            new MorpheAboutPreference.WebLink("Morphe",
+            new MorpheAboutPreference.WebLink("YTritik",
                     str("morphe_settings_about_links_credits"),
                     "https://t.me/ritik7094"
             )

@@ -17,7 +17,7 @@ Second \"item\" text"</string>
 -->
 <resources>
   <!-- misc.settings.settingsPatch -->
-  <!-- In languages where "About" is ambiguous, translate this as "About Morphe" (i.e., About this app). -->
+  <!-- In languages where "About" is ambiguous, translate this as "About YTritik" (i.e., About this app). -->
   <string name="morphe_settings_screen_00_about_title">Acerca de</string>
   <string name="morphe_settings_screen_01_ads_title">Anuncios</string>
   <string name="morphe_settings_screen_02_alt_thumbnails_title">Miniaturas alternativas</string>
@@ -454,7 +454,7 @@ Información: Puede que no funcione en transmisiones en directo"</string>
   <string name="morphe_save_to_watch_later_success_toast">Video guardado correctamente en la lista de reproducción \'Ver más tarde\'</string>
   <string name="morphe_save_to_watch_later_already_exists_toast">Este video ya está guardado en la lista de reproducción \'Ver más tarde\'</string>
   <string name="morphe_save_to_watch_later_error_toast">No se puede guardar este video en la lista de reproducción \'Ver más tarde\'</string>
-  <string name="morphe_queue_flyout_title">Añadir a la cola de Morphe</string>
+  <string name="morphe_queue_flyout_title">Añadir a la cola de YTritik</string>
   <string name="morphe_queue_restore_title">Mantener la cola entre sesiones</string>
   <string name="morphe_queue_restore_summary">La cola se mantiene después de reiniciar la aplicación</string>
   <string name="morphe_swap_save_and_queue_actions_title">Intercambiar las acciones Guardar y Añadir a la cola</string>
@@ -476,7 +476,7 @@ Información: Puede que no funcione en transmisiones en directo"</string>
   <string name="morphe_queue_manager_fetch_succeeded_create">Cola creada</string>
   <string name="morphe_queue_manager_fetch_succeeded_remove">Eliminado de la cola</string>
   <string name="morphe_queue_manager_fetch_succeeded_save">Cola guardada en %s</string>
-  <string name="morphe_queue_manager_playlist_title">Cola de Morphe</string>
+  <string name="morphe_queue_manager_playlist_title">Cola de YTritik</string>
   <string name="morphe_queue_manager_add_to_queue">Agregar a la cola</string>
   <string name="morphe_queue_manager_add_to_queue_and_open_queue">Agregar a la cola y abrir</string>
   <string name="morphe_queue_manager_add_to_queue_and_play_video">Agregar a la cola y reproducir</string>

@@ -48,15 +48,15 @@ Second \"item\" text"</string>
   <string name="morphe_settings_search_empty_history_title">Istoricul căutărilor este gol</string>
   <string name="morphe_settings_search_empty_history_summary">Pentru a salva istoricul căutărilor, introduceți o interogare de căutare și apăsați Enter</string>
   <string name="morphe_settings_search_history_title">Afișează istoricul căutărilor în setări</string>
-  <string name="morphe_show_menu_icons_title">Afișați pictogramele de setări Morphe</string>
+  <string name="morphe_show_menu_icons_title">Afișați pictogramele de setări YTritik</string>
   <string name="morphe_settings_menu_copy_path">Copiat: %s</string>
-  <string name="morphe_language_title">Limba Morphe</string>
+  <string name="morphe_language_title">Limba YTritik</string>
   <string name="morphe_language_user_dialog_message">"Traducerile pentru unele limbi pot lipsi sau pot fi incomplete.
 
 Pentru a traduce limbi noi sau pentru a îmbunătăți traducerile existente, vizitați morphe.software/translate"</string>
   <string name="morphe_language_DEFAULT">Limba aplicației</string>
   <string name="morphe_pref_import_export_title">Importă / Exportă</string>
-  <string name="morphe_pref_import_export_summary">Import/Export setări Morphe</string>
+  <string name="morphe_pref_import_export_summary">Import/Export setări YTritik</string>
   <string name="morphe_settings_import_file">Importare din fișier</string>
   <string name="morphe_settings_import_file_success">Setările au fost importate cu succes, atinge Salvează pentru a aplica</string>
   <string name="morphe_settings_import_file_failed">Nu s-au putut importa setările</string>
@@ -89,12 +89,12 @@ Pentru a traduce limbi noi sau pentru a îmbunătăți traducerile existente, vi
   <string name="morphe_debug_title">Activați jurnalizarea depanării</string>
   <string name="morphe_debug_stacktrace_title">Urmărirea stivei în jurnalul de depanare</string>
   <string name="morphe_debug_stacktrace_summary">Include urmăririle stivei în jurnalele de depanare pentru a ajuta la identificarea erorilor</string>
-  <string name="morphe_debug_toast_on_error_title">Arată toast la eroare Morphe</string>
-  <string name="morphe_debug_toast_on_error_user_dialog_message">"Oprirea toasturilor de eroare ascunde toate notificările de eroare Morphe.
+  <string name="morphe_debug_toast_on_error_title">Arată toast la eroare YTritik</string>
+  <string name="morphe_debug_toast_on_error_user_dialog_message">"Oprirea toasturilor de eroare ascunde toate notificările de eroare YTritik.
 
 Nu veți fi notificat de niciun eveniment neașteptat."</string>
   <string name="morphe_debug_export_logs_title">Exportare jurnale de depanare</string>
-  <string name="morphe_debug_export_logs_summary">Exportă jurnalele de depanare Morphe</string>
+  <string name="morphe_debug_export_logs_summary">Exportă jurnalele de depanare YTritik</string>
   <string name="morphe_debug_export_logs_file">Exportă în fișier</string>
   <string name="morphe_debug_export_logs_success">Jurnalele de depanare au fost exportate cu succes</string>
   <string name="morphe_debug_export_logs_failed">Eșec la exportarea jurnalelor de depanare</string>

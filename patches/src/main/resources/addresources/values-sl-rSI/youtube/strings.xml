@@ -17,7 +17,7 @@ Second \"item\" text"</string>
 -->
 <resources>
   <!-- misc.settings.settingsPatch -->
-  <!-- In languages where "About" is ambiguous, translate this as "About Morphe" (i.e., About this app). -->
+  <!-- In languages where "About" is ambiguous, translate this as "About YTritik" (i.e., About this app). -->
   <string name="morphe_settings_screen_00_about_title">O nas</string>
   <string name="morphe_settings_screen_01_ads_title">Oglasi</string>
   <string name="morphe_settings_screen_02_alt_thumbnails_title">Alternativni predogledi</string>
@@ -668,7 +668,7 @@ Opozorilo: morda ne deluje na prenosih v živo"</string>
   <!-- 'Notifications' should be translated using the same localized wording YouTube displays for the tab. -->
   <string name="morphe_hide_notifications_button_title">Prikaži gumb za nastavitve</string>
   <string name="morphe_show_search_button_title">Položaj gumba za nastavitve</string>
-  <string name="morphe_show_search_button_index_title">Ko je omogočeno, se ob tapkanju odprejo nastavitve Morphe, ko pa je onemogočeno, se odprejo nastavitve YouTube</string>
+  <string name="morphe_show_search_button_index_title">Ko je omogočeno, se ob tapkanju odprejo nastavitve YTritik, ko pa je onemogočeno, se odprejo nastavitve YouTube</string>
   <string name="morphe_show_settings_button_title">Zmanjša horizontalni razmak med gumbi</string>
   <string name="morphe_show_settings_button_index_title">Animira prehode pri preklapljanju med zavihki</string>
   <string name="morphe_show_settings_button_type_title">Akcija gumba Nastavitve</string>

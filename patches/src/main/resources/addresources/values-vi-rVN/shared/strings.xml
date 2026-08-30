@@ -48,15 +48,15 @@ Second \"item\" text"</string>
   <string name="morphe_settings_search_empty_history_title">Lịch sử tìm kiếm đang trống</string>
   <string name="morphe_settings_search_empty_history_summary">Để lưu lịch sử tìm kiếm, nhập từ khoá tìm kiếm và bấm Enter</string>
   <string name="morphe_settings_search_history_title">Hiện lịch sử tìm kiếm cài đặt</string>
-  <string name="morphe_show_menu_icons_title">Hiện biểu tượng cài đặt Morphe</string>
+  <string name="morphe_show_menu_icons_title">Hiện biểu tượng cài đặt YTritik</string>
   <string name="morphe_settings_menu_copy_path">Đã sao chép: %s</string>
-  <string name="morphe_language_title">Ngôn ngữ thiết lập Morphe</string>
+  <string name="morphe_language_title">Ngôn ngữ thiết lập YTritik</string>
   <string name="morphe_language_user_dialog_message">"Một số ngôn ngữ có thể bị thiếu hoặc chưa hoàn thiện.
 
 Bạn có thể yêu cầu thêm ngôn ngữ hoặc cải thiện bản dịch hiện tại bằng cách truy cập morphe.software/translate"</string>
   <string name="morphe_language_DEFAULT">Ngôn ngữ ứng dụng</string>
   <string name="morphe_pref_import_export_title">Nhập hoặc Xuất</string>
-  <string name="morphe_pref_import_export_summary">Nhập hoặc xuất các cài đặt Morphe</string>
+  <string name="morphe_pref_import_export_summary">Nhập hoặc xuất các cài đặt YTritik</string>
   <string name="morphe_settings_import_file">Nhập từ tệp</string>
   <string name="morphe_settings_import_file_success">Đã nhập cài đặt thành công, bấm Lưu để áp dụng</string>
   <string name="morphe_settings_import_file_failed">Không thể nhập cài đặt</string>
@@ -89,12 +89,12 @@ Bạn có thể yêu cầu thêm ngôn ngữ hoặc cải thiện bản dịch h
   <string name="morphe_debug_title">Bật ghi nhật ký gỡ lỗi</string>
   <string name="morphe_debug_stacktrace_title">Ghi nhật ký gỡ lỗi (Stack Trace)</string>
   <string name="morphe_debug_stacktrace_summary">Thêm stack trace vào nhật ký để dễ tìm nguyên nhân</string>
-  <string name="morphe_debug_toast_on_error_title">Hiện thông báo ngắn về lỗi Morphe</string>
-  <string name="morphe_debug_toast_on_error_user_dialog_message">"Tắt thông báo lỗi sẽ ẩn mọi thông báo lỗi từ Morphe.
+  <string name="morphe_debug_toast_on_error_title">Hiện thông báo ngắn về lỗi YTritik</string>
+  <string name="morphe_debug_toast_on_error_user_dialog_message">"Tắt thông báo lỗi sẽ ẩn mọi thông báo lỗi từ YTritik.
 
 Bạn sẽ không được thông báo khi xẩy ra lỗi bất ngờ."</string>
   <string name="morphe_debug_export_logs_title">Nhật ký gỡ lỗi</string>
-  <string name="morphe_debug_export_logs_summary">Xuất nhật ký gỡ lỗi của Morphe</string>
+  <string name="morphe_debug_export_logs_summary">Xuất nhật ký gỡ lỗi của YTritik</string>
   <string name="morphe_debug_export_logs_file">Xuất sang tệp</string>
   <string name="morphe_debug_export_logs_success">Xuất bản nhật ký gỡ lỗi thành công</string>
   <string name="morphe_debug_export_logs_failed">Không thể xuất nhật ký gỡ lỗi</string>

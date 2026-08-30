@@ -48,7 +48,7 @@ Second \"item\" text"</string>
   <string name="morphe_settings_search_empty_history_title">Hakuhistoria on tyhjä</string>
   <string name="morphe_settings_search_empty_history_summary">Tallennaaksesi hakuhistorian, kirjoita hakukysely ja paina Enter-näppäintä</string>
   <string name="morphe_settings_search_history_title">Näytä asetusten hakuhistoria</string>
-  <string name="morphe_show_menu_icons_title">Näytä Morphe-asetuskuvakkeet</string>
+  <string name="morphe_show_menu_icons_title">Näytä YTritik-asetuskuvakkeet</string>
   <string name="morphe_settings_menu_copy_path">Kopioitu: %s</string>
   <string name="morphe_language_title">YTritikn kieli</string>
   <string name="morphe_language_user_dialog_message">"Joidenkin kielten käännökset saattavat puuttua tai olla puutteellisia.
@@ -56,7 +56,7 @@ Second \"item\" text"</string>
 Kääntääksesi uusia kieliä tai parantaaksesi olemassa olevia käännöksiä, vieraile osoitteessa morphe.software/translate"</string>
   <string name="morphe_language_DEFAULT">Sovelluksen kieli</string>
   <string name="morphe_pref_import_export_title">Tuonti/vienti</string>
-  <string name="morphe_pref_import_export_summary">Tuo/vie Morphe-asetukset</string>
+  <string name="morphe_pref_import_export_summary">Tuo/vie YTritik-asetukset</string>
   <string name="morphe_settings_import_file">Tuo tiedostosta</string>
   <string name="morphe_settings_import_file_success">Asetusten tuonti onnistui, napauta Tallenna sovellettavaksi</string>
   <string name="morphe_settings_import_file_failed">Asetusten tuonti epäonnistui</string>
@@ -65,7 +65,7 @@ Kääntääksesi uusia kieliä tai parantaaksesi olemassa olevia käännöksiä,
   <string name="morphe_settings_export_file_failed">Asetusten vienti epäonnistui</string>
   <!-- String is also duplicated in Reddit about preference -->
   <string name="morphe_settings_about_links_body_version_current">Käytät uusinta YTritik Patchesin versiota &lt;i&gt;%s&lt;/i&gt;</string>
-  <string name="morphe_settings_about_links_body_version_outdated">Käytät YTritik Patchesin versiota &lt;i&gt;%1$s&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Päivitys saatavilla: &lt;i&gt;%2$s&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Päivittääksesi muokkaukset, käytä Morphea muokataksesi tämän sovelluksen uudelleen</string>
+  <string name="morphe_settings_about_links_body_version_outdated">Käytät YTritik Patchesin versiota &lt;i&gt;%1$s&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Päivitys saatavilla: &lt;i&gt;%2$s&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Päivittääksesi muokkaukset, käytä YTritika muokataksesi tämän sovelluksen uudelleen</string>
   <string name="morphe_settings_about_links_dev_header">Huomautus</string>
   <string name="morphe_settings_about_links_dev_body">Tämä versio on ennakkojulkaisuversio, joten voit kokea odottamattomia ongelmia</string>
   <string name="morphe_settings_about_links_header">Viralliset linkit</string>
@@ -89,8 +89,8 @@ Kääntääksesi uusia kieliä tai parantaaksesi olemassa olevia käännöksiä,
   <string name="morphe_debug_title">Ota virheenkorjauksen kirjaaminen käyttöön</string>
   <string name="morphe_debug_stacktrace_title">Vianetsintälokit sisältävät pinojäljet</string>
   <string name="morphe_debug_stacktrace_summary">Sisältää pinotiedot virheenkorjauslokitiedostoihin virheiden tunnistamisen helpottamiseksi</string>
-  <string name="morphe_debug_toast_on_error_title">Näytä toast-ilmoitus Morphen virhetilanteissa</string>
-  <string name="morphe_debug_toast_on_error_user_dialog_message">"Virheilmoitusten poistaminen käytöstä piilottaa kaikki Morphe-virheilmoitukset.
+  <string name="morphe_debug_toast_on_error_title">Näytä toast-ilmoitus YTritikn virhetilanteissa</string>
+  <string name="morphe_debug_toast_on_error_user_dialog_message">"Virheilmoitusten poistaminen käytöstä piilottaa kaikki YTritik-virheilmoitukset.
 
 Et saa ilmoituksia mistään odottamattomista tapahtumista."</string>
   <string name="morphe_debug_export_logs_title">Vie virheenkorjauslokit</string>

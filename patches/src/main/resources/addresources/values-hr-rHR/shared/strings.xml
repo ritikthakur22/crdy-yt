@@ -48,7 +48,7 @@ Second \"item\" text"</string>
   <string name="morphe_settings_search_empty_history_title">Povijest pretraživanja je prazna</string>
   <string name="morphe_settings_search_empty_history_summary">Za spremanje povijesti pretraživanja upišite upit za pretraživanje i pritisnite Enter</string>
   <string name="morphe_settings_search_history_title">Prikaži povijest pretraživanja postavki</string>
-  <string name="morphe_show_menu_icons_title">Prikaži ikone postavki Morphea</string>
+  <string name="morphe_show_menu_icons_title">Prikaži ikone postavki YTritika</string>
   <string name="morphe_settings_menu_copy_path">Kopirano: %s</string>
   <string name="morphe_language_title">YTritik jezik</string>
   <string name="morphe_language_user_dialog_message">"Prijevodi za neke jezike mogu nedostajati ili biti nepotpuni.

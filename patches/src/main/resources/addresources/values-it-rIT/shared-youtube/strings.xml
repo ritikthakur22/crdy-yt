@@ -69,7 +69,7 @@ Verifica che il nome del pacchetto sia corretto e che l'app sia installata"</str
   <string name="morphe_custom_branding_notification_icon_entry_1">Abbina all\'icona dell\'app</string>
   <string name="morphe_custom_branding_notification_icon_entry_3">YTritik play</string>
   <!-- misc.dns.checkWatchHistoryDomainNameResolutionPatch -->
-  <string name="morphe_check_watch_history_domain_name_dialog_title">Avviso Morphe</string>
+  <string name="morphe_check_watch_history_domain_name_dialog_title">Avviso YTritik</string>
   <string name="morphe_check_watch_history_domain_name_dialog_message">La tua cronologia di visualizzazione non sta venendo salvata.&lt;br&gt;&lt;br&gt;Questo è molto probabilmente causato da un blocco annunci DNS o da un proxy di rete.&lt;br&gt;&lt;br&gt;Per risolvere, inserisci nella whitelist &lt;b&gt;s.youtube.com&lt;/b&gt; o disattiva tutti i blocchi DNS e proxy.</string>
   <string name="morphe_check_watch_history_domain_name_dialog_ignore">Non mostrare più</string>
   <!-- misc.spoof.spoofVideoStreamsPatch -->

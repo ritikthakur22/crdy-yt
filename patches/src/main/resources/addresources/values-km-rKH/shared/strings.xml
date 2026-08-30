@@ -41,7 +41,7 @@ Second \"item\" text"</string>
   <string name="morphe_settings_search_empty_history_title">ប្រវត្តិស្វែងរក ទទេរ</string>
   <string name="morphe_language_DEFAULT">ភាសាកម្មវិធី</string>
   <string name="morphe_pref_import_export_title">នាំចូល / នាំចេញ</string>
-  <string name="morphe_pref_import_export_summary">ការកំណត់នាំចូល / នាំចេញរបស់ Morphe</string>
+  <string name="morphe_pref_import_export_summary">ការកំណត់នាំចូល / នាំចេញរបស់ YTritik</string>
   <!-- String is also duplicated in Reddit about preference -->
   <string name="morphe_settings_about_links_header">បញ្ជាប់ផ្លូវការ</string>
   <string name="morphe_settings_about_links_website">វេបសាយ</string>

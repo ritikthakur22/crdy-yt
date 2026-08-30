@@ -69,7 +69,7 @@ Ověřte, zda je název balíčku správný a zda je aplikace nainstalována"</s
   <string name="morphe_custom_branding_notification_icon_entry_1">Přizpůsob ikonu aplikace</string>
   <string name="morphe_custom_branding_notification_icon_entry_3">YTritik přehrávání</string>
   <!-- misc.dns.checkWatchHistoryDomainNameResolutionPatch -->
-  <string name="morphe_check_watch_history_domain_name_dialog_title">Upozornění Morphe</string>
+  <string name="morphe_check_watch_history_domain_name_dialog_title">Upozornění YTritik</string>
   <string name="morphe_check_watch_history_domain_name_dialog_message">Vaše historie sledování není ukládána.&lt;br&gt;&lt;br&gt;Toto je s největší pravděpodobností způsobeno blokátorem reklam DNS nebo síťovým proxy.&lt;br&gt;&lt;br&gt;Pro opravu toho přidejte na bílý seznam &lt;b&gt;s.youtube.com&lt;/b&gt; nebo vypněte všechny blokátory DNS a proxy.</string>
   <string name="morphe_check_watch_history_domain_name_dialog_ignore">Znovu nezobrazovat</string>
   <!-- misc.spoof.spoofVideoStreamsPatch -->

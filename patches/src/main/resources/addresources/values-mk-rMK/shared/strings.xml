@@ -48,14 +48,14 @@ Second \"item\" text"</string>
   <string name="morphe_settings_search_empty_history_title">Нема пронајдено историја на пребарување</string>
   <string name="morphe_settings_search_empty_history_summary">За да ја зачувате историјата на пребарување, откучете пребарувачка прашање и притиснете Enter</string>
   <string name="morphe_settings_search_history_title">Прикажи историја на пребарувања на поставки</string>
-  <string name="morphe_show_menu_icons_title">Прикажи икони за поставки Morphe</string>
-  <string name="morphe_language_title">Јазик на Morphe</string>
+  <string name="morphe_show_menu_icons_title">Прикажи икони за поставки YTritik</string>
+  <string name="morphe_language_title">Јазик на YTritik</string>
   <string name="morphe_language_user_dialog_message">"Преводи за некои јазици може да им недостигаат или да бидат нецелосни.
 
 За да преведете нови јазици или да ги подобрите постоечките преводи, посетете morphe.software/translate"</string>
   <string name="morphe_language_DEFAULT">Јазик на апликацијата</string>
   <string name="morphe_pref_import_export_title">Импорт / Експорт</string>
-  <string name="morphe_pref_import_export_summary">Импорт / Експорт на поставки Morphe</string>
+  <string name="morphe_pref_import_export_summary">Импорт / Експорт на поставки YTritik</string>
   <string name="morphe_settings_import_file">Импортирај од датотека</string>
   <string name="morphe_settings_import_file_success">Поставките се импортирани успешно, допрете Зачувај за да ги примените</string>
   <string name="morphe_settings_import_file_failed">Импортирањето на поставките не успеа</string>
@@ -87,12 +87,12 @@ Second \"item\" text"</string>
   <string name="morphe_debug_title">Овозможете завршување на завршување</string>
   <string name="morphe_debug_stacktrace_title">Дебугирај го тракот од позиција во скок</string>
   <string name="morphe_debug_stacktrace_summary">Вклучува завршни завршни завршни завршни завршни зафати за завршни зафати</string>
-  <string name="morphe_debug_toast_on_error_title">Прикажи тост при грешка во Morphe</string>
-  <string name="morphe_debug_toast_on_error_user_dialog_message">"Исклучувањето на пораките за грешка во тост ги крие сите известувања за грешки во Morphe.
+  <string name="morphe_debug_toast_on_error_title">Прикажи тост при грешка во YTritik</string>
+  <string name="morphe_debug_toast_on_error_user_dialog_message">"Исклучувањето на пораките за грешка во тост ги крие сите известувања за грешки во YTritik.
 
 Не ќе бидете известени за какви било неочекувани настани."</string>
   <string name="morphe_debug_export_logs_title">Извези ги завршните поруки за грешки</string>
-  <string name="morphe_debug_export_logs_summary">Извези завршни поруки за грешки од Morphe</string>
+  <string name="morphe_debug_export_logs_summary">Извези завршни поруки за грешки од YTritik</string>
   <string name="morphe_debug_export_logs_file">Извези во датотека</string>
   <string name="morphe_debug_export_logs_success">Завршни поруки за грешки се извезони успешно</string>
   <string name="morphe_debug_export_logs_failed">Неуспешно извезување на завршни поруки за грешки</string>

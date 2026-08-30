@@ -17,7 +17,7 @@ Second \"item\" text"</string>
 -->
 <resources>
   <!-- misc.settings.settingsPatch -->
-  <!-- In languages where "About" is ambiguous, translate this as "About Morphe" (i.e., About this app). -->
+  <!-- In languages where "About" is ambiguous, translate this as "About YTritik" (i.e., About this app). -->
   <string name="morphe_settings_screen_00_about_title">Om</string>
   <string name="morphe_settings_screen_01_ads_title">Annoncer</string>
   <string name="morphe_settings_screen_02_alt_thumbnails_title">Alternative miniaturebilleder</string>
@@ -454,13 +454,13 @@ Info: Virker muligvis ikke på live streams"</string>
   <string name="morphe_save_to_watch_later_success_toast">Video gemt i afspilningsliste til senere</string>
   <string name="morphe_save_to_watch_later_already_exists_toast">Denne video er allerede gemt i afspilningslisten til senere</string>
   <string name="morphe_save_to_watch_later_error_toast">Kunne ikke gemme denne video i afspilningslisten til senere</string>
-  <string name="morphe_queue_flyout_title">Tilføj til Morphe-kø</string>
+  <string name="morphe_queue_flyout_title">Tilføj til YTritik-kø</string>
   <string name="morphe_queue_restore_title">Behold køen mellem sessioner</string>
   <string name="morphe_queue_restore_summary">Køen bevares efter genstart af appen</string>
   <string name="morphe_swap_save_and_queue_actions_title">Byt rundt på Gem og Kø-handlinger</string>
   <string name="morphe_swap_save_and_queue_actions_summary">Tryk for køindstillinger, tryk og hold for at gemme til senere</string>
   <string name="morphe_queue_override_flyout_menu_title">Erstat feed flyout kø-knap</string>
-  <string name="morphe_queue_override_flyout_menu_summary">Åbner Morphe-køen i stedet for YouTube-køen</string>
+  <string name="morphe_queue_override_flyout_menu_summary">Åbner YTritik-køen i stedet for YouTube-køen</string>
   <string name="morphe_queue_add_flyout_menu_title">Tilføj feed-flyout-kø-menupunkt</string>
   <string name="morphe_queue_add_flyout_menu_summary">Tilføjer et ekstra flyout-element. Aktiver dette, hvis \"Tilføj til kø\" ikke vises.</string>
   <string name="morphe_queue_manager_check_failed_auth">Ikke logget ind</string>
@@ -624,7 +624,7 @@ For at rette dette skal du slå 'Spoof video streams' til og skifte 'Standardkli
   <string name="morphe_hide_quick_actions_more_button_title">Skjul Søge knap</string>
   <string name="morphe_hide_quick_actions_more_videos_button_title">Vis Indstillinger knap</string>
   <string name="morphe_hide_quick_actions_playlist_button_title">Indstillinger knap position</string>
-  <string name="morphe_hide_quick_actions_save_button_title">Når den er aktiveret, åbner tryk Morphe-indstillinger og langt tryk åbner YouTube-indstillinger, deaktiver for at bytte</string>
+  <string name="morphe_hide_quick_actions_save_button_title">Når den er aktiveret, åbner tryk YTritik-indstillinger og langt tryk åbner YouTube-indstillinger, deaktiver for at bytte</string>
   <string name="morphe_hide_quick_actions_share_button_title">Skjul knappen Del</string>
   <string name="morphe_quick_actions_top_margin_title">Hurtig handlingers øverste margen</string>
   <string name="morphe_quick_actions_top_margin_summary">Indstil den øverste margen for værktøjslinjen med hurtige handlinger (0-32 dp)</string>
@@ -670,7 +670,7 @@ For at rette dette skal du slå 'Spoof video streams' til og skifte 'Standardkli
   <string name="morphe_show_settings_button_title">Vis Indstillinger-knappen</string>
   <string name="morphe_show_settings_button_index_title">Indstillinger-knappens position</string>
   <string name="morphe_show_settings_button_type_title">Indstillinger-knappen vises</string>
-  <string name="morphe_show_settings_button_type_summary">Åbner Morphe-indstillinger, når den er aktiveret, eller YouTube-indstillinger, når den er deaktiveret</string>
+  <string name="morphe_show_settings_button_type_summary">Åbner YTritik-indstillinger, når den er aktiveret, eller YouTube-indstillinger, når den er deaktiveret</string>
   <string name="morphe_swap_create_with_notifications_button_title">Byt Opret-knap med Notifikationsknap</string>
   <string name="morphe_swap_create_with_notifications_button_summary">Hvis ændringen af denne indstilling ikke virker, prøv at skifte til Incognito-tilstand</string>
   <string name="morphe_hide_navigation_button_labels_title">Skjul navigationsknappers tekst</string>
@@ -697,7 +697,7 @@ For at få adgang til Indstillinger skal du aktivere knappen Indstillinger via G
   <string name="morphe_show_toolbar_settings_button_title">Vis Indstillinger-knappen</string>
   <string name="morphe_show_toolbar_settings_button_index_title">Indstillinger-knappens position</string>
   <string name="morphe_show_toolbar_settings_button_type_title">Indstillingsknappen vises</string>
-  <string name="morphe_show_toolbar_settings_button_type_summary">Når den er aktiveret, åbner et tryk Morphe-indstillinger og et langt tryk åbner YouTube-indstillinger, deaktiver for at ombytte</string>
+  <string name="morphe_show_toolbar_settings_button_type_summary">Når den er aktiveret, åbner et tryk YTritik-indstillinger og et langt tryk åbner YouTube-indstillinger, deaktiver for at ombytte</string>
   <!-- layout.hide.player.flyoutmenupanel.hidePlayerFlyoutMenuPatch -->
   <string name="morphe_hide_player_flyout_title">Udfyldningsmenu</string>
   <string name="morphe_hide_player_flyout_summary">Vælg, hvilke komponenter der vises i flyout-menuen</string>
