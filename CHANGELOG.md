@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/ritikthakur22/morphe-patches/compare/v1.0.2...v1.0.3) (2026-08-30)
+
+### 🐛 Bug Fixes
+
+* force custom branding on root launcher activity and set default header to custom ([891d20e](https://github.com/ritikthakur22/morphe-patches/commit/891d20e5ab8b39c08ec56dd4a0d6e7ce1ca271cd))
+* resolve compile error in BaseCustomBrandingPatch ([41a433e](https://github.com/ritikthakur22/morphe-patches/commit/41a433e32980dee27a3b9050381fc998922ec726))
+
 ## [1.0.2](https://github.com/ritikthakur22/morphe-patches/compare/v1.0.1...v1.0.2) (2026-08-30)
 
 ### 🐛 Bug Fixes
