@@ -1,3 +1,9 @@
+## [1.1.1](https://github.com/ritikthakur22/morphe-patches/compare/v1.1.0...v1.1.1) (2026-08-30)
+
+### 🐛 Bug Fixes
+
+* restore missing header pngs for all dpi folders ([1f9ba01](https://github.com/ritikthakur22/morphe-patches/commit/1f9ba01adc8e76f94f3874391868f9c66f646a0d))
+
 ## [1.1.0](https://github.com/ritikthakur22/morphe-patches/compare/v1.0.4...v1.1.0) (2026-08-30)
 
 ### ✨ New Features
