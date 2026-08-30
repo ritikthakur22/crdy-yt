@@ -1,3 +1,9 @@
+## [1.0.2](https://github.com/ritikthakur22/morphe-patches/compare/v1.0.1...v1.0.2) (2026-08-30)
+
+### 🐛 Bug Fixes
+
+* disable update checker and force custom branding on root ([6538b8a](https://github.com/ritikthakur22/morphe-patches/commit/6538b8a5d75687bd128d209698156d0896dff622))
+
 ## [1.0.1](https://github.com/ritikthakur22/morphe-patches/compare/v1.0.0...v1.0.1) (2026-08-30)
 
 ### 🐛 Bug Fixes
