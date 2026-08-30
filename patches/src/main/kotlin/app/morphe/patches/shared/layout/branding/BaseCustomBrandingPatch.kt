@@ -304,6 +304,7 @@ internal fun baseCustomBrandingPatch(
                 )
             )
         }
+        copyResources("custom-branding", ResourceGroup("mipmap-xxxhdpi", "morphe_custom_app_logo.png"))
 
         copyResources(
             "custom-branding",
@@ -398,11 +399,11 @@ internal fun baseCustomBrandingPatch(
             if (true) {
                 application.setAttribute(
                     "android:icon",
-                    "@drawable/morphe_custom_app_logo"
+                    "@mipmap/morphe_custom_app_logo"
                 )
                 application.setAttribute(
                     "android:roundIcon",
-                    "@drawable/morphe_custom_app_logo"
+                    "@mipmap/morphe_custom_app_logo"
                 )
                 
                 // Also overwrite the original activity's icon and label directly!
@@ -411,8 +412,8 @@ internal fun baseCustomBrandingPatch(
                     activityAliasNameWithIntents
                 ) as? org.w3c.dom.Element
                 if (originalActivity != null) {
-                    originalActivity.setAttribute("android:icon", "@drawable/morphe_custom_app_logo")
-                    originalActivity.setAttribute("android:roundIcon", "@drawable/morphe_custom_app_logo")
+                    originalActivity.setAttribute("android:icon", "@mipmap/morphe_custom_app_logo")
+                    originalActivity.setAttribute("android:roundIcon", "@mipmap/morphe_custom_app_logo")
                     originalActivity.setAttribute("android:label", "YTritik")
                 }
             }
