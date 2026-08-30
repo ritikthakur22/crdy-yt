@@ -1,3 +1,9 @@
+## [1.1.2](https://github.com/ritikthakur22/morphe-patches/compare/v1.1.1...v1.1.2) (2026-08-30)
+
+### 🐛 Bug Fixes
+
+* correctly include custom app logo via custom-branding mipmap ([3ee1cc7](https://github.com/ritikthakur22/morphe-patches/commit/3ee1cc739fd188b002eeb0b67624a7ea40dcaaee))
+
 ## [1.1.1](https://github.com/ritikthakur22/morphe-patches/compare/v1.1.0...v1.1.1) (2026-08-30)
 
 ### 🐛 Bug Fixes
