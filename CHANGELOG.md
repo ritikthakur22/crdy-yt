@@ -1,3 +1,10 @@
+## 1.0.0 (2026-08-30)
+
+### 🐛 Bug Fixes
+
+* publish release ([f1c9989](https://github.com/ritikthakur22/morphe-patches/commit/f1c9989f886e5f3eaa83d0dd37c65c33ed28a6d6))
+* resolve unreachable statement in AboutRoutes ([7b417cb](https://github.com/ritikthakur22/morphe-patches/commit/7b417cb16d514b63e6eb27a5da69920c217bf6f5))
+
 ## [1.40.0](https://github.com/MorpheApp/morphe-patches/compare/v1.39.1...v1.40.0) (2026-08-24)
 
 ### 🐛 Bug Fixes
