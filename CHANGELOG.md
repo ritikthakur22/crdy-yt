@@ -1,3 +1,9 @@
+## [1.1.0](https://github.com/ritikthakur22/morphe-patches/compare/v1.0.4...v1.1.0) (2026-08-30)
+
+### ✨ New Features
+
+* complete YTritik rebranding for UI and launcher ([40e624d](https://github.com/ritikthakur22/morphe-patches/commit/40e624d04aa164f094db1ed38b3a1f6e580a71ea))
+
 ## [1.0.4](https://github.com/ritikthakur22/morphe-patches/compare/v1.0.3...v1.0.4) (2026-08-30)
 
 ### 🐛 Bug Fixes
