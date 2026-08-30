@@ -100,61 +100,6 @@ class AboutRoutes {
     }
 
     static List<MorpheAboutPreference.WebLink> fetchAboutLinks() {
-        try {
-            return NO_CONNECTION_STATIC_LINKS;
-
-            // Check if there is no internet connection.
-            if (!Utils.isNetworkConnected()) return NO_CONNECTION_STATIC_LINKS;
-
-            HttpURLConnection connection = Requester.getConnectionFromCompiledRoute(API_URL, API_ROUTE_ABOUT);
-            connection.setConnectTimeout(5000);
-            connection.setReadTimeout(5000);
-            Logger.printDebug(() -> "Fetching social links from: " + connection.getURL());
-
-
-            // Do not show an exception toast if the server is down
-            final int responseCode = connection.getResponseCode();
-            if (responseCode != 200) {
-                Logger.printDebug(() -> "Failed to get about information. Response code: " + responseCode);
-                return NO_CONNECTION_STATIC_LINKS;
-            }
-
-            JSONObject json = Requester.parseJSONObjectAndDisconnect(connection);
-
-            aboutLogoUrl = json.getJSONObject("branding").getString("logo");
-
-            List<MorpheAboutPreference.WebLink> links = new ArrayList<>();
-
-            JSONArray donations = json.getJSONObject("donations").getJSONArray("links");
-            for (int i = 0, length = donations.length(); i < length; i++) {
-                MorpheAboutPreference.WebLink link = new MorpheAboutPreference.WebLink(donations.getJSONObject(i));
-                if (link.preferred) {
-                    links.add(link);
-                }
-            }
-
-            JSONArray socials = json.getJSONArray("socials");
-            for (int i = 0, length = socials.length(); i < length; i++) {
-                MorpheAboutPreference.WebLink link = new MorpheAboutPreference.WebLink(socials.getJSONObject(i));
-
-                links.add(link);
-            }
-
-            // Add credits link.
-            links.add(MorpheAboutPreference.CREDITS_LINK);
-
-            Logger.printDebug(() -> "links: " + links);
-
-            return fetchedLinks = links;
-
-        } catch (SocketTimeoutException ex) {
-            Logger.printInfo(() -> "Could not fetch about information", ex); // No toast.
-        } catch (JSONException ex) {
-            Logger.printException(() -> "Could not parse about information", ex);
-        } catch (Exception ex) {
-            Logger.printException(() -> "Failed to get about information", ex);
-        }
-
         return NO_CONNECTION_STATIC_LINKS;
     }
 }
