@@ -1,3 +1,9 @@
+## [1.0.1](https://github.com/ritikthakur22/morphe-patches/compare/v1.0.0...v1.0.1) (2026-08-30)
+
+### 🐛 Bug Fixes
+
+* restore change header xmls ([7eefe06](https://github.com/ritikthakur22/morphe-patches/commit/7eefe0614be673b2a6f168b0e934ddcbf6526e8d))
+
 ## 1.0.0 (2026-08-30)
 
 ### 🐛 Bug Fixes

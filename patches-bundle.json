@@ -1,7 +1,7 @@
 {
-  "created_at": "2026-08-30T03:28:24",
-  "description": "## 1.0.0 (2026-08-30)\n\n### 🐛 Bug Fixes\n\n* publish release ([f1c9989](https://github.com/ritikthakur22/morphe-patches/commit/f1c9989f886e5f3eaa83d0dd37c65c33ed28a6d6))\n* resolve unreachable statement in AboutRoutes ([7b417cb](https://github.com/ritikthakur22/morphe-patches/commit/7b417cb16d514b63e6eb27a5da69920c217bf6f5))",
-  "download_url": "https://github.com/ritikthakur22/morphe-patches/releases/download/v1.0.0/patches-1.0.0.mpp",
+  "created_at": "2026-08-30T03:44:22",
+  "description": "## [1.0.1](https://github.com/ritikthakur22/morphe-patches/compare/v1.0.0...v1.0.1) (2026-08-30)\n\n### 🐛 Bug Fixes\n\n* restore change header xmls ([7eefe06](https://github.com/ritikthakur22/morphe-patches/commit/7eefe0614be673b2a6f168b0e934ddcbf6526e8d))",
+  "download_url": "https://github.com/ritikthakur22/morphe-patches/releases/download/v1.0.1/patches-1.0.1.mpp",
   "signature_download_url": "",
-  "version": "1.0.0"
+  "version": "1.0.1"
 }
