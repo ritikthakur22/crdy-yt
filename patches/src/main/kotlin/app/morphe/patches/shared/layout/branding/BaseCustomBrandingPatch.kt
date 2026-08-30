@@ -481,7 +481,7 @@ internal fun baseCustomBrandingPatch(
 
         // Copy custom icons last, so if the user enters an invalid icon path
         // and an exception is thrown then the critical manifest changes are still made.
-        if (true) {
+        if (useCustomIcon) {
             // Copy user provided files
             val iconPathFile = File(customIcon!!.trim())
 
