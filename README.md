@@ -3,7 +3,7 @@
 # 🧩 CRDY Patches
 
 [![License: GPL-3.0](https://img.shields.io/badge/License-GPL--3.0-blue.svg)](LICENSE)
-[![Latest Release](https://img.shields.io/github/v/release/ritikthakur22/morphe-patches?color=green&label=Release)](https://github.com/ritikthakur22/morphe-patches/releases)
+[![Latest Release](https://img.shields.io/github/v/release/ritikthakur22/crdy-yt?color=green&label=Release)](https://github.com/ritikthakur22/crdy-yt/releases)
 [![Maintainer](https://img.shields.io/badge/Maintainer-Ritik%20Thakur-blue.svg)](https://github.com/ritikthakur22)
 [![Website](https://img.shields.io/badge/Website-ritikthakur.com.np-orange.svg)](https://ritikthakur.com.np)
 [![Telegram](https://img.shields.io/badge/Telegram-@ritik7094-2CA5E0?logo=telegram&logoColor=white)](https://t.me/ritik7094)
@@ -24,7 +24,7 @@ All modifications, releases, and changelogs are publicly maintained in this repo
 ## 🩹 Patches list
 
 <!-- PATCHES_START -->
-> **[v1.1.2](https://github.com/ritikthakur22/morphe-patches/releases/tag/v1.1.2)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;136 patches total
+> **[v1.1.2](https://github.com/ritikthakur22/crdy-yt/releases/tag/v1.1.2)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;136 patches total
 <details>
 <summary>📦 YouTube&nbsp;&nbsp;•&nbsp;&nbsp;75 patches</summary>
 <br>
